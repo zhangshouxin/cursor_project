@@ -1,0 +1,875 @@
+- generic [active] [ref=f6e1]:
+  - generic [ref=f6e3]:
+    - generic [ref=f6e4]:
+      - generic [ref=f6e8]:
+        - heading "生产业务管控系统" [level=2] [ref=f6e9]
+        - paragraph [ref=f6e11]: 安全可靠 · 绿色智能 · 高效服务
+      - generic [ref=f6e12]:
+        - generic [ref=f6e14] [cursor=pointer]:
+          - generic [ref=f6e15]:
+            - generic [ref=f6e16]: 管**
+            - generic [ref=f6e17]: 渝电质检
+          - generic [ref=f6e18]: 
+        - generic [ref=f6e20] [cursor=pointer]: 
+    - generic [ref=f6e22]:
+      - generic [ref=f6e23]:
+        - text: 
+        - generic [ref=f6e24]:
+          - generic [ref=f6e25]:
+            - generic [ref=f6e26]: 
+            - heading "应用导航" [level=3] [ref=f6e27]
+          - generic "折叠/展开" [ref=f6e29] [cursor=pointer]: 
+        - generic [ref=f6e32]:
+          - generic: 
+          - textbox "搜索应用..." [ref=f6e33]
+        - generic [ref=f6e34]:
+          - generic [ref=f6e35]:
+            - generic [ref=f6e36] [cursor=pointer]:
+              - generic [ref=f6e37]: 
+              - generic [ref=f6e39]: 任务管理
+              - generic [ref=f6e40]: 
+            - text:   
+          - generic [ref=f6e41]:
+            - generic [ref=f6e42] [cursor=pointer]:
+              - generic [ref=f6e43]: 
+              - generic [ref=f6e45]: 市场营销
+              - generic [ref=f6e46]: 
+            - text:               
+          - generic [ref=f6e47]:
+            - generic [ref=f6e48] [cursor=pointer]:
+              - generic [ref=f6e49]: 
+              - generic [ref=f6e51]: 检验检测
+              - generic [ref=f6e52]: 
+            - generic [ref=f6e348]:
+              - generic [ref=f6e349] [cursor=pointer]:
+                - generic [ref=f6e350]: 
+                - generic [ref=f6e351]: 待处理合同
+              - generic [ref=f6e352] [cursor=pointer]:
+                - generic [ref=f6e353]: 
+                - generic [ref=f6e354]: 带电检测
+              - generic [ref=f6e355] [cursor=pointer]:
+                - generic [ref=f6e356]: 
+                - generic [ref=f6e357]: X光探伤检测
+              - generic [ref=f6e358] [cursor=pointer]:
+                - generic [ref=f6e359]: 
+                - generic [ref=f6e360]: 仪器仪表校准
+              - generic [ref=f6e361] [cursor=pointer]:
+                - generic [ref=f6e362]: 
+                - generic [ref=f6e363]: 电源侧检测
+              - generic [ref=f6e364] [cursor=pointer]:
+                - generic [ref=f6e365]: 
+                - generic [ref=f6e366]: 工作台账
+              - generic [ref=f6e367] [cursor=pointer]:
+                - generic [ref=f6e368]: 
+                - generic [ref=f6e369]: 节能变及成盘
+              - generic [ref=f6e370] [cursor=pointer]:
+                - generic [ref=f6e371]: 
+                - generic [ref=f6e372]: 工单删除恢复
+              - generic [ref=f6e373] [cursor=pointer]:
+                - generic [ref=f6e374]: 
+                - generic [ref=f6e375]: 油色谱维保
+              - generic [ref=f6e376] [cursor=pointer]:
+                - generic [ref=f6e377]: 
+                - generic [ref=f6e378]: 工单总量
+              - generic [ref=f6e379] [cursor=pointer]:
+                - generic [ref=f6e380]: 
+                - generic [ref=f6e381]: 技术监督
+              - generic [ref=f6e382] [cursor=pointer]:
+                - generic [ref=f6e383]: 
+                - generic [ref=f6e384]: 电能质量
+              - generic [ref=f6e385] [cursor=pointer]:
+                - generic [ref=f6e386]: 
+                - generic [ref=f6e387]: 客户工程
+              - generic [ref=f6e388] [cursor=pointer]:
+                - generic [ref=f6e389]: 
+                - generic [ref=f6e390]: 安全工器具
+              - generic [ref=f6e391] [cursor=pointer]:
+                - generic [ref=f6e392]: 
+                - generic [ref=f6e393]: 充电桩检测
+              - generic [ref=f6e394]:
+                - generic [ref=f6e395] [cursor=pointer]:
+                  - generic [ref=f6e396]: 
+                  - generic [ref=f6e397]: 施工机具
+                  - generic [ref=f6e398]: 
+                - text:      
+              - generic [ref=f6e399]:
+                - generic [ref=f6e400] [cursor=pointer]:
+                  - generic [ref=f6e401]: 
+                  - generic [ref=f6e402]: 带电作业工器具
+                  - generic [ref=f6e403]: 
+                - text:   
+              - generic [ref=f6e404]:
+                - generic [ref=f6e405] [cursor=pointer]:
+                  - generic [ref=f6e406]: 
+                  - generic [ref=f6e407]: 消防检测
+                  - generic [ref=f6e408]: 
+                - generic [ref=f6e423]:
+                  - generic [ref=f6e424] [cursor=pointer]:
+                    - generic [ref=f6e425]: 
+                    - generic [ref=f6e426]: 消防客户详情
+                  - generic [ref=f6e427] [cursor=pointer]:
+                    - generic [ref=f6e428]: 
+                    - generic [ref=f6e429]: 消防统计报表
+                  - generic [ref=f6e430] [cursor=pointer]:
+                    - generic [ref=f6e431]: 
+                    - generic [ref=f6e432]: 问题清单台账
+                  - generic [ref=f6e433] [cursor=pointer]:
+                    - generic [ref=f6e434]: 
+                    - generic [ref=f6e435]: 消防常见问题
+                  - generic [ref=f6e436] [cursor=pointer]:
+                    - generic [ref=f6e437]: 
+                    - generic [ref=f6e438]: 消防检测评估
+              - generic [ref=f6e409]:
+                - generic [ref=f6e410] [cursor=pointer]:
+                  - generic [ref=f6e411]: 
+                  - generic [ref=f6e412]: 输变电工程old
+                  - generic [ref=f6e413]: 
+                - text:  
+              - generic [ref=f6e414]:
+                - generic [ref=f6e415] [cursor=pointer]:
+                  - generic [ref=f6e416]: 
+                  - generic [ref=f6e417]: 配网检测
+                  - generic [ref=f6e418]: 
+                - text:      
+              - generic [ref=f6e419]:
+                - generic [ref=f6e420] [cursor=pointer]:
+                  - generic [ref=f6e421]: 输变电工程
+                  - generic [ref=f6e422]: 
+                - text:  
+          - generic [ref=f6e53]:
+            - generic [ref=f6e54] [cursor=pointer]:
+              - generic [ref=f6e55]: 
+              - generic [ref=f6e57]: 报告管理
+              - generic [ref=f6e58]: 
+            - text:                 
+          - generic [ref=f6e59]:
+            - generic [ref=f6e60] [cursor=pointer]:
+              - generic [ref=f6e61]: 
+              - generic [ref=f6e63]: 财务管理
+              - generic [ref=f6e64]: 
+            - text:          
+          - generic [ref=f6e65]:
+            - generic [ref=f6e66] [cursor=pointer]:
+              - generic [ref=f6e67]: 
+              - generic [ref=f6e69]: 设备管理
+              - generic [ref=f6e70]: 
+            - text: 
+          - generic [ref=f6e71]:
+            - generic [ref=f6e72] [cursor=pointer]:
+              - generic [ref=f6e73]: 
+              - generic [ref=f6e75]: 统计管理
+              - generic [ref=f6e76]: 
+            - text:              
+          - generic [ref=f6e77]:
+            - generic [ref=f6e78] [cursor=pointer]:
+              - generic [ref=f6e79]: 
+              - generic [ref=f6e81]: 平台管理
+              - generic [ref=f6e82]: 
+            - text:              
+          - generic [ref=f6e83]:
+            - generic [ref=f6e84] [cursor=pointer]:
+              - generic [ref=f6e85]: 
+              - generic [ref=f6e87]: 参数配置
+              - generic [ref=f6e88]: 
+            - text:               
+          - generic [ref=f6e89]:
+            - generic [ref=f6e90] [cursor=pointer]:
+              - generic [ref=f6e91]: 
+              - generic [ref=f6e93]: 大屏展示
+              - generic [ref=f6e94]: 
+            - text: 
+      - generic [ref=f6e95]:
+        - tablist [ref=f6e96]:
+          - listitem [ref=f6e439] [cursor=pointer]:
+            - generic [ref=f6e441]:
+              - generic [aria-hidden] [ref=f6e442]: 
+              - text: 首页
+          - listitem [ref=f6e443] [cursor=pointer]:
+            - generic [ref=f6e444]:
+              - button "关闭" [ref=f6e446]: 
+              - generic [ref=f6e447]:
+                - generic [aria-hidden] [ref=f6e448]: 
+                - text: 工作台账
+        - generic [ref=f6e101]:
+          - text:      
+          - tabpanel [ref=f6e449]:
+            - generic [ref=f6e451]:
+              - generic [ref=f6e452]:
+                - table [ref=f6e454]:
+                  - rowgroup [ref=f6e485]:
+                    - row [ref=f6e486]:
+                      - columnheader [ref=f6e487]:
+                        - generic [ref=f6e488]: 序号 
+                      - columnheader [ref=f6e489]:
+                        - generic [ref=f6e490] [cursor=pointer]: 合同编号 
+                      - columnheader [ref=f6e491]:
+                        - generic [ref=f6e492] [cursor=pointer]: 委托单位 
+                      - columnheader [ref=f6e493]:
+                        - generic [ref=f6e494] [cursor=pointer]: 委托单位联系人 
+                      - columnheader [ref=f6e495]:
+                        - generic [ref=f6e496] [cursor=pointer]: 联系人电话 
+                      - columnheader [ref=f6e497]:
+                        - generic [ref=f6e498] [cursor=pointer]: 中心/分公司 
+                      - columnheader [ref=f6e499]:
+                        - generic [ref=f6e500] [cursor=pointer]: 业务分类 
+                      - columnheader [ref=f6e501]:
+                        - generic [ref=f6e502] [cursor=pointer]: 场所名称/工程名称 
+                      - columnheader [ref=f6e503]:
+                        - generic [ref=f6e504] [cursor=pointer]: 查勘时间 
+                      - columnheader [ref=f6e505]:
+                        - generic [ref=f6e506] [cursor=pointer]: 查勘人负责人 
+                      - columnheader [ref=f6e507]:
+                        - generic [ref=f6e508] [cursor=pointer]: 查勘班组人员 
+                      - columnheader [ref=f6e509]:
+                        - generic [ref=f6e510] [cursor=pointer]: 三措一案编制人 
+                      - columnheader [ref=f6e511]:
+                        - generic [ref=f6e512] [cursor=pointer]: 备案时间 
+                      - columnheader [ref=f6e513]:
+                        - generic [ref=f6e514] [cursor=pointer]: 作业风险等级 
+                      - columnheader [ref=f6e515]:
+                        - generic [ref=f6e516] [cursor=pointer]: 计划开始时间 
+                      - columnheader [ref=f6e517]:
+                        - generic [ref=f6e518] [cursor=pointer]: 计划结束时间 
+                      - columnheader [ref=f6e519]:
+                        - generic [ref=f6e520] [cursor=pointer]: 实际开始时间 
+                      - columnheader [ref=f6e521]:
+                        - generic [ref=f6e522] [cursor=pointer]: 实际结束时间 
+                      - columnheader [ref=f6e523]:
+                        - generic [ref=f6e524] [cursor=pointer]: 工作负责人 
+                      - columnheader [ref=f6e525]:
+                        - generic [ref=f6e526] [cursor=pointer]: 工作班成员 
+                      - columnheader [ref=f6e527]:
+                        - generic [ref=f6e528] [cursor=pointer]: 工作票编号 
+                      - columnheader [ref=f6e529]:
+                        - generic [ref=f6e530] [cursor=pointer]: 工作明细 
+                      - columnheader [ref=f6e531]:
+                        - generic [ref=f6e532] [cursor=pointer]: 工作数量 
+                      - columnheader [ref=f6e533]:
+                        - generic [ref=f6e534] [cursor=pointer]: 完成比例 
+                      - columnheader [ref=f6e535]:
+                        - generic [ref=f6e536] [cursor=pointer]: 报告编号 
+                      - columnheader [ref=f6e537]:
+                        - generic [ref=f6e538] [cursor=pointer]: 报告出具时间 
+                      - columnheader [ref=f6e539]:
+                        - generic [ref=f6e540] [cursor=pointer]: 工作状态 
+                      - columnheader [ref=f6e541]:
+                        - generic [ref=f6e542] [cursor=pointer]: 备注 
+                      - columnheader [ref=f6e543]
+                - generic [ref=f6e544]:
+                  - table [ref=f6e545]:
+                    - rowgroup [ref=f6e575]:
+                      - row [ref=f6e576]:
+                        - cell "1" [ref=f6e577] [cursor=pointer]
+                        - cell "SGCQCS00WZJS2600275" [ref=f6e579] [cursor=pointer]
+                        - cell "国网重庆市电力公司长寿供电分公司" [ref=f6e581] [cursor=pointer]
+                        - cell "田静" [ref=f6e583] [cursor=pointer]
+                        - cell "13883817099" [ref=f6e585] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e587] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e589] [cursor=pointer]
+                        - cell "2025HD1202-1#[外]长寿区凤城街道滨江社区三倒拐片区老旧小区城市基础设施更新改造项目(和平街电力工程)" [ref=f6e591] [cursor=pointer]
+                        - cell "2026.01.05" [ref=f6e593] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e595] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e597] [cursor=pointer]
+                        - cell "无" [ref=f6e599] [cursor=pointer]
+                        - cell "无" [ref=f6e601] [cursor=pointer]
+                        - cell "五级" [ref=f6e603] [cursor=pointer]
+                        - cell "2026.01.05" [ref=f6e605] [cursor=pointer]
+                        - cell "2026.01.05" [ref=f6e607] [cursor=pointer]
+                        - cell "2026.01.05" [ref=f6e609] [cursor=pointer]
+                        - cell "2026.01.05" [ref=f6e611] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e613] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e615] [cursor=pointer]
+                        - cell "YDZTKH20260105-01" [ref=f6e617] [cursor=pointer]
+                        - cell "1台环网箱：铜排尺寸材质检测、主回路电阻测量、柜体尺寸、厚度、材质检测" [ref=f6e619] [cursor=pointer]
+                        - cell "1" [ref=f6e621] [cursor=pointer]
+                        - cell "1.00" [ref=f6e623] [cursor=pointer]
+                        - cell "YDZTKH20260105-01" [ref=f6e625] [cursor=pointer]
+                        - cell "2026.01.06" [ref=f6e627] [cursor=pointer]
+                        - cell "可结算" [ref=f6e629] [cursor=pointer]
+                        - cell / [ref=f6e631] [cursor=pointer]
+                      - row [ref=f6e633]:
+                        - cell "2" [ref=f6e634] [cursor=pointer]
+                        - cell "SGCQCS00WZJS2600275" [ref=f6e636] [cursor=pointer]
+                        - cell "国网重庆市电力公司长寿供电分公司" [ref=f6e638] [cursor=pointer]
+                        - cell "田静" [ref=f6e640] [cursor=pointer]
+                        - cell "13883817099" [ref=f6e642] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e644] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e646] [cursor=pointer]
+                        - cell "2025HD1202-2#外]长寿区凤城街道滨江社区三倒拐片区老旧小区城市基础设施更新改造项目(三倒拐电力工程)、2025HD1225-1#外三倒拐历史文化街区保护提升过渡保电工程、2025HD1202-3#外三倒拐历史文化街区保护提升改造工程(电力工程)街区保护提升改造工程(电力工程)" [ref=f6e648] [cursor=pointer]
+                        - cell "2026.04.07" [ref=f6e650] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e652] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e654] [cursor=pointer]
+                        - cell "无" [ref=f6e656] [cursor=pointer]
+                        - cell "无" [ref=f6e658] [cursor=pointer]
+                        - cell "五级" [ref=f6e660] [cursor=pointer]
+                        - cell "2026.04.07" [ref=f6e662] [cursor=pointer]
+                        - cell "2026.04.07" [ref=f6e664] [cursor=pointer]
+                        - cell "2026.04.07" [ref=f6e666] [cursor=pointer]
+                        - cell "2026.04.07" [ref=f6e668] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e670] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e672] [cursor=pointer]
+                        - cell "YDZTKH20260407-01" [ref=f6e674] [cursor=pointer]
+                        - cell "1台环网箱：铜排尺寸材质检测、主回路电阻测量、柜体尺寸、厚度、材质检测 1台箱变：空载损耗和空载电流测量、短路阻抗和负载损耗测量、电击防护和保护电路完整性、介电性能 3根10kV电力电缆：导体直流电阻、不延燃试验" [ref=f6e676] [cursor=pointer]
+                        - cell "1" [ref=f6e678] [cursor=pointer]
+                        - cell "1.00" [ref=f6e680] [cursor=pointer]
+                        - cell "YDZTKH20260407-01" [ref=f6e682] [cursor=pointer]
+                        - cell / [ref=f6e684] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e686] [cursor=pointer]
+                        - cell / [ref=f6e688] [cursor=pointer]
+                      - row [ref=f6e690]:
+                        - cell "3" [ref=f6e691] [cursor=pointer]
+                        - cell "SGCQJJ00WZJS2600423" [ref=f6e693] [cursor=pointer]
+                        - cell "国网重庆市电力公司江津供电分公司" [ref=f6e695] [cursor=pointer]
+                        - cell "张垭" [ref=f6e697] [cursor=pointer]
+                        - cell "13883003352" [ref=f6e699] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e701] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e703] [cursor=pointer]
+                        - cell "滨江春城·公元三期" [ref=f6e705] [cursor=pointer]
+                        - cell "2026.04.08" [ref=f6e707] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e709] [cursor=pointer]
+                        - cell "秦义" [ref=f6e711] [cursor=pointer]
+                        - cell "无" [ref=f6e713] [cursor=pointer]
+                        - cell "无" [ref=f6e715] [cursor=pointer]
+                        - cell "五级" [ref=f6e717] [cursor=pointer]
+                        - cell "2026.04.08" [ref=f6e719] [cursor=pointer]
+                        - cell "2026.04.08" [ref=f6e721] [cursor=pointer]
+                        - cell "2026.04.08" [ref=f6e723] [cursor=pointer]
+                        - cell "2026.04.08" [ref=f6e725] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e727] [cursor=pointer]
+                        - cell "秦义" [ref=f6e729] [cursor=pointer]
+                        - cell "YDZTKH20260408-01" [ref=f6e731] [cursor=pointer]
+                        - cell "1台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能 1根10kV电力电缆：导体直流电阻 1根低压电力电缆：导体直流电阻" [ref=f6e733] [cursor=pointer]
+                        - cell "1" [ref=f6e735] [cursor=pointer]
+                        - cell "1.00" [ref=f6e737] [cursor=pointer]
+                        - cell "YDZTKH20260408-01" [ref=f6e739] [cursor=pointer]
+                        - cell / [ref=f6e741] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e743] [cursor=pointer]
+                        - cell / [ref=f6e745] [cursor=pointer]
+                      - row [ref=f6e747]:
+                        - cell "4" [ref=f6e748] [cursor=pointer]
+                        - cell "SGCQJJ00WZJS2600423" [ref=f6e750] [cursor=pointer]
+                        - cell "国网重庆市电力公司江津供电分公司" [ref=f6e752] [cursor=pointer]
+                        - cell "张垭" [ref=f6e754] [cursor=pointer]
+                        - cell "13883003352" [ref=f6e756] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e758] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e760] [cursor=pointer]
+                        - cell "江津综保区开发建设项目安置房二期" [ref=f6e762] [cursor=pointer]
+                        - cell "2026.04.08" [ref=f6e764] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e766] [cursor=pointer]
+                        - cell "秦义" [ref=f6e768] [cursor=pointer]
+                        - cell "无" [ref=f6e770] [cursor=pointer]
+                        - cell "无" [ref=f6e772] [cursor=pointer]
+                        - cell "五级" [ref=f6e774] [cursor=pointer]
+                        - cell "2026.04.08" [ref=f6e776] [cursor=pointer]
+                        - cell "2026.04.08" [ref=f6e778] [cursor=pointer]
+                        - cell "2026.04.08" [ref=f6e780] [cursor=pointer]
+                        - cell "2026.04.08" [ref=f6e782] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e784] [cursor=pointer]
+                        - cell "秦义" [ref=f6e786] [cursor=pointer]
+                        - cell "YDZTKH20260408-02" [ref=f6e788] [cursor=pointer]
+                        - cell "1台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能 1根10kV电力电缆：导体直流电阻 1根低压电力电缆：导体直流电阻" [ref=f6e790] [cursor=pointer]
+                        - cell "1" [ref=f6e792] [cursor=pointer]
+                        - cell "1.00" [ref=f6e794] [cursor=pointer]
+                        - cell "YDZTKH20260408-02" [ref=f6e796] [cursor=pointer]
+                        - cell / [ref=f6e798] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e800] [cursor=pointer]
+                        - cell / [ref=f6e802] [cursor=pointer]
+                      - row [ref=f6e804]:
+                        - cell "5" [ref=f6e805] [cursor=pointer]
+                        - cell "SGCQKZ00WZJS2600271" [ref=f6e807] [cursor=pointer]
+                        - cell "国网重庆市电力公司开州供电分公司" [ref=f6e809] [cursor=pointer]
+                        - cell "许道英" [ref=f6e811] [cursor=pointer]
+                        - cell "13594700618" [ref=f6e813] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e815] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e817] [cursor=pointer]
+                        - cell "开州锦宸项目一期配电工程" [ref=f6e819] [cursor=pointer]
+                        - cell "2026.03.23" [ref=f6e821] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e823] [cursor=pointer]
+                        - cell "秦义" [ref=f6e825] [cursor=pointer]
+                        - cell "无" [ref=f6e827] [cursor=pointer]
+                        - cell "无" [ref=f6e829] [cursor=pointer]
+                        - cell "五级" [ref=f6e831] [cursor=pointer]
+                        - cell "2026.03.23" [ref=f6e833] [cursor=pointer]
+                        - cell "2026.03.23" [ref=f6e835] [cursor=pointer]
+                        - cell "2026.03.23" [ref=f6e837] [cursor=pointer]
+                        - cell "2026.03.23" [ref=f6e839] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e841] [cursor=pointer]
+                        - cell "秦义" [ref=f6e843] [cursor=pointer]
+                        - cell "YDZTKH20260323-01" [ref=f6e845] [cursor=pointer]
+                        - cell "2台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能 3根10kV电力电缆：导体直流电阻" [ref=f6e847] [cursor=pointer]
+                        - cell "1" [ref=f6e849] [cursor=pointer]
+                        - cell "1.00" [ref=f6e851] [cursor=pointer]
+                        - cell "YDZTKH20260323-01" [ref=f6e853] [cursor=pointer]
+                        - cell / [ref=f6e855] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e857] [cursor=pointer]
+                        - cell / [ref=f6e859] [cursor=pointer]
+                      - row [ref=f6e861]:
+                        - cell "6" [ref=f6e862] [cursor=pointer]
+                        - cell "SGCQKZ00WZJS2600271" [ref=f6e864] [cursor=pointer]
+                        - cell "国网重庆市电力公司开州供电分公司" [ref=f6e866] [cursor=pointer]
+                        - cell "许道英" [ref=f6e868] [cursor=pointer]
+                        - cell "13594700618" [ref=f6e870] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e872] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e874] [cursor=pointer]
+                        - cell "开州城区镇东片区老旧小区改造提升工程" [ref=f6e876] [cursor=pointer]
+                        - cell "2026.03.23" [ref=f6e878] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e880] [cursor=pointer]
+                        - cell "秦义" [ref=f6e882] [cursor=pointer]
+                        - cell "无" [ref=f6e884] [cursor=pointer]
+                        - cell "无" [ref=f6e886] [cursor=pointer]
+                        - cell "五级" [ref=f6e888] [cursor=pointer]
+                        - cell "2026.03.23" [ref=f6e890] [cursor=pointer]
+                        - cell "2026.03.23" [ref=f6e892] [cursor=pointer]
+                        - cell "2026.03.23" [ref=f6e894] [cursor=pointer]
+                        - cell "2026.03.23" [ref=f6e896] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e898] [cursor=pointer]
+                        - cell "秦义" [ref=f6e900] [cursor=pointer]
+                        - cell "YDZTKH20260323-02" [ref=f6e902] [cursor=pointer]
+                        - cell "1根10kV电力电缆：导体直流电阻" [ref=f6e904] [cursor=pointer]
+                        - cell "1" [ref=f6e906] [cursor=pointer]
+                        - cell "1.00" [ref=f6e908] [cursor=pointer]
+                        - cell "YDZTKH20260323-02" [ref=f6e910] [cursor=pointer]
+                        - cell / [ref=f6e912] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e914] [cursor=pointer]
+                        - cell / [ref=f6e916] [cursor=pointer]
+                      - row [ref=f6e918]:
+                        - cell "7" [ref=f6e919] [cursor=pointer]
+                        - cell "SGCQKZ00WZJS2600271" [ref=f6e921] [cursor=pointer]
+                        - cell "国网重庆市电力公司开州供电分公司" [ref=f6e923] [cursor=pointer]
+                        - cell "许道英" [ref=f6e925] [cursor=pointer]
+                        - cell "13594700618" [ref=f6e927] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e929] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e931] [cursor=pointer]
+                        - cell "湖屿椿山" [ref=f6e933] [cursor=pointer]
+                        - cell "2026.05.08" [ref=f6e935] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e937] [cursor=pointer]
+                        - cell "秦义" [ref=f6e939] [cursor=pointer]
+                        - cell "无" [ref=f6e941] [cursor=pointer]
+                        - cell "无" [ref=f6e943] [cursor=pointer]
+                        - cell "五级" [ref=f6e945] [cursor=pointer]
+                        - cell "2026.05.08" [ref=f6e947] [cursor=pointer]
+                        - cell "2026.05.08" [ref=f6e949] [cursor=pointer]
+                        - cell "2026.05.08" [ref=f6e951] [cursor=pointer]
+                        - cell "2026.05.08" [ref=f6e953] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e955] [cursor=pointer]
+                        - cell "秦义" [ref=f6e957] [cursor=pointer]
+                        - cell "YDZTKH20260508-02" [ref=f6e959] [cursor=pointer]
+                        - cell "2台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能" [ref=f6e961] [cursor=pointer]
+                        - cell "1" [ref=f6e963] [cursor=pointer]
+                        - cell "1.00" [ref=f6e965] [cursor=pointer]
+                        - cell "YDZTKH20260508-02" [ref=f6e967] [cursor=pointer]
+                        - cell / [ref=f6e969] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e971] [cursor=pointer]
+                        - cell / [ref=f6e973] [cursor=pointer]
+                      - row [ref=f6e975]:
+                        - cell "8" [ref=f6e976] [cursor=pointer]
+                        - cell "SGCQPS00WZQT2600201" [ref=f6e978] [cursor=pointer]
+                        - cell "国网重庆市电力公司彭水供电分公司" [ref=f6e980] [cursor=pointer]
+                        - cell "唐嘉" [ref=f6e982] [cursor=pointer]
+                        - cell "15023193183" [ref=f6e984] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e986] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e988] [cursor=pointer]
+                        - cell "蓝湖半岛二期" [ref=f6e990] [cursor=pointer]
+                        - cell "2026.03.17" [ref=f6e992] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e994] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e996] [cursor=pointer]
+                        - cell "无" [ref=f6e998] [cursor=pointer]
+                        - cell "无" [ref=f6e1000] [cursor=pointer]
+                        - cell "五级" [ref=f6e1002] [cursor=pointer]
+                        - cell "2026.03.17" [ref=f6e1004] [cursor=pointer]
+                        - cell "2026.03.17" [ref=f6e1006] [cursor=pointer]
+                        - cell "2026.03.17" [ref=f6e1008] [cursor=pointer]
+                        - cell "2026.03.17" [ref=f6e1010] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e1012] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1014] [cursor=pointer]
+                        - cell "YDZTKH20260317-01" [ref=f6e1016] [cursor=pointer]
+                        - cell "2台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能 1根10kV电力电缆：导体直流电阻 1根低压电力电缆：导体直流电阻" [ref=f6e1018] [cursor=pointer]
+                        - cell "1" [ref=f6e1020] [cursor=pointer]
+                        - cell "1.00" [ref=f6e1022] [cursor=pointer]
+                        - cell "YDZTKH20260317-01" [ref=f6e1024] [cursor=pointer]
+                        - cell / [ref=f6e1026] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e1028] [cursor=pointer]
+                        - cell / [ref=f6e1030] [cursor=pointer]
+                      - row [ref=f6e1032]:
+                        - cell "9" [ref=f6e1033] [cursor=pointer]
+                        - cell "SGCQPS00WZQT2600201" [ref=f6e1035] [cursor=pointer]
+                        - cell "国网重庆市电力公司彭水供电分公司" [ref=f6e1037] [cursor=pointer]
+                        - cell "唐嘉" [ref=f6e1039] [cursor=pointer]
+                        - cell "15023193183" [ref=f6e1041] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e1043] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e1045] [cursor=pointer]
+                        - cell "谢忠菊自建房" [ref=f6e1047] [cursor=pointer]
+                        - cell "2026.05.13" [ref=f6e1049] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e1051] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1053] [cursor=pointer]
+                        - cell "无" [ref=f6e1055] [cursor=pointer]
+                        - cell "无" [ref=f6e1057] [cursor=pointer]
+                        - cell "五级" [ref=f6e1059] [cursor=pointer]
+                        - cell "2026.05.13" [ref=f6e1061] [cursor=pointer]
+                        - cell "2026.05.13" [ref=f6e1063] [cursor=pointer]
+                        - cell "2026.05.13" [ref=f6e1065] [cursor=pointer]
+                        - cell "2026.05.13" [ref=f6e1067] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e1069] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1071] [cursor=pointer]
+                        - cell "YDZTKH20260513-01" [ref=f6e1073] [cursor=pointer]
+                        - cell "1台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能" [ref=f6e1075] [cursor=pointer]
+                        - cell "1" [ref=f6e1077] [cursor=pointer]
+                        - cell "1.00" [ref=f6e1079] [cursor=pointer]
+                        - cell "YDZTKH20260513-01" [ref=f6e1081] [cursor=pointer]
+                        - cell / [ref=f6e1083] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e1085] [cursor=pointer]
+                        - cell / [ref=f6e1087] [cursor=pointer]
+                      - row [ref=f6e1089]:
+                        - cell "10" [ref=f6e1090] [cursor=pointer]
+                        - cell "SGCQTN00WZJS2600286" [ref=f6e1092] [cursor=pointer]
+                        - cell "国网重庆市电力公司潼南供电分公司" [ref=f6e1094] [cursor=pointer]
+                        - cell "龚玥晖" [ref=f6e1096] [cursor=pointer]
+                        - cell "17783476667" [ref=f6e1098] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e1100] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e1102] [cursor=pointer]
+                        - cell "大弘胜景" [ref=f6e1104] [cursor=pointer]
+                        - cell "2026.05.24" [ref=f6e1106] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e1108] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1110] [cursor=pointer]
+                        - cell "无" [ref=f6e1112] [cursor=pointer]
+                        - cell "无" [ref=f6e1114] [cursor=pointer]
+                        - cell "五级" [ref=f6e1116] [cursor=pointer]
+                        - cell "2026.05.24" [ref=f6e1118] [cursor=pointer]
+                        - cell "2026.05.24" [ref=f6e1120] [cursor=pointer]
+                        - cell "2026.05.24" [ref=f6e1122] [cursor=pointer]
+                        - cell "2026.05.24" [ref=f6e1124] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e1126] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1128] [cursor=pointer]
+                        - cell "YDZTKH20260524-01" [ref=f6e1130] [cursor=pointer]
+                        - cell "1台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能" [ref=f6e1132] [cursor=pointer]
+                        - cell "1" [ref=f6e1134] [cursor=pointer]
+                        - cell "1.00" [ref=f6e1136] [cursor=pointer]
+                        - cell "YDZTKH20260524-01" [ref=f6e1138] [cursor=pointer]
+                        - cell / [ref=f6e1140] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e1142] [cursor=pointer]
+                        - cell / [ref=f6e1144] [cursor=pointer]
+                      - row [ref=f6e1146]:
+                        - cell "11" [ref=f6e1147] [cursor=pointer]
+                        - cell "SGCQXS00WZJS2600300" [ref=f6e1149] [cursor=pointer]
+                        - cell "国网重庆市电力公司秀山供电分公司" [ref=f6e1151] [cursor=pointer]
+                        - cell "肖兰" [ref=f6e1153] [cursor=pointer]
+                        - cell "13452233732" [ref=f6e1155] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e1157] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e1159] [cursor=pointer]
+                        - cell "秀山·中昂新天地一期B区" [ref=f6e1161] [cursor=pointer]
+                        - cell "2026.01.13" [ref=f6e1163] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e1165] [cursor=pointer]
+                        - cell "李大钢" [ref=f6e1167] [cursor=pointer]
+                        - cell "无" [ref=f6e1169] [cursor=pointer]
+                        - cell "无" [ref=f6e1171] [cursor=pointer]
+                        - cell "五级" [ref=f6e1173] [cursor=pointer]
+                        - cell "2026.01.13" [ref=f6e1175] [cursor=pointer]
+                        - cell "2026.01.13" [ref=f6e1177] [cursor=pointer]
+                        - cell "2026.01.13" [ref=f6e1179] [cursor=pointer]
+                        - cell "2026.01.13" [ref=f6e1181] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e1183] [cursor=pointer]
+                        - cell "李大钢" [ref=f6e1185] [cursor=pointer]
+                        - cell "YDZTKH20260113-01" [ref=f6e1187] [cursor=pointer]
+                        - cell "1台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能 1根10kV电力电缆：导体直流电阻 1根低压电力电缆：导体直流电阻" [ref=f6e1189] [cursor=pointer]
+                        - cell "1" [ref=f6e1191] [cursor=pointer]
+                        - cell "1.00" [ref=f6e1193] [cursor=pointer]
+                        - cell "YDZTKH20260113-01" [ref=f6e1195] [cursor=pointer]
+                        - cell "2026.01.15" [ref=f6e1197] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e1199] [cursor=pointer]
+                        - cell / [ref=f6e1201] [cursor=pointer]
+                      - row [ref=f6e1203]:
+                        - cell "12" [ref=f6e1204] [cursor=pointer]
+                        - cell "SGCQXS00WZJS2600300" [ref=f6e1206] [cursor=pointer]
+                        - cell "国网重庆市电力公司秀山供电分公司" [ref=f6e1208] [cursor=pointer]
+                        - cell "肖兰" [ref=f6e1210] [cursor=pointer]
+                        - cell "13452233732" [ref=f6e1212] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e1214] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e1216] [cursor=pointer]
+                        - cell "秀山新雅江宛项目一期" [ref=f6e1218] [cursor=pointer]
+                        - cell "2026.05.08" [ref=f6e1220] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1222] [cursor=pointer]
+                        - cell "秦义" [ref=f6e1224] [cursor=pointer]
+                        - cell "无" [ref=f6e1226] [cursor=pointer]
+                        - cell "无" [ref=f6e1228] [cursor=pointer]
+                        - cell "五级" [ref=f6e1230] [cursor=pointer]
+                        - cell "2026.05.08" [ref=f6e1232] [cursor=pointer]
+                        - cell "2026.05.08" [ref=f6e1234] [cursor=pointer]
+                        - cell "2026.05.08" [ref=f6e1236] [cursor=pointer]
+                        - cell "2026.05.08" [ref=f6e1238] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1240] [cursor=pointer]
+                        - cell "秦义" [ref=f6e1242] [cursor=pointer]
+                        - cell "YDZTKH20260508-01" [ref=f6e1244] [cursor=pointer]
+                        - cell "1台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能 1根10kV电力电缆：导体直流电阻 1根低压电力电缆：导体直流电阻" [ref=f6e1246] [cursor=pointer]
+                        - cell "1" [ref=f6e1248] [cursor=pointer]
+                        - cell "1.00" [ref=f6e1250] [cursor=pointer]
+                        - cell "YDZTKH20260508-01" [ref=f6e1252] [cursor=pointer]
+                        - cell / [ref=f6e1254] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e1256] [cursor=pointer]
+                        - cell / [ref=f6e1258] [cursor=pointer]
+                      - row [ref=f6e1260]:
+                        - cell "13" [ref=f6e1261] [cursor=pointer]
+                        - cell "SGCQXS00WZJS2600300" [ref=f6e1263] [cursor=pointer]
+                        - cell "国网重庆市电力公司秀山供电分公司" [ref=f6e1265] [cursor=pointer]
+                        - cell "肖兰" [ref=f6e1267] [cursor=pointer]
+                        - cell "13452233732" [ref=f6e1269] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e1271] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e1273] [cursor=pointer]
+                        - cell "黔龙阳光御园" [ref=f6e1275] [cursor=pointer]
+                        - cell "2026.05.23" [ref=f6e1277] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e1279] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1281] [cursor=pointer]
+                        - cell "无" [ref=f6e1283] [cursor=pointer]
+                        - cell "无" [ref=f6e1285] [cursor=pointer]
+                        - cell "五级" [ref=f6e1287] [cursor=pointer]
+                        - cell "2026.05.23" [ref=f6e1289] [cursor=pointer]
+                        - cell "2026.05.23" [ref=f6e1291] [cursor=pointer]
+                        - cell "2026.05.23" [ref=f6e1293] [cursor=pointer]
+                        - cell "2026.05.23" [ref=f6e1295] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e1297] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1299] [cursor=pointer]
+                        - cell "YDZTKH20260523-01" [ref=f6e1301] [cursor=pointer]
+                        - cell "1台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能 1根10kV电力电缆：导体直流电阻 1根低压电力电缆：导体直流电阻" [ref=f6e1303] [cursor=pointer]
+                        - cell "1" [ref=f6e1305] [cursor=pointer]
+                        - cell "1.00" [ref=f6e1307] [cursor=pointer]
+                        - cell "YDZTKH20260523-01" [ref=f6e1309] [cursor=pointer]
+                        - cell / [ref=f6e1311] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e1313] [cursor=pointer]
+                        - cell / [ref=f6e1315] [cursor=pointer]
+                      - row [ref=f6e1317]:
+                        - cell "14" [ref=f6e1318] [cursor=pointer]
+                        - cell / [ref=f6e1320] [cursor=pointer]
+                        - cell "国网重庆市电力公司永川供电分公司" [ref=f6e1322] [cursor=pointer]
+                        - cell "江娅" [ref=f6e1324] [cursor=pointer]
+                        - cell "13594056411" [ref=f6e1326] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e1328] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e1330] [cursor=pointer]
+                        - cell "观澜" [ref=f6e1332] [cursor=pointer]
+                        - cell "2026.04.09" [ref=f6e1334] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1336] [cursor=pointer]
+                        - cell "秦义" [ref=f6e1338] [cursor=pointer]
+                        - cell "无" [ref=f6e1340] [cursor=pointer]
+                        - cell "无" [ref=f6e1342] [cursor=pointer]
+                        - cell "五级" [ref=f6e1344] [cursor=pointer]
+                        - cell "2026.04.09" [ref=f6e1346] [cursor=pointer]
+                        - cell "2026.04.09" [ref=f6e1348] [cursor=pointer]
+                        - cell "2026.04.09" [ref=f6e1350] [cursor=pointer]
+                        - cell "2026.04.09" [ref=f6e1352] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1354] [cursor=pointer]
+                        - cell "秦义" [ref=f6e1356] [cursor=pointer]
+                        - cell "YDZTKH20260409-01" [ref=f6e1358] [cursor=pointer]
+                        - cell "1台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能" [ref=f6e1360] [cursor=pointer]
+                        - cell "1" [ref=f6e1362] [cursor=pointer]
+                        - cell "1.00" [ref=f6e1364] [cursor=pointer]
+                        - cell "YDZTKH20260409-01" [ref=f6e1366] [cursor=pointer]
+                        - cell / [ref=f6e1368] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e1370] [cursor=pointer]
+                        - cell "合同未走完流程" [ref=f6e1372] [cursor=pointer]
+                      - row [ref=f6e1374]:
+                        - cell "15" [ref=f6e1375] [cursor=pointer]
+                        - cell / [ref=f6e1377] [cursor=pointer]
+                        - cell "国网重庆市电力公司永川供电分公司" [ref=f6e1379] [cursor=pointer]
+                        - cell "江娅" [ref=f6e1381] [cursor=pointer]
+                        - cell "13594056411" [ref=f6e1383] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e1385] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e1387] [cursor=pointer]
+                        - cell "青秀湾二期" [ref=f6e1389] [cursor=pointer]
+                        - cell "2026.04.09" [ref=f6e1391] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1393] [cursor=pointer]
+                        - cell "秦义" [ref=f6e1395] [cursor=pointer]
+                        - cell "无" [ref=f6e1397] [cursor=pointer]
+                        - cell "无" [ref=f6e1399] [cursor=pointer]
+                        - cell "五级" [ref=f6e1401] [cursor=pointer]
+                        - cell "2026.04.09" [ref=f6e1403] [cursor=pointer]
+                        - cell "2026.04.09" [ref=f6e1405] [cursor=pointer]
+                        - cell "2026.04.09" [ref=f6e1407] [cursor=pointer]
+                        - cell "2026.04.09" [ref=f6e1409] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1411] [cursor=pointer]
+                        - cell "秦义" [ref=f6e1413] [cursor=pointer]
+                        - cell "YDZTKH20260409-02" [ref=f6e1415] [cursor=pointer]
+                        - cell "2台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能 1根10kV电力电缆：导体直流电阻 1根低压电力电缆：导体直流电阻" [ref=f6e1417] [cursor=pointer]
+                        - cell "1" [ref=f6e1419] [cursor=pointer]
+                        - cell "1.00" [ref=f6e1421] [cursor=pointer]
+                        - cell "YDZTKH20260409-02" [ref=f6e1423] [cursor=pointer]
+                        - cell / [ref=f6e1425] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e1427] [cursor=pointer]
+                        - cell [ref=f6e1429] [cursor=pointer]
+                      - row [ref=f6e1431]:
+                        - cell "16" [ref=f6e1432] [cursor=pointer]
+                        - cell / [ref=f6e1434] [cursor=pointer]
+                        - cell "国网重庆市电力公司永川供电分公司" [ref=f6e1436] [cursor=pointer]
+                        - cell "江娅" [ref=f6e1438] [cursor=pointer]
+                        - cell "13594056411" [ref=f6e1440] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e1442] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e1444] [cursor=pointer]
+                        - cell "俊豪书院0.4-10kV变配电工程" [ref=f6e1446] [cursor=pointer]
+                        - cell "2026.05.07" [ref=f6e1448] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1450] [cursor=pointer]
+                        - cell "秦义" [ref=f6e1452] [cursor=pointer]
+                        - cell "无" [ref=f6e1454] [cursor=pointer]
+                        - cell "无" [ref=f6e1456] [cursor=pointer]
+                        - cell "五级" [ref=f6e1458] [cursor=pointer]
+                        - cell "2026.05.07" [ref=f6e1460] [cursor=pointer]
+                        - cell "2026.05.07" [ref=f6e1462] [cursor=pointer]
+                        - cell "2026.05.07" [ref=f6e1464] [cursor=pointer]
+                        - cell "2026.05.07" [ref=f6e1466] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1468] [cursor=pointer]
+                        - cell "秦义" [ref=f6e1470] [cursor=pointer]
+                        - cell "YDZTKH20260507-01" [ref=f6e1472] [cursor=pointer]
+                        - cell "2台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1根10kV电力电缆：导体直流电阻 1根低压电力电缆：导体直流电阻" [ref=f6e1474] [cursor=pointer]
+                        - cell "1" [ref=f6e1476] [cursor=pointer]
+                        - cell "1.00" [ref=f6e1478] [cursor=pointer]
+                        - cell "YDZTKH20260507-01" [ref=f6e1480] [cursor=pointer]
+                        - cell / [ref=f6e1482] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e1484] [cursor=pointer]
+                        - cell [ref=f6e1486] [cursor=pointer]
+                      - row [ref=f6e1488]:
+                        - cell "17" [ref=f6e1489] [cursor=pointer]
+                        - cell / [ref=f6e1491] [cursor=pointer]
+                        - cell "国网重庆市电力公司永川供电分公司" [ref=f6e1493] [cursor=pointer]
+                        - cell "江娅" [ref=f6e1495] [cursor=pointer]
+                        - cell "13594056411" [ref=f6e1497] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e1499] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e1501] [cursor=pointer]
+                        - cell "新欧鹏·巴川府" [ref=f6e1503] [cursor=pointer]
+                        - cell "2026.05.07" [ref=f6e1505] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1507] [cursor=pointer]
+                        - cell "秦义" [ref=f6e1509] [cursor=pointer]
+                        - cell "无" [ref=f6e1511] [cursor=pointer]
+                        - cell "无" [ref=f6e1513] [cursor=pointer]
+                        - cell "五级" [ref=f6e1515] [cursor=pointer]
+                        - cell "2026.05.07" [ref=f6e1517] [cursor=pointer]
+                        - cell "2026.05.07" [ref=f6e1519] [cursor=pointer]
+                        - cell "2026.05.07" [ref=f6e1521] [cursor=pointer]
+                        - cell "2026.05.07" [ref=f6e1523] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1525] [cursor=pointer]
+                        - cell "秦义" [ref=f6e1527] [cursor=pointer]
+                        - cell "YDZTKH20260507-02" [ref=f6e1529] [cursor=pointer]
+                        - cell "2台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 1台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能 1根10kV电力电缆：导体直流电阻 1根低压电力电缆：导体直流电阻" [ref=f6e1531] [cursor=pointer]
+                        - cell "1" [ref=f6e1533] [cursor=pointer]
+                        - cell "1.00" [ref=f6e1535] [cursor=pointer]
+                        - cell "YDZTKH20260507-02" [ref=f6e1537] [cursor=pointer]
+                        - cell / [ref=f6e1539] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e1541] [cursor=pointer]
+                        - cell [ref=f6e1543] [cursor=pointer]
+                      - row [ref=f6e1545]:
+                        - cell "18" [ref=f6e1546] [cursor=pointer]
+                        - cell / [ref=f6e1548] [cursor=pointer]
+                        - cell "国网重庆市电力公司酉阳供电分公司" [ref=f6e1550] [cursor=pointer]
+                        - cell "白小娟" [ref=f6e1552] [cursor=pointer]
+                        - cell "13452211908" [ref=f6e1554] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e1556] [cursor=pointer]
+                        - cell "客户工程" [ref=f6e1558] [cursor=pointer]
+                        - cell "桃花新城（一期）-雅苑项目4号地块" [ref=f6e1560] [cursor=pointer]
+                        - cell "2026.05.14" [ref=f6e1562] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e1564] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1566] [cursor=pointer]
+                        - cell "无" [ref=f6e1568] [cursor=pointer]
+                        - cell "无" [ref=f6e1570] [cursor=pointer]
+                        - cell "五级" [ref=f6e1572] [cursor=pointer]
+                        - cell "2026.05.14" [ref=f6e1574] [cursor=pointer]
+                        - cell "2026.05.14" [ref=f6e1576] [cursor=pointer]
+                        - cell "2026.05.14" [ref=f6e1578] [cursor=pointer]
+                        - cell "2026.05.14" [ref=f6e1580] [cursor=pointer]
+                        - cell "许宏镭" [ref=f6e1582] [cursor=pointer]
+                        - cell "彭翔" [ref=f6e1584] [cursor=pointer]
+                        - cell "YDZTKH20260514-01" [ref=f6e1586] [cursor=pointer]
+                        - cell "1台变压器：绕组材质检测、空载损耗和空载电流测量、短路阻抗和负载损耗测量 1台高压开关柜：铜排尺寸材质检测 2台低压开关柜：铜排尺寸材质检测、电击防护和保护电路完整性、介电性能" [ref=f6e1588] [cursor=pointer]
+                        - cell "1" [ref=f6e1590] [cursor=pointer]
+                        - cell "1.00" [ref=f6e1592] [cursor=pointer]
+                        - cell "YDZTKH20260514-01" [ref=f6e1594] [cursor=pointer]
+                        - cell / [ref=f6e1596] [cursor=pointer]
+                        - cell "检测完成" [ref=f6e1598] [cursor=pointer]
+                        - cell "合同未走完流程" [ref=f6e1600] [cursor=pointer]
+                      - row [ref=f6e1602]:
+                        - cell "19" [ref=f6e1603] [cursor=pointer]
+                        - cell "SGCQBP00YJJS2600153" [ref=f6e1605] [cursor=pointer]
+                        - cell "国网重庆市电力公司北碚供电分公司" [ref=f6e1607] [cursor=pointer]
+                        - cell "鄢汉韬" [ref=f6e1609] [cursor=pointer]
+                        - cell "13452152970" [ref=f6e1611] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e1613] [cursor=pointer]
+                        - cell "油色谱维保" [ref=f6e1615] [cursor=pointer]
+                        - cell "220kV高何变电站" [ref=f6e1617] [cursor=pointer]
+                        - cell "2026.03.12" [ref=f6e1619] [cursor=pointer]
+                        - cell "熊高（外协单位-武汉）" [ref=f6e1621] [cursor=pointer]
+                        - cell "吴军成" [ref=f6e1623] [cursor=pointer]
+                        - cell "张紫薇" [ref=f6e1625] [cursor=pointer]
+                        - cell "2026.03.20" [ref=f6e1627] [cursor=pointer]
+                        - cell "五级" [ref=f6e1629] [cursor=pointer]
+                        - cell "2026.03.23" [ref=f6e1631] [cursor=pointer]
+                        - cell "2026.12.31" [ref=f6e1633] [cursor=pointer]
+                        - cell "2026.04.03" [ref=f6e1635] [cursor=pointer]
+                        - cell [ref=f6e1637] [cursor=pointer]
+                        - cell "熊高（外协单位-武汉）" [ref=f6e1639] [cursor=pointer]
+                        - cell "曾彪" [ref=f6e1641] [cursor=pointer]
+                        - cell "渝电质检-2026-04-03-06" [ref=f6e1643] [cursor=pointer]
+                        - cell "主变油色谱在线监测装置维保" [ref=f6e1645] [cursor=pointer]
+                        - cell "2" [ref=f6e1647] [cursor=pointer]
+                        - cell "0.25" [ref=f6e1649] [cursor=pointer]
+                        - cell "2026.04.03" [ref=f6e1651] [cursor=pointer]
+                        - cell "2026.04.03" [ref=f6e1653] [cursor=pointer]
+                        - cell "已开工" [ref=f6e1655] [cursor=pointer]
+                        - cell [ref=f6e1657] [cursor=pointer]
+                      - row [ref=f6e1659]:
+                        - cell "20" [ref=f6e1660] [cursor=pointer]
+                        - cell "SGCQBP00YJJS2600153" [ref=f6e1662] [cursor=pointer]
+                        - cell "国网重庆市电力公司北碚供电分公司" [ref=f6e1664] [cursor=pointer]
+                        - cell "鄢汉韬" [ref=f6e1666] [cursor=pointer]
+                        - cell "13452152970" [ref=f6e1668] [cursor=pointer]
+                        - cell "设备状态在线监测中心" [ref=f6e1670] [cursor=pointer]
+                        - cell "油色谱维保" [ref=f6e1672] [cursor=pointer]
+                        - cell "220kV江东变电站" [ref=f6e1674] [cursor=pointer]
+                        - cell "2026.03.12" [ref=f6e1676] [cursor=pointer]
+                        - cell "熊高（外协单位-武汉）" [ref=f6e1678] [cursor=pointer]
+                        - cell "吴军成" [ref=f6e1680] [cursor=pointer]
+                        - cell "张紫薇" [ref=f6e1682] [cursor=pointer]
+                        - cell "2026.03.20" [ref=f6e1684] [cursor=pointer]
+                        - cell "五级" [ref=f6e1686] [cursor=pointer]
+                        - cell "2026.03.23" [ref=f6e1688] [cursor=pointer]
+                        - cell "2026.12.31" [ref=f6e1690] [cursor=pointer]
+                        - cell "2026.03.30" [ref=f6e1692] [cursor=pointer]
+                        - cell [ref=f6e1694] [cursor=pointer]
+                        - cell "熊高（外协单位-武汉）" [ref=f6e1696] [cursor=pointer]
+                        - cell "曾彪" [ref=f6e1698] [cursor=pointer]
+                        - cell "渝电质检-2026-03-30-17" [ref=f6e1700] [cursor=pointer]
+                        - cell "主变油色谱在线监测装置维保" [ref=f6e1702] [cursor=pointer]
+                        - cell "2" [ref=f6e1704] [cursor=pointer]
+                        - cell "0.25" [ref=f6e1706] [cursor=pointer]
+                        - cell "2026.03.30" [ref=f6e1708] [cursor=pointer]
+                        - cell "2026.03.30" [ref=f6e1710] [cursor=pointer]
+                        - cell "已开工" [ref=f6e1712] [cursor=pointer]
+                        - cell [ref=f6e1714] [cursor=pointer]
+                    - rowgroup:
+                      - row
+                  - button [ref=f6e1716] [cursor=pointer]
+              - generic [ref=f6e1718]:
+                - generic [ref=f6e1719]:
+                  - generic [ref=f6e1720]:
+                    - generic [ref=f6e1721]: 每页
+                    - combobox [ref=f6e1722] [cursor=pointer]:
+                      - option [selected]
+                      - option
+                      - option
+                      - option
+                      - option
+                      - option
+                      - option
+                      - option
+                      - option
+                  - generic [ref=f6e1723]: 显示1-20,共67条
+                - generic [ref=f6e1724]:
+                  - button "首页" [ref=f6e1725]
+                  - button "上一页" [ref=f6e1726]
+                  - generic [ref=f6e1727]:
+                    - button "1" [ref=f6e1728] [cursor=pointer]
+                    - button "2" [ref=f6e1729] [cursor=pointer]
+                    - button "3" [ref=f6e1730] [cursor=pointer]
+                    - button "4" [ref=f6e1731] [cursor=pointer]
+                  - button "下一页" [ref=f6e1732] [cursor=pointer]
+                  - button "末页" [ref=f6e1733] [cursor=pointer]
+        - text:   
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic: 
+          - text:  

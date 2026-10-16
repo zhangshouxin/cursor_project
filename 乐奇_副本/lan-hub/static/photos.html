@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>拍摄的照片</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #11140f;
+      --panel: #1a1f18;
+      --line: #2d3628;
+      --text: #e8eedf;
+      --muted: #9aa58c;
+      --accent: #b6e14a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "SF Pro Text", "PingFang SC", sans-serif;
+      background: radial-gradient(circle at top, #22291c, var(--bg) 42%);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    main {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 32px 20px 64px;
+    }
+    a { color: var(--accent); }
+    h1 { font-size: 28px; margin: 12px 0 8px; }
+    .lead { color: var(--muted); margin: 0 0 28px; }
+    .minute { margin: 0 0 28px; }
+    .minute h2 {
+      margin: 0 0 12px;
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--muted);
+    }
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .card {
+      position: relative;
+      width: 200px;
+      height: 200px;
+      flex: 0 0 200px;
+      border-radius: 12px;
+      overflow: hidden;
+      background: #000;
+      border: 1px solid var(--line);
+    }
+    .shot {
+      display: block;
+      width: 200px;
+      height: 200px;
+      padding: 0;
+      border: 0;
+      background: #000;
+      cursor: zoom-in;
+    }
+    .shot img {
+      width: 200px;
+      height: 200px;
+      object-fit: cover;
+      display: block;
+    }
+    .download {
+      position: absolute;
+      right: 8px;
+      bottom: 8px;
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      background: rgba(17, 20, 15, 0.82);
+      color: var(--text);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid rgba(232, 238, 223, 0.25);
+    }
+    .download svg { width: 16px; height: 16px; display: block; }
+    .empty, .error { color: var(--muted); }
+    .preview {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.86);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      z-index: 2;
+    }
+    .preview.open { display: flex; }
+    .preview img {
+      max-width: min(960px, 92vw);
+      max-height: 88vh;
+      object-fit: contain;
+      border-radius: 8px;
+      background: #000;
+    }
+  </style>
+</head>
+<body>
+  <main>
+   
+    <h1>拍摄的照片</h1>
+   
+    <div id="list" class="empty">正在加载照片...</div>
+  </main>
+  <div id="preview" class="preview" hidden>
+    <img id="preview-image" alt="照片预览" />
+  </div>
+  <script>
+    const list = document.getElementById("list");
+    const preview = document.getElementById("preview");
+    const previewImage = document.getElementById("preview-image");
+    const downloadIcon = '<svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M8 2v8M5 7l3 3 3-3M3 13h10" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
+    function closePreview() {
+      preview.classList.remove("open");
+      preview.hidden = true;
+      previewImage.removeAttribute("src");
+    }
+
+    function openPreview(src) {
+      previewImage.src = src;
+      preview.hidden = false;
+      preview.classList.add("open");
+    }
+
+    preview.addEventListener("click", (event) => {
+      if (event.target === preview) {
+        closePreview();
+      }
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") {
+        closePreview();
+      }
+    });
+
+    function render(groups) {
+      list.className = "";
+      list.replaceChildren();
+      if (!groups.length) {
+        list.className = "empty";
+        list.textContent = "还没有照片";
+        return;
+      }
+      for (const group of groups) {
+        const section = document.createElement("section");
+        section.className = "minute";
+        const title = document.createElement("h2");
+        title.textContent = group.minute;
+        const row = document.createElement("div");
+        row.className = "row";
+        for (const photo of group.photos) {
+          const card = document.createElement("div");
+          card.className = "card";
+          const button = document.createElement("button");
+          button.type = "button";
+          button.className = "shot";
+          button.addEventListener("click", () => openPreview(photo.url));
+          const image = document.createElement("img");
+          image.src = photo.url;
+          image.alt = group.minute;
+          image.width = 200;
+          image.height = 200;
+          button.appendChild(image);
+          const link = document.createElement("a");
+          link.className = "download";
+          link.href = photo.downloadUrl;
+          link.download = photo.name;
+          link.setAttribute("aria-label", "下载这张照片");
+          link.innerHTML = downloadIcon;
+          link.addEventListener("click", (event) => event.stopPropagation());
+          card.append(button, link);
+          row.appendChild(card);
+        }
+        section.append(title, row);
+        list.appendChild(section);
+      }
+    }
+
+    fetch("/v1/photos")
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("加载失败");
+        }
+        return response.json();
+      })
+      .then((data) => render((data && data.groups) || []))
+      .catch(() => {
+        list.className = "error";
+        list.textContent = "照片加载失败";
+      });
+  </script>
+</body>
+</html>

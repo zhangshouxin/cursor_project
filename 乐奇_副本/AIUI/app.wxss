@@ -1,0 +1,8 @@
+page {
+  color: #40ff5e;
+  background-color: #000000;
+}
+
+text {
+  color: rgba(64, 255, 94, 0.72);
+}

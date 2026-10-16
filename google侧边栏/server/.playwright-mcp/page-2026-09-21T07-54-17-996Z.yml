@@ -1,0 +1,343 @@
+- generic [active] [ref=f6e1]:
+  - generic [ref=f6e3]:
+    - generic [ref=f6e4]:
+      - generic [ref=f6e8]:
+        - heading "生产业务管控系统" [level=2] [ref=f6e9]
+        - paragraph [ref=f6e11]: 安全可靠 · 绿色智能 · 高效服务
+      - generic [ref=f6e12]:
+        - generic [ref=f6e14] [cursor=pointer]:
+          - generic [ref=f6e15]:
+            - generic [ref=f6e16]: 管**
+            - generic [ref=f6e17]: 渝电质检
+          - generic [ref=f6e18]: 
+        - generic [ref=f6e20] [cursor=pointer]: 
+    - generic [ref=f6e22]:
+      - generic [ref=f6e23]:
+        - text: 
+        - generic [ref=f6e24]:
+          - generic [ref=f6e25]:
+            - generic [ref=f6e26]: 
+            - heading "应用导航" [level=3] [ref=f6e27]
+          - generic "折叠/展开" [ref=f6e29] [cursor=pointer]: 
+        - generic [ref=f6e32]:
+          - generic: 
+          - textbox "搜索应用..." [ref=f6e33]
+        - generic [ref=f6e34]:
+          - generic [ref=f6e35]:
+            - generic [ref=f6e36] [cursor=pointer]:
+              - generic [ref=f6e37]: 
+              - generic [ref=f6e39]: 任务管理
+              - generic [ref=f6e40]: 
+            - text:   
+          - generic [ref=f6e41]:
+            - generic [ref=f6e42] [cursor=pointer]:
+              - generic [ref=f6e43]: 
+              - generic [ref=f6e45]: 市场营销
+              - generic [ref=f6e46]: 
+            - text:               
+          - generic [ref=f6e47]:
+            - generic [ref=f6e48] [cursor=pointer]:
+              - generic [ref=f6e49]: 
+              - generic [ref=f6e51]: 检验检测
+              - generic [ref=f6e52]: 
+            - generic [ref=f6e348]:
+              - generic [ref=f6e349] [cursor=pointer]:
+                - generic [ref=f6e350]: 
+                - generic [ref=f6e351]: 待处理合同
+              - generic [ref=f6e352] [cursor=pointer]:
+                - generic [ref=f6e353]: 
+                - generic [ref=f6e354]: 带电检测
+              - generic [ref=f6e355] [cursor=pointer]:
+                - generic [ref=f6e356]: 
+                - generic [ref=f6e357]: X光探伤检测
+              - generic [ref=f6e358] [cursor=pointer]:
+                - generic [ref=f6e359]: 
+                - generic [ref=f6e360]: 仪器仪表校准
+              - generic [ref=f6e361] [cursor=pointer]:
+                - generic [ref=f6e362]: 
+                - generic [ref=f6e363]: 电源侧检测
+              - generic [ref=f6e364] [cursor=pointer]:
+                - generic [ref=f6e365]: 
+                - generic [ref=f6e366]: 工作台账
+              - generic [ref=f6e367] [cursor=pointer]:
+                - generic [ref=f6e368]: 
+                - generic [ref=f6e369]: 节能变及成盘
+              - generic [ref=f6e370] [cursor=pointer]:
+                - generic [ref=f6e371]: 
+                - generic [ref=f6e372]: 工单删除恢复
+              - generic [ref=f6e373] [cursor=pointer]:
+                - generic [ref=f6e374]: 
+                - generic [ref=f6e375]: 油色谱维保
+              - generic [ref=f6e376] [cursor=pointer]:
+                - generic [ref=f6e377]: 
+                - generic [ref=f6e378]: 工单总量
+              - generic [ref=f6e379] [cursor=pointer]:
+                - generic [ref=f6e380]: 
+                - generic [ref=f6e381]: 技术监督
+              - generic [ref=f6e382] [cursor=pointer]:
+                - generic [ref=f6e383]: 
+                - generic [ref=f6e384]: 电能质量
+              - generic [ref=f6e385] [cursor=pointer]:
+                - generic [ref=f6e386]: 
+                - generic [ref=f6e387]: 客户工程
+              - generic [ref=f6e388] [cursor=pointer]:
+                - generic [ref=f6e389]: 
+                - generic [ref=f6e390]: 安全工器具
+              - generic [ref=f6e391] [cursor=pointer]:
+                - generic [ref=f6e392]: 
+                - generic [ref=f6e393]: 充电桩检测
+              - generic [ref=f6e394]:
+                - generic [ref=f6e395] [cursor=pointer]:
+                  - generic [ref=f6e396]: 
+                  - generic [ref=f6e397]: 施工机具
+                  - generic [ref=f6e398]: 
+                - text:      
+              - generic [ref=f6e399]:
+                - generic [ref=f6e400] [cursor=pointer]:
+                  - generic [ref=f6e401]: 
+                  - generic [ref=f6e402]: 带电作业工器具
+                  - generic [ref=f6e403]: 
+                - text:   
+              - generic [ref=f6e404]:
+                - generic [ref=f6e405] [cursor=pointer]:
+                  - generic [ref=f6e406]: 
+                  - generic [ref=f6e407]: 消防检测
+                  - generic [ref=f6e408]: 
+                - text:     
+              - generic [ref=f6e409]:
+                - generic [ref=f6e410] [cursor=pointer]:
+                  - generic [ref=f6e411]: 
+                  - generic [ref=f6e412]: 输变电工程old
+                  - generic [ref=f6e413]: 
+                - text:  
+              - generic [ref=f6e414]:
+                - generic [ref=f6e415] [cursor=pointer]:
+                  - generic [ref=f6e416]: 
+                  - generic [ref=f6e417]: 配网检测
+                  - generic [ref=f6e418]: 
+                - text:      
+              - generic [ref=f6e419]:
+                - generic [ref=f6e420] [cursor=pointer]:
+                  - generic [ref=f6e421]: 输变电工程
+                  - generic [ref=f6e422]: 
+                - text:  
+          - generic [ref=f6e53]:
+            - generic [ref=f6e54] [cursor=pointer]:
+              - generic [ref=f6e55]: 
+              - generic [ref=f6e57]: 报告管理
+              - generic [ref=f6e58]: 
+            - text:                 
+          - generic [ref=f6e59]:
+            - generic [ref=f6e60] [cursor=pointer]:
+              - generic [ref=f6e61]: 
+              - generic [ref=f6e63]: 财务管理
+              - generic [ref=f6e64]: 
+            - text:          
+          - generic [ref=f6e65]:
+            - generic [ref=f6e66] [cursor=pointer]:
+              - generic [ref=f6e67]: 
+              - generic [ref=f6e69]: 设备管理
+              - generic [ref=f6e70]: 
+            - text: 
+          - generic [ref=f6e71]:
+            - generic [ref=f6e72] [cursor=pointer]:
+              - generic [ref=f6e73]: 
+              - generic [ref=f6e75]: 统计管理
+              - generic [ref=f6e76]: 
+            - text:              
+          - generic [ref=f6e77]:
+            - generic [ref=f6e78] [cursor=pointer]:
+              - generic [ref=f6e79]: 
+              - generic [ref=f6e81]: 平台管理
+              - generic [ref=f6e82]: 
+            - text:              
+          - generic [ref=f6e83]:
+            - generic [ref=f6e84] [cursor=pointer]:
+              - generic [ref=f6e85]: 
+              - generic [ref=f6e87]: 参数配置
+              - generic [ref=f6e88]: 
+            - text:               
+          - generic [ref=f6e89]:
+            - generic [ref=f6e90] [cursor=pointer]:
+              - generic [ref=f6e91]: 
+              - generic [ref=f6e93]: 大屏展示
+              - generic [ref=f6e94]: 
+            - text: 
+      - generic [ref=f6e95]:
+        - tablist [ref=f6e96]:
+          - listitem [ref=f6e97] [cursor=pointer]:
+            - generic [ref=f6e99]:
+              - generic [aria-hidden] [ref=f6e100]: 
+              - text: 首页
+        - tabpanel [ref=f6e102]:
+          - generic [ref=f6e104]:
+            - generic [ref=f6e105]:
+              - generic [ref=f6e106]:
+                - generic [ref=f6e109]:
+                  - generic [ref=f6e110]: 
+                  - heading "客户分布" [level=3] [ref=f6e111]
+                - img [ref=f6e115]:
+                  - generic:
+                    - generic "Chart context menu"
+                  - generic [ref=f6e125]:
+                    - generic [ref=f6e126]: 主业主业
+                    - generic [ref=f6e128]: 产业产业
+                    - generic "社会单位" [ref=f6e131]: 社会单位社会单位
+              - generic [ref=f6e133]:
+                - generic [ref=f6e136]:
+                  - generic [ref=f6e137]: 
+                  - heading "合同签订方式" [level=3] [ref=f6e138]
+                - generic [ref=f6e140]:
+                  - generic [ref=f6e141] [cursor=pointer]:
+                    - generic [ref=f6e142]: "11"
+                    - text: 市公司框架
+                  - generic [ref=f6e143] [cursor=pointer]:
+                    - generic [ref=f6e144]: "3"
+                    - text: 基层单位直接委托
+                  - generic [ref=f6e145] [cursor=pointer]:
+                    - generic [ref=f6e146]: "5"
+                    - text: 基层单位授权采购
+                  - generic [ref=f6e147] [cursor=pointer]:
+                    - generic [ref=f6e148]: "3"
+                    - text: 基层单位授权采购框架
+                  - generic [ref=f6e149] [cursor=pointer]:
+                    - generic [ref=f6e150]: "3"
+                    - text: 社会单位直接委托
+                  - generic [ref=f6e151] [cursor=pointer]:
+                    - generic [ref=f6e152]: "1"
+                    - text: 其它
+            - generic [ref=f6e153]:
+              - generic [ref=f6e155]:
+                - generic [ref=f6e158]:
+                  - generic [ref=f6e159]: 
+                  - heading "业务分布" [level=3] [ref=f6e160]
+                - img [ref=f6e164]:
+                  - generic:
+                    - generic "Chart context menu"
+                  - generic [ref=f6e186]:
+                    - generic [ref=f6e187]: "142142"
+                    - generic [ref=f6e189]: "1919"
+                    - generic [ref=f6e191]: "00"
+                    - generic [ref=f6e193]: "00"
+                    - generic [ref=f6e195]: "00"
+                    - generic [ref=f6e197]: "00"
+                    - generic [ref=f6e199]: "33"
+                    - generic [ref=f6e201]: "3030"
+                    - generic [ref=f6e203]: "88"
+                    - generic [ref=f6e205]: "5353"
+                    - generic [ref=f6e207]: "1919"
+                    - generic [ref=f6e209]: "44"
+                    - generic [ref=f6e211]: "11"
+                    - generic [ref=f6e213]: "33"
+                    - generic [ref=f6e215]: "22"
+                    - generic [ref=f6e217]: "2323"
+                    - generic [ref=f6e219]: "3232"
+                    - generic [ref=f6e221]: "5555"
+                  - generic [ref=f6e223]:
+                    - generic [ref=f6e224]: 消防设施检测
+                    - generic [ref=f6e225]: 输变电工程
+                    - generic [ref=f6e226]: 输电工程
+                    - generic [ref=f6e227]: 变电工程
+                    - generic [ref=f6e228]: 安全工器具检测
+                    - generic [ref=f6e229]: 电源侧检测
+                    - generic [ref=f6e230]: 充电桩检测
+                    - generic [ref=f6e231]: 客户工程
+                    - generic [ref=f6e232]: 电能质量
+                    - generic [ref=f6e233]: 油色谱维保
+                    - generic [ref=f6e234]: 配网物资检测
+                    - generic [ref=f6e235]: 带电检测
+                    - generic [ref=f6e236]: X光探伤检测
+                    - generic [ref=f6e237]: 仪器仪表校准
+                    - generic [ref=f6e238]: 节能变及成盘
+                    - generic [ref=f6e239]: 技术监督
+                    - generic [ref=f6e240]: 施工机具检测
+                    - generic [ref=f6e241]: 带电作业工器具
+                  - generic [ref=f6e242]:
+                    - generic [ref=f6e243]: "0"
+                    - generic [ref=f6e244]: "50"
+                    - generic [ref=f6e245]: "100"
+                    - generic [ref=f6e246]: "150"
+              - generic [ref=f6e248]:
+                - generic [ref=f6e250]:
+                  - generic [ref=f6e251]:
+                    - generic [ref=f6e252]: 
+                    - heading "费用信息" [level=3] [ref=f6e253]
+                  - generic [ref=f6e255]:
+                    - generic [ref=f6e256] [cursor=pointer]: 周
+                    - generic [ref=f6e257] [cursor=pointer]: 月
+                    - generic [ref=f6e258] [cursor=pointer]: 季
+                    - generic [ref=f6e259] [cursor=pointer]: 年
+                - img [ref=f6e263]:
+                  - generic [ref=f6e269]: 金额（元）
+                  - generic:
+                    - generic "Chart context menu"
+                  - generic [ref=f6e275]:
+                    - generic [ref=f6e276]: ¥150 236¥150 236
+                    - generic [ref=f6e278]: ¥17 643¥17 643
+                    - generic [ref=f6e280]: ¥0¥0
+                    - generic [ref=f6e282]: ¥0¥0
+                    - generic [ref=f6e284]: ¥0¥0
+                    - generic [ref=f6e286]: ¥0¥0
+                    - generic [ref=f6e288]: ¥0¥0
+                  - generic [ref=f6e290]:
+                    - generic [ref=f6e291]: 应收
+                    - generic [ref=f6e292]: 已派工
+                    - generic [ref=f6e293]: 已完成
+                    - generic [ref=f6e294]: 可结算
+                    - generic [ref=f6e295]: 已结算
+                    - generic [ref=f6e296]: 已开票
+                    - generic [ref=f6e297]: 已回款
+                  - generic [ref=f6e298]:
+                    - generic [ref=f6e299]: ¥0
+                    - generic [ref=f6e300]: ¥50 000
+                    - generic [ref=f6e301]: ¥100 000
+                    - generic [ref=f6e302]: ¥150 000
+                    - generic [ref=f6e303]: ¥200 000
+            - generic [ref=f6e305]:
+              - generic [ref=f6e307]:
+                - generic [ref=f6e308]:
+                  - generic [ref=f6e309]: 
+                  - heading "待办任务" [level=3] [ref=f6e310]
+                - generic [ref=f6e311]:
+                  - button " 刷新" [ref=f6e312] [cursor=pointer]:
+                    - generic [ref=f6e313]: 
+                    - generic [ref=f6e314]: 刷新
+                  - generic [ref=f6e315] [cursor=pointer]: "4"
+              - generic [ref=f6e316]:
+                - table [ref=f6e318]:
+                  - rowgroup [ref=f6e319]:
+                    - row [ref=f6e320]:
+                      - columnheader "任务名称" [ref=f6e321]
+                      - columnheader "状态" [ref=f6e322]
+                      - columnheader "时间" [ref=f6e323]
+                - table [ref=f6e325]:
+                  - rowgroup [ref=f6e326]:
+                    - row [ref=f6e327] [cursor=pointer]:
+                      - cell "请及时处理国网重****电分公司的结算信息" [ref=f6e328]
+                      - cell "维护开票" [ref=f6e329]
+                      - cell "2026-08-05 17:17" [ref=f6e330]
+                    - row [ref=f6e331] [cursor=pointer]:
+                      - cell "请及时处理重庆江****有限公司的结算信息" [ref=f6e332]
+                      - cell "维护收款" [ref=f6e333]
+                      - cell "2026-08-03 16:34" [ref=f6e334]
+                    - row [ref=f6e335] [cursor=pointer]:
+                      - cell "请及时处理国网重****电分公司的结算信息" [ref=f6e336]
+                      - cell "维护收款" [ref=f6e337]
+                      - cell "2026-08-03 15:15" [ref=f6e338]
+                    - row [ref=f6e339] [cursor=pointer]:
+                      - cell "请及时处理国网重****电分公司的结算信息" [ref=f6e340]
+                      - cell "维护收款" [ref=f6e341]
+                      - cell "2026-08-03 09:40" [ref=f6e342]
+        - text:  
+        - generic [ref=f6e343]:
+          - text: "年份:"
+          - combobox [ref=f6e344]:
+            - textbox [ref=f6e345]: 2026年
+            - button [aria-hidden] [ref=f6e346] [cursor=pointer]:
+              - generic [ref=f6e347]: 
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic: 
+          - text:  

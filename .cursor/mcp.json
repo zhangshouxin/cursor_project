@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "node",
+      "args": [
+        "google侧边栏/server/node_modules/@playwright/mcp/cli.js",
+        "--cdp-endpoint=chrome",
+        "--config=google侧边栏/mcp/config.json"
+      ]
+    }
+  }
+}

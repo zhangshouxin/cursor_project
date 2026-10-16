@@ -1,0 +1,27 @@
+{
+  "name": "google-sidebar-ai-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "mcp": "node ./node_modules/@playwright/mcp/cli.js --cdp-endpoint=chrome --config=../mcp/config.json",
+    "install-doc-mcps": "bash scripts/install-doc-mcps.sh"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "@openai/agents": "^0.18.0",
+    "@playwright/mcp": "^0.0.80",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "exceljs": "^4.4.0",
+    "express": "^4.21.2",
+    "mammoth": "^1.9.0",
+    "multer": "^2.0.2",
+    "openai": "^7.15.0",
+    "pdf-parse": "^1.1.1",
+    "xlsx": "^0.18.5",
+    "zod": "^4.6.5"
+  }
+}

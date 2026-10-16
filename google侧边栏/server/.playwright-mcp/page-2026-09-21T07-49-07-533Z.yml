@@ -1,0 +1,37 @@
+- generic [ref=f4e1]:
+  - generic [ref=f4e4]:
+    - generic [ref=f4e5]:
+      - heading "渝电质检" [level=1] [ref=f4e7]
+      - paragraph [ref=f4e8]: 生产业务管控系统
+    - generic [ref=f4e9]:
+      - generic [ref=f4e10]:
+        - generic [ref=f4e11] [cursor=pointer]: 用户名
+        - generic [ref=f4e12]:
+          - textbox "请输入用户名" [ref=f4e13]: admin
+          - generic: 
+      - generic [ref=f4e14]:
+        - generic [ref=f4e15] [cursor=pointer]: 密码
+        - generic [ref=f4e16]:
+          - textbox "请输入密码" [ref=f4e17]: 6d36ce07391812065a9a30d735fba88f389dfb5a
+          - generic: 
+      - button " 登 录" [ref=f4e18] [cursor=pointer]:
+        - generic [ref=f4e19]: 
+        - generic [ref=f4e20]: 登 录
+    - paragraph [ref=f4e23]:
+      - text: © 2025 重庆渝电质量检测有限公司 |
+      - link "技术支持" [ref=f4e24] [cursor=pointer]:
+        - /url: "#"
+      - text: "|"
+      - link "帮助中心" [ref=f4e25] [cursor=pointer]:
+        - /url: "#"
+  - button [aria-hidden] [ref=f4e27] [cursor=pointer]
+  - generic [ref=f4e28]:
+    - generic [ref=f4e29]:
+      - text: 错误
+      - button "关闭" [ref=f4e31] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f4e32]: 
+    - generic [ref=f4e33]:
+      - generic [ref=f4e34]:
+        - generic [ref=f4e35] [cursor=pointer]
+        - generic [ref=f4e36]: 用户名或密码错误
+      - button "确认" [active] [ref=f4e40] [cursor=pointer]

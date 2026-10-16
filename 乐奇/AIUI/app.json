@@ -1,0 +1,28 @@
+{
+  "name": "小信助手",
+  "description": "根据用户问题调用本地大模型返回答案的眼镜问答助手。",
+  "pages": [
+    "pages/index/index",
+    "pages/answer/index"
+  ],
+  "widgets": [
+    {
+      "path": "widgets/xiaoxin/index",
+      "family": "1x2"
+    }
+  ],
+  "permissions": [
+    "RECORD_AUDIO",
+    "CAMERA"
+  ],
+  "requiredPermissions": {
+    "microphone": true,
+    "camera": true
+  },
+  "window": {
+    "navigationBarTitleText": "小信助手",
+    "viewport": {
+      "width": "device-width"
+    }
+  }
+}

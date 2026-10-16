@@ -1,0 +1,25 @@
+- generic [ref=f9e4]:
+  - generic [ref=f9e5]:
+    - heading "渝电质检" [level=1] [ref=f9e7]
+    - paragraph [ref=f9e8]: 生产业务管控系统
+  - generic [ref=f9e9]:
+    - generic [ref=f9e10]:
+      - generic [ref=f9e11] [cursor=pointer]: 用户名
+      - generic [ref=f9e12]:
+        - textbox "请输入用户名" [ref=f9e13]: admin
+        - generic: 
+    - generic [ref=f9e14]:
+      - generic [ref=f9e15] [cursor=pointer]: 密码
+      - generic [ref=f9e16]:
+        - textbox "请输入密码" [active] [ref=f9e17]: Qwer1234@
+        - generic: 
+    - button " 登 录" [ref=f9e18] [cursor=pointer]:
+      - generic [ref=f9e19]: 
+      - generic [ref=f9e20]: 登 录
+  - paragraph [ref=f9e23]:
+    - text: © 2025 重庆渝电质量检测有限公司 |
+    - link "技术支持" [ref=f9e24] [cursor=pointer]:
+      - /url: "#"
+    - text: "|"
+    - link "帮助中心" [ref=f9e25] [cursor=pointer]:
+      - /url: "#"

@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>乐奇局域网 AI 中枢</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #11140f;
+      --panel: #1a1f18;
+      --line: #2d3628;
+      --text: #e8eedf;
+      --muted: #9aa58c;
+      --accent: #b6e14a;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "SF Pro Text", "PingFang SC", sans-serif;
+      background: radial-gradient(circle at top, #22291c, var(--bg) 45%);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    main {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 32px 20px 48px;
+    }
+    h1 { font-size: 28px; margin: 0 0 8px; }
+    p { color: var(--muted); line-height: 1.6; }
+    #status {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 10px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      font-size: 13px;
+      margin: 12px 0 20px;
+    }
+    #status i {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #f0b429;
+    }
+    #status.ok i { background: var(--accent); }
+    #status.bad i { background: #ff6b6b; }
+    #log {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      min-height: 360px;
+      padding: 16px;
+      overflow: auto;
+    }
+    .msg { margin: 0 0 14px; white-space: pre-wrap; line-height: 1.55; }
+    .msg.user { color: #d7e8ff; }
+    .msg.assistant { color: var(--text); }
+    .msg .who { display: block; color: var(--muted); font-size: 12px; margin-bottom: 4px; }
+    form {
+      display: flex;
+      gap: 10px;
+      margin-top: 16px;
+    }
+    input, button {
+      font: inherit;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      padding: 12px 14px;
+    }
+    input {
+      flex: 1;
+      background: var(--panel);
+      color: var(--text);
+    }
+    button {
+      background: var(--accent);
+      color: #17200d;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    button.ghost {
+      background: transparent;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>乐奇局域网 AI 中枢</h1>
+    <p><a href="/photos">查看拍摄的照片</a></p>
+    <p>先在浏览器里验证 Ollama。手机伴侣 App 之后会调用同一个 <code>/v1/glasses/chat</code> 接口，再把结果推到 RV101 显示和播报。</p>
+    <div id="status"><i></i><span>正在检查 Ollama...</span></div>
+    <div id="log"></div>
+    <form id="chat">
+      <input id="text" autocomplete="off" placeholder="对眼镜说点什么，例如：现在几点适合出门？" />
+      <button type="submit">发送</button>
+      <button type="button" class="ghost" id="reset">清空</button>
+    </form>
+  </main>
+  <script>
+    const statusEl = document.getElementById("status");
+    const logEl = document.getElementById("log");
+    const form = document.getElementById("chat");
+    const input = document.getElementById("text");
+    const sessionId = "browser-test";
+
+    function addMessage(role, text) {
+      const box = document.createElement("div");
+      box.className = `msg ${role}`;
+      box.innerHTML = `<span class="who">${role === "user" ? "你" : "小信"}</span>`;
+      const body = document.createElement("span");
+      body.textContent = text;
+      box.appendChild(body);
+      logEl.appendChild(box);
+      logEl.scrollTop = logEl.scrollHeight;
+      return body;
+    }
+
+    async function refreshHealth() {
+      try {
+        const res = await fetch("/health");
+        const data = await res.json();
+        statusEl.className = data.ok ? "ok" : "bad";
+        statusEl.querySelector("span").textContent = data.ok
+          ? `${data.provider || "模型"} 正常 · ${data.model} · ${data.upstream || data.ollama || ""}`
+          : `上游模型不可达 · ${data.error || ""}`;
+      } catch (err) {
+        statusEl.className = "bad";
+        statusEl.querySelector("span").textContent = "中枢未启动";
+      }
+    }
+
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const text = input.value.trim();
+      if (!text) return;
+      input.value = "";
+      addMessage("user", text);
+      const answer = addMessage("assistant", "");
+      const res = await fetch("/v1/glasses/chat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ session_id: sessionId, text }),
+      });
+      const reader = res.body.getReader();
+      const decoder = new TextDecoder();
+      let buffer = "";
+      while (true) {
+        const { value, done } = await reader.read();
+        if (done) break;
+        buffer += decoder.decode(value, { stream: true });
+        const parts = buffer.split("\n\n");
+        buffer = parts.pop();
+        for (const part of parts) {
+          const line = part.split("\n").find((item) => item.startsWith("data:"));
+          if (!line) continue;
+          const payload = JSON.parse(line.slice(5).trim());
+          if (payload.type === "delta") answer.textContent += payload.text;
+          if (payload.type === "done" && !answer.textContent) answer.textContent = payload.text || "（空回复）";
+        }
+      }
+    });
+
+    document.getElementById("reset").addEventListener("click", async () => {
+      await fetch("/v1/glasses/reset", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ session_id: sessionId }),
+      });
+      logEl.innerHTML = "";
+    });
+
+    refreshHealth();
+  </script>
+</body>
+</html>

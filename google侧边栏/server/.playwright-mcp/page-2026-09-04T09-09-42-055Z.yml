@@ -1,0 +1,1724 @@
+- generic [ref=e1]:
+  - link "欢迎进入 ,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。":
+    - /url: javascript:void(0)
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e5]:
+        - generic [ref=e8]:
+          - list [ref=e9]:
+            - listitem [ref=e10]:
+              - generic [ref=e11]:
+                - generic [ref=e12]: 中国大陆
+                - generic [ref=e13]: 
+            - listitem [ref=e15]:
+              - generic [ref=e16]:
+                - generic:
+                  - link "tb1262003_2012" [ref=e17] [cursor=pointer]:
+                    - /url: //i.taobao.com/my_itaobao?ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+                  - generic [ref=e18]: 
+            - listitem [ref=e20]:
+              - link "网页无障碍" [ref=e22] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e24]:
+              - generic [ref=e25]:
+                - generic [ref=e26]: Language
+                - generic [ref=e27]: 
+          - list [ref=e29]:
+            - listitem [ref=e30]:
+              - link "淘宝网首页" [ref=e33] [cursor=pointer]:
+                - /url: //www.taobao.com/
+            - listitem [ref=e34]:
+              - link "已买到的宝贝" [ref=e36] [cursor=pointer]:
+                - /url: //buyertrade.taobao.com/trade/itemlist/list_bought_items.htm
+            - listitem [ref=e38]:
+              - generic [ref=e39]:
+                - link "我的淘宝" [ref=e40] [cursor=pointer]:
+                  - /url: //i.taobao.com/my_itaobao
+                - generic [ref=e42]: 
+            - listitem [ref=e44]:
+              - link " 购物车 31" [ref=e46] [cursor=pointer]:
+                - /url: //cart.taobao.com/cart.htm?from=mini&ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+                - generic [ref=e47]: 
+                - generic [ref=e48]: 购物车
+                - generic [ref=e49]: "31"
+            - listitem [ref=e50]:
+              - generic [ref=e51]:
+                - link " 收藏夹" [ref=e52] [cursor=pointer]:
+                  - /url: //i.taobao.com/my_itaobao/itao-tool/collect
+                  - generic [ref=e53]: 
+                  - generic [ref=e54]: 收藏夹
+                - generic [ref=e55]: 
+            - listitem [ref=e57]:
+              - generic [ref=e58]:
+                - link "免费开店" [ref=e59] [cursor=pointer]:
+                  - /url: //ishop.taobao.com/openshop/tb_open_shop_landing.htm?source=tbweb1st
+                - generic [ref=e61]: 
+            - listitem [ref=e63]:
+              - generic [ref=e64]:
+                - link "千牛卖家中心" [ref=e65] [cursor=pointer]:
+                  - /url: //myseller.taobao.com/home.htm/QnworkbenchHome/
+                - generic [ref=e67]: 
+            - listitem [ref=e69]:
+              - generic [ref=e70]:
+                - link "帮助中心" [ref=e71] [cursor=pointer]:
+                  - /url: https://consumerservice.taobao.com
+                - generic [ref=e73]: 
+        - generic [ref=e76]:
+          - img [ref=e77]:
+            - link [ref=e78] [cursor=pointer]:
+              - /url: //www.taobao.com
+          - generic [ref=e79]:
+            - generic [ref=e80]:
+              - search [ref=e81]:
+                - generic [ref=e82]:
+                  - button "搜索" [ref=e83] [cursor=pointer]
+                  - textbox "请输入搜索文字" [active] [ref=e85]: 衣柜
+              - generic [ref=e86]: 搜同款
+            - button "对比" [ref=e95] [cursor=pointer]
+        - generic [ref=e101]:
+          - generic [ref=e2747]:
+            - generic [ref=e2748] [cursor=pointer]: 主流款式
+            - generic [ref=e2749] [cursor=pointer]: 热门材质
+          - generic [ref=e2754]:
+            - generic [ref=e2755]:
+              - img "走入式" [ref=e2756]
+              - generic "走入式" [ref=e2757]
+            - generic [ref=e2758]:
+              - img "一门到顶式" [ref=e2759]
+              - generic "一门到顶式" [ref=e2760]
+            - generic [ref=e2761]:
+              - img "转角式" [ref=e2762]
+              - generic "转角式" [ref=e2763]
+            - generic [ref=e2764]:
+              - img "简易" [ref=e2765]
+              - generic "简易" [ref=e2766]
+            - generic [ref=e2767]:
+              - img "推拉式" [ref=e2768]
+              - generic "推拉式" [ref=e2769]
+            - generic [ref=e2770]:
+              - img "折叠" [ref=e2771]
+              - generic "折叠" [ref=e2772]
+          - generic [ref=e176]:
+            - generic [ref=e178]:
+              - generic [ref=e179] [cursor=pointer]: 所有宝贝
+              - generic [ref=e181] [cursor=pointer]: 天猫
+              - generic [ref=e182] [cursor=pointer]: 淘宝
+              - generic [ref=e183] [cursor=pointer]: 店铺
+              - generic [ref=e184] [cursor=pointer]: 企业购
+            - generic [ref=e188]:
+              - button "发货地 " [ref=e190] [cursor=pointer]:
+                - generic [ref=e191]: 发货地
+                - generic [ref=e192]: 
+              - generic [ref=e195]:
+                - generic [ref=e196]: 
+                - generic [ref=e198] [cursor=pointer]: 
+              - generic [ref=e201]:
+                - button "上一页，当前第1页" [disabled] [ref=e202]:
+                  - generic [ref=e203]: 
+                - generic [ref=e204]:
+                  - emphasis [ref=e205]: "1"
+                  - text: /100
+                - button "下一页，当前第1页" [ref=e206] [cursor=pointer]:
+                  - generic [ref=e207]: 
+          - generic [ref=e208]:
+            - generic [ref=e209]:
+              - generic [ref=e210]:
+                - generic [ref=e212]:
+                  - tablist [ref=e217]:
+                    - tab "综合" [selected] [ref=e218]
+                    - tab "销量" [ref=e220]
+                  - generic:
+                    - tabpanel
+                - generic [ref=e222]:
+                  - generic [ref=e223]: 
+                  - generic [ref=e224]: 
+                  - tablist [ref=e231]:
+                    - tab "价格" [ref=e232]
+                    - tab "区间" [ref=e234]
+              - generic [ref=e237]:
+                - generic [ref=e239]:
+                  - generic [ref=e240]:
+                    - generic "国家补贴" [ref=e2773] [cursor=pointer]
+                    - generic "品牌" [ref=e2776] [cursor=pointer]
+                    - generic "新品" [ref=e2783] [cursor=pointer]
+                    - generic "百亿补贴" [ref=e2786] [cursor=pointer]
+                    - generic "包邮" [ref=e2789] [cursor=pointer]
+                    - generic "明日达" [ref=e2792] [cursor=pointer]
+                    - generic "可开发票" [ref=e2795] [cursor=pointer]
+                    - generic "对公支付" [ref=e2798] [cursor=pointer]
+                    - generic "全球购" [ref=e2801] [cursor=pointer]
+                    - generic "天猫国际" [ref=e2804] [cursor=pointer]
+                    - generic "淘宝秒杀" [ref=e2807] [cursor=pointer]
+                    - generic "淘金币抵钱" [ref=e2810] [cursor=pointer]
+                    - generic "天猫超市" [ref=e2813] [cursor=pointer]
+                    - generic "退货宝" [ref=e2816] [cursor=pointer]
+                    - generic "工厂优选" [ref=e2819] [cursor=pointer]
+                    - generic "7+天内退货" [ref=e2822] [cursor=pointer]
+                    - generic "家享卡" [ref=e2825] [cursor=pointer]
+                    - generic "公益宝贝" [ref=e2828] [cursor=pointer]
+                    - generic "超级立减" [ref=e2831] [cursor=pointer]
+                  - generic [ref=e2834] [cursor=pointer]
+                - generic [ref=e311]: 筛选
+            - generic [ref=e319]:
+              - link "简易推拉门衣柜出租屋超大容量储物收纳柜衣帽间防尘钢制落地衣橱 正在秒杀 直降80元 20+家装生活党看过 需要组装 现代简约 E1级 ¥ 52 .7 21人付款 河南 洛阳 政府补贴15% 48小时内发 包邮 回头客4万 摩基家居旗舰店 下载 选品 搜图" [ref=e2841] [cursor=pointer]:
+                - /url: https://click.simba.taobao.com/cc_im?p=%D2%C2%B9%F1&s=2116703&k=2637&e=xOPUbgxMZmpiyes8%2BBfOxpeOys%2FbPr7nv4oggJpJQWWEIpD9AzFgmUoh%2FeM4geXJgxi6NHdQQgMlx1jhmFKyTOFIYW2xxmEvOzeP4TYJVPe2RIdwCvTwMPQjMYey730G%2BXYvKnmqSuxxr%2FNOsEVcbMiWxUt9wDYth0j%2BlXnRy3z324unyC10RNb2ktKBspA4jkjXJw86hd3nrHaMPQruhFY5CSmKzpkVD7MqYvKktdlFIHod6nJuFwPAsX6ZR8Z8uoj%2FdQzIawDIriAFU1OxgYpEtn6ZFN2Sfj5xNF0MZgZAFDMlswjvQX212iiNHEWzZCaFHcuhNugUymTO4xTYUPUgwTnS0WN3G0%2F4Y8VLxqWlj%2BLu50bF%2FqTf9rZKBuywhhObBJ1H43Cb4R8osTzDf92azmWwOy%2FBNb%2FG3soSgLr0mHguPtJ0CHro5jx3O5qY98xr15oh2UPsWonCwlJLYB6h%2Bfwu0AmBC71EeYwTawurHiGSWUFF0Szyv1VRvXrBkpXkgrZsTuDbE0oUkPI3ch1%2B%2B2u9pZQw3EiQBSASGOigMCM2dSlvXg4jrvfD5QoJAaGhebJ0UMCEKHkPWtqKhhAVe0KOw6bxfBwvBIeeTH7AarHzqIalYZnhf%2BP1dg%2BB2A6q%2BpGPiKbGEG2iUhw%2BV45tg5izXoFb%2FhIfpRg5lkTJB1gy1wBZgZhXM3HVGqDAEg71OeAl7IetJAlQdSiXdSbn3EymuAfW5OQiOo3x19w5uKhErinH51olooaffh8jMorIA1KbopDtaLHlzQly%2BsNtu6cefXz9juFxU2JYezGaYTuUKz9ECdabobOIqgsszgSsFf6Xci2y9LS23txeJkCiDOlFRKdHA%2FhudklRenM5sQZ86JYWtwjEzmkZu6fUSI8RL6ZhbwNGVZk0enzU9UA0SdXo6%2FmktQbVf8Jauln6bMo%2Fn8Aqy%2FKECfpF%2FDIm3mpNAeNG7LREtzsQC%2FjMGt%2F0esM3fNmU7ONicrC3%2BUAVA0RZocMg6XK8p3Fh8pp0%2BWBBIbluHKaRo1ZuQkUTgcyyQREDYq9Hw8MA7oUnTL2jMaIlTxXpSsBWHyIbo7a0a1wNAJ0kv0DmaTTfhc0MzRXYoCnlVnUgtQbVf8JaulnZdsGrDb8a3phpKZpXbDXbX36U8jKoH5pt7i7FU1bWNFjGmJ2ykBNjn1viPZN6qwaPuJ6JcyD9qhmdv0N0%2FRfitk%2BPdK6i177q1SXEIY4a%2BVuCZ6sEv%2F9DBLyQqK0KjDys87UMpe%2BO4iqxec2OYNJnKMoyXraWmxf6pz4lYv%2F6im4P5pqaiqAUFspLlg2iysG1tLMRZ2lg43NYoa3p2Crk4aq5aTBC0oTsgghnF2yPvJ7%2BYDOIkd%2FGy6IrOrUyV1ofSNwcNoW4S7WHddyL6FmugrBgCDknk4LgatjrSyFeb5j9mwl8HXHImFus5XSt8L1oN%2F0J1mRO1JBsIey2aRHWLnsQYmbguSCB8VFQrQZDgLaRasIjdSs5hkhNW6JVdR4VA0RZocMg6ZmJJ21%2F3p6yV%2Bj9uD54acShF0NTxt0Xzs3%2FL25w9GL25bD8Y3dUrQigQ%2BEG6xIa73YTxFycArfvjWaSZ9aBTncdKfWeiY%2FPuRPsLAbmRkH4A7EWBfzI%2FXoi8IrGerNY3kgb4kPBwde7paPDmj%2BSx%2FhxJng7pDnKjny7llGIlSLvN6SS%2F45rYCIuvKf%2FLgWfjQFB6AbzsUQv7lyvDYzYFKwT%2B5YyO6%2BQMwz1E4mRCRjQIz6ZFkq55Cm8Ysl%2B3QCjbnrEH9aT35B9Qec%2FX1zNrRYG%2BqhLNZ3idZwdJqIvalOFtQbVf8Jauln%2FvJrBBd6HZ5tRfp6AwpS5OTgMueNhNerYrDQbrMTsQe6GM%2B8Mu36y9CMxh7LvfQZUUqHRkJRTIUmwftPNq%2BOR5pgJ%2BW33%2Fz8VoQEz1rydH%2B8DDqItDUUZ4Qk%2FqB0J9jKRcKmCkeWpfjy%2B3xo5fURQwcqXyTZRgspUKvNOjQd1lsgvkHqIXu852PFGfS0Zy1Y6EHe3OSEc2MhXDnKlBiBV5OV0d4b8gk6YtqkkEtikbNKAoUMTfAcnroUUQlpQaGH2cYRl70mvpsHKl8k2UYLKX%2BIuYRA5vSpNNjN1%2BHj7XTVn3omswkYlL16oMO4VwuOhJO7%2FTFFA%2B2VMI%2BLymmUM8l1FcvF%2FyMk6jGH33UkLne6gp9wXIZGQpfcDIXcGsxILAjIs569M9WEGE80jkBsvor4nIXgsNHC9oGb0hRII62WwM5HxCKoKv6iBDcJU1e%2FobZmOLpCkO3fh%2Fm8tEuu%2BAXAcFCUxdkByC9k5u12FvFT7z%2B%2B%2BZVkwamH5lRuVcfdVTOB7lzNQq78hTF%2Bxdf5zYXH5vAzf7NaCsllZIoMdRwxtTP9HzZJ43kulTlXh7IKr5MvbequLm%2BvU52wjxQK3ZnH61vtpkExARBA%2BT46khIkuEM8%2BqpXDyKR35JwOTwxvSAsHX1jyFfA7kiGHs8%2FB5d6YZWBe9Ft1Yk9H%2BKRzJ5Cl1%2BlW8MAyhRdf2DpyNbZ2eHfn9hi4puBCwWaEpPH95lRZpC0T3hfGF%2FUc1yO32r7hJ05vadBoZvtuCTNAUKEO%2FZrDwoQ%2BDicgl1bJ1pwu%2BTRx9uL%2FYxI%3D&mm_sceneid=0_0_5141536028_0&a=xxc%3Dad_ztc%26mi_id%3D0000yigcQBPWQtrcHwwIQpjY2mMed_p3USi112min2q8jec%26skuId%3D6127801717230%26priceTId%3D2100c92317885129798941241e0c0a%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%25252522b3dd2c79712d9bb67f828ac239268f86%25252522%2525257D%26&id=1075430762666&spm=a21n57.1.item.1
+                - generic [ref=e2842]:
+                  - generic [ref=e2843]:
+                    - generic "简易推拉门衣柜出租屋超大容量储物收纳柜衣帽间防尘钢制落地衣橱" [ref=e2850]
+                    - generic [ref=e2854]:
+                      - generic [ref=e2857]:
+                        - generic [ref=e2858]: 正在秒杀
+                        - generic [ref=e2859]: 直降80元
+                      - generic [ref=e2860]: 20+家装生活党看过
+                      - generic [ref=e2861]:
+                        - generic [ref=e2862]: 需要组装
+                        - generic [ref=e2865]: 现代简约
+                        - generic [ref=e2869]: E1级
+                    - generic [ref=e2874]:
+                      - generic [ref=e2875]: ¥
+                      - generic [ref=e2876]:
+                        - generic [ref=e2877]: "52"
+                        - generic [ref=e2878]: ".7"
+                      - generic [ref=e2879]: 21人付款
+                      - generic [ref=e2880]: 河南
+                      - generic [ref=e2881]: 洛阳
+                  - generic "政府补贴15% 48小时内发 包邮" [ref=e2882]:
+                    - generic [ref=e2883]: 政府补贴15%
+                    - generic [ref=e2885]: 48小时内发
+                    - generic [ref=e2887]: 包邮
+                  - link "回头客4万 摩基家居旗舰店" [ref=e2890]:
+                    - /url: https://click.simba.taobao.com/cc_im?p=%D2%C2%B9%F1&s=2116703&k=2593&e=Gy5A6r%2FXpSNiyes8%2BBfOxpeOys%2FbPr7nv4oggJpJQWWEIpD9AzFgmUoh%2FeM4geXJgxi6NHdQQgN3JDcIufb0U%2BFIYW2xxmEvOzeP4TYJVPe2RIdwCvTwMPQjMYey730G%2BXYvKnmqSuxxr%2FNOsEVcbMiWxUt9wDYth0j%2BlXnRy3z324unyC10RNb2ktKBspA4jkjXJw86hd3nrHaMPQruhFY5CSmKzpkVD7MqYvKktdlFIHod6nJuFwPAsX6ZR8Z8uoj%2FdQzIawDIriAFU1OxgYpEtn6ZFN2Sfj5xNF0MZgZAFDMlswjvQX212iiNHEWzZCaFHcuhNugUymTO4xTYUPUgwTnS0WN3G0%2F4Y8VLxqWlj%2BLu50bF%2FqTf9rZKBuywhhObBJ1H43Cb4R8osTzDf92azmWwOy%2FBNb%2FG3soSgLr0mHguPtJ0CHro5jx3O5qY98xr15oh2UPsWonCwlJLYB6h%2Bfwu0AmBC71EeYwTawurHiGSWUFF0Szyv1VRvXrBkpXkgrZsTuDbE0oUkPI3ch1%2B%2B2u9pZQw3EiQBSASGOigMCM2dSlvXg4jrvfD5QoJAaGhebJ0UMCEKHkPWtqKhhAVe0KOw6bxfBwvBIeeTH7AarHzqIalYZnhf%2BP1dg%2BB2A6q%2BpGPiKbGEG2iUhw%2BV45tg5izXoFb%2FhIfpRg5lkTJB1gy1wBZgZhXM3HVGqDAEg71OeAl7IetJAlQdSiXdSbn3EymuAfW5OQiOo3x19w5uKhErinH51olooaffh8jMorIA1KbopDtaLHlzQly%2BsNtu6cefXz9juFxU2JYezGaYTuUKz9ECdabobOIqgsszgSsFf6Xci2y9LS23txeJkCiDOlFRKdHA%2FhudklRenOZZYCS7ieIOAjEzmkZu6fUp8i4YUJFZVHyhAn6RfwyJt5qTQHjRuy0RLc7EAv4zBrf9HrDN3zZlOzjYnKwt%2FlAFQNEWaHDIOlyvKdxYfKadPlgQSG5bhymkaNWbkJFE4HMskERA2KvR8PDAO6FJ0y9ozGiJU8V6UrAVh8iG6O2tGtcDQCdJL9A5mk034XNDM0V2KAp5VZ1ILUG1X%2FCWrpZ2XbBqw2%2FGt6YaSmaV2w1219%2BlPIyqB%2Babe4uxVNW1jRYxpidspATY59b4j2TeqsGj7ieiXMg%2FaoZnb9DdP0X4rZPj3Suote%2B6tUlxCGOGvlbgmerBL%2F%2FQwS8kKitCow8rPO1DKXvjuIqsXnNjmDSZyjKMl62lpsX%2Bqc%2BJWL%2F%2BopuD%2BaamoqgFBbKS5YNosrBtbSzEWdpYONzWKGt6dgq5OGquWkwQtKE7IIIZxdsj7ye%2FmAziJHfxsuiKzq1MldaH0jcHDaFuEu1h3Xci%2BhZroKwYAg5J5OC4GrY60shXm%2BY%2FZsJfB1xyJhbrOV0rfC9aDf9CdZkTtSQbCHstmkR1i57EGJm4LkggfFRUK0GQ4C2kWrCI3UrOYZITVuiVXUeFQNEWaHDIOmZiSdtf96eslfo%2Fbg%2BeGnEoRdDU8bdF87N%2Fy9ucPRi9uWw%2FGN3VK0IoEPhBusSGu92E8RcnAK3741mkmfWgU53HSn1nomPz7kT7CwG5kZB%2BAOxFgX8yP16IvCKxnqzWN5IG%2BJDwcHXu6Wjw5o%2Fksf4cSZ4O6Q5yo58u5ZRiJUi7zekkv%2BOa2AiLryn%2Fy4Fn40BQegG87FEL%2B5crw2M2BSsE%2FuWMjuvkDMM9ROJkQkY0CM%2BmRZKueQpvGLJft0Ao256xB%2FWk9%2BQfUHnP19cza0WBvqoSzWd4nWcHSaiL2pThbUG1X%2FCWrpZ%2F7yawQXeh2ebUX6egMKUuTk4DLnjYTXq2Kw0G6zE7EHuhjPvDLt%2BsvQjMYey730GVFKh0ZCUUyFJsH7TzavjkeaYCflt9%2F8%2FFaEBM9a8nR%2FvAw6iLQ1FGeEJP6gdCfYykXCpgpHlqX48vt8aOX1EUMHKl8k2UYLKVCrzTo0HdZbIL5B6iF7vOdjxRn0tGctWOhB3tzkhHNjIVw5ypQYgVeTldHeG%2FIJOmLapJBLYpGzSgKFDE3wHJ66FFEJaUGhh9nGEZe9Jr6bBypfJNlGCyl%2FiLmEQOb0qTTYzdfh4%2B101Z96JrMJGJS9eqDDuFcLjoSTu%2F0xRQPtlTCPi8pplDPJdRXLxf8jJOoxh991JC53uoKfcFyGRkKX3AyF3BrMSCwIyLOevTPVhBhPNI5AbL6K%2BJyF4LDRwvaBm9IUSCOtlsDOR8QiqCr%2BogQ3CVNXv6G2Zji6QpDt34f5vLRLrvgFwHBQlMXZAcgvZObtdhbxU%2B8%2FvvmVZMGph%2BZUblXH3VUzge5czUKu%2FIUxfsXX%2Bc2Fx%2BbwM3%2BzWgrJZWSKDHUcMbUz%2FR82SeN5LpU5V4eyCq%2BTL23qri5vr1OdsI8UCt2Zx%2Btb7aZBMQEQQPk%2BOpISJLhDPPqqVw8ikd%2BScDk8Mb0gLB19Y8hXwO5Ihh7PPweXemGVgXvRbdWJPR%2FikcyeQpdfpVvDAMoUXX9g6cjW2dnh35%2FYYuKbgQsFmhKTx%2FeZUWaQtE94Xxhf1HNcjt9q%2B4SdOb2nQaGb7bgkzQFChDv2aw8KEPg4nIJdWydacLvk0cfbi%2F2MS&mm_sceneid=0_0_5141536028_0&spm=a21n57.1.item.1
+                    - generic [ref=e2891]: 回头客4万
+                    - generic [ref=e2893]: 摩基家居旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "衣柜家用平开门成人简约现代组合经济型上下抽屉柜实木储物大衣橱 超级立减衣柜回购 榜·第5名 161万+家装生活党看过 60kg 现代简约 Enf级 ¥ 640 .05 6000+人付款 广东 佛山 政府补贴15% 超级立减22% 包邮 极有家 艾尚美家居 下载 选品 搜图" [ref=e2896] [cursor=pointer]:
+                - /url: https://click.simba.taobao.com/cc_im?p=%D2%C2%B9%F1&s=2116703&k=2689&e=AsEV7nwvq%2BZiyes8%2BBfOxpeOys%2FbPr7nzoF2US4UlJqEKAw5wrdCg%2Bu1tn9gtyC1gxi6NHdQQgPpGSY9uJImFpEti%2BXbgnwXZtIil12DuTW2RIdwCvTwMAgA9JVC86xf%2BXYvKnmqSuxxr%2FNOsEVcbMiWxUt9wDYth0j%2BlXnRy3z324unyC10RNb2ktKBspA4jkjXJw86hd3nrHaMPQruhFY5CSmKzpkVD7MqYvKktdlFIHod6nJuFwPAsX6ZR8Z8uoj%2FdQzIawDIriAFU1OxgYpEtn6ZFN2Sfj5xNF0MZgZAFDMlswjvQX212iiNHEWzZCaFHcuhNugUymTO4xTYUPUgwTnS0WN3G0%2F4Y8VLxqWlj%2BLu50bF%2FqTf9rZKBuywhhObBJ1H43Cb4R8osTzDf92azmWwOy%2FBNb%2FG3soSgLr0mHguPtJ0CHro5jx3O5qY98xr15oh2UPsWonCwlJLYB6h%2Bfwu0AmBC71EeYwTawurHiGSWUFF0Szyv1VRvXrBkpXkgrZsTuDbE0oUkPI3ch1%2B%2B2u9pZQw3EiQBSASGOigMCM2dSlvXg4jrvfD5QoJAaGhebJ0UMCEKHkPWtqKhhAVe0KOw6bxfBwvBIeeTH7AarHzqIalYZnhf%2BP1dg%2BB2A6q%2BpGPiKbGEG2iUhw%2BV45tg5izXoFb%2FhIfpRg5lkTJB1gy1wBZgZhXM3HVGqDA1Ln7sG51abNP%2B0GA6KxWXxtlGjzQgDVBeju%2B3uEyk0A%2F7qvkelYmASUnnjE8kmCPIsEo4zkUI9Q6IPN%2Flg8LvniItS5i%2Bn3IeKHQ71mTdVTpRdkPLh2zD9LA6c%2BI%2FzUe2PBJudAtoiJLwK7dvF%2B58oPOCVV7fTDzUu68GrMzIAhvS4KY3bgxWs9mFFDXdjENfx7XDvEk1xw%2B1%2Bk%2Fflsq0J8Vd4QrP8wrT%2FtBgOisVl8M%2BzxC23pKIKhxhY9kVnn%2F3rZ%2B143govqgo4tONvO0uH7hdCjwggJNuCaMV%2Fp%2BWZ1fLQoQnvJGI2P5AQbO1u0eNvrMUY45NboqiaYnhA5SYstEUPY5UwOy7cHZCtxtfuuuFb2xqqoT%2BykeuWC7Ry9lVQOU6T4z%2B9IHCC80%2B8OlxKlLud4go2YZ1YhtlzoTm0ocXTgo8jQFDE7txSL3Or9P%2B5GUaxzk3Q%2Fdv9Uf9SiVUZdQwnlxBP%2BXAn1TnudpEefywrN8gh0FE94dz%2FrZAQ59m0yfxgXv7nEq9f3RYKLG87lrppUe1g3yix7rjtUMsUiNEdWa%2BJugpz89LdluqfFOwt%2BjSDzD2SdfeMlm7If5jIm4aY%2By3bhQjfERl2PL5ywTY%2FBkldnymOz%2FVsyaAQlJcSLQTiuBH80VZ6VdMN2K76GFmfG5xmZhI3nRSFjFVS4EIfNvHkRwBU9k6ygJz%2B4K3JrkxUd271s%2F2TNYCtnqwrLY2cVkDEfU9wPcRG7Tno%2BdyNpjassgHqLOFp77X2fvm064H%2B%2F7sOzRuPq7xJ5KLbu1gXjISNHPyeTJR7Dw4CZBWXh2uLR2rch3xNyvGK%2B7eKHQ71mTdVTpRdkPLh2zD9LA6c%2BI%2FzUe2PBJudAtoiJLwK7dvF%2B58mxeZ5XOxk3CobbLSgnQHOqTwH4iYo%2BnNcsVMheKGfX%2Fy6sZY8Muuq9oDUj2vVzsdz1cbCjA%2FMS08C%2BkVTkh8lp3o6AoBWSrYx0p9Z6Jj8%2B5S8Cu3bxfufJ%2F0sRDYFNnhSLwisZ6s1jeSBviQ8HB17ulo8OaP5LH%2BHEmeDukOcqOfLuWUYiVIu%2BZmlGm9hlBxqlwilrpS%2BzsRZfr3FW5nz55Z1P7snLq2DTvadh3sn7iB%2Fo9XO3ywNc0nzh2s3gqSoDhJhvL7k7aMSlGZ%2FMDzGpoTIv0g6qUUOGhgzPBIOI4m1F%2BnoDClLn2%2FVK45KpiI2hMi%2FSDqpRQ7yGi%2F4bFXMBcf6CCv6F5zdhUeNuRUxeaov2QhOPqbH5GpFjaH7snjo4RNaONwogifBprTuUjsMjDTh0kNF7E4DhUp43AHGBsrWIM%2F%2BcZ40s8uNsNdDAfI7HnIOgVCfR5MUv9Be43T20XCBBTjIJQayGq5D8rywDZh2%2B5cLfp0Rk8yVNIB2TY4a8bNb%2FZlOEFJm9MNiMbLt1PjYowbe2248rjZXeX6GDM8td3PdzeQ8%2Bjcx9oAxCr%2BOl%2FJpGeJ%2BgQrkTApBoCPY8EUnpiQ1CvI4KE%2B1ccGBaG%2FuaGyoN0le0LkZj5pwXaCXI6wH6aFJuGuMYSSldtCM4pyBnmXLbv%2Fk1sVSs%2FxbTrT2jA3f4JwmiiQ2vPLZG66kMnQD8i%2Fqay06gTD%2B%2FI4fEGGdqoZdFUWHUwvUCYJfdn0Qi1KZ67RFyocYWPZFZ5%2F%2FaLMV8tZIEd509xrIrTTfU8bktYJOpXMljZEzKu%2FeOcRt1xcb7EXSLLg9boIxkLQJe4DySxWcVe7PfU3YUUOabybXfzdHoSgRLarVqvJ0IQeOniNC9Fo%2FK%2FGsbvL%2FgGq%2B%2F5MwOUCAS7SUZxlmpCXR3cMGlDrPxu1sRo8%2BCaCzA7cPmf26ksWm%2FEEiP1Uf7TjY3A15fe%2B8JLRE7VGZ%2FxgM7rcM0CfhT4zowZk%2Bv0gfx%2FmRCDs8Q9aXfVBgtix075gCQ8fjt6ErsTUb62Nyh5sF0kAvlL5mSuNArsE2bbar4eIvCKxnqzWN5IG%2BJDwcHXu8Q2L%2FGt1W46&mm_sceneid=2_0_113796832_0&a=xxc%3Dad_ztc%26mi_id%3D0000pW1d7mVvN2LlpH24tyx9z8z1NBWVEQgpe7BZmJGgQGQ%26skuId%3D6117115974907%26priceTId%3D2100c92317885129798941241e0c0a%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%25252522aca71f40870c302da5faea5bbcfbf5d7%25252522%2525257D%26&id=759624831015&spm=a21n57.1.item.2
+                - generic [ref=e2897]:
+                  - generic [ref=e2898]:
+                    - generic "衣柜家用平开门成人简约现代组合经济型上下抽屉柜实木储物大衣橱" [ref=e2904]
+                    - generic [ref=e2907]:
+                      - generic [ref=e2908]:
+                        - generic [ref=e2909]: 超级立减衣柜回购
+                        - generic [ref=e2910]: 榜·第5名
+                      - generic [ref=e2911]: 161万+家装生活党看过
+                      - generic [ref=e2912]:
+                        - generic [ref=e2913]: 60kg
+                        - generic [ref=e2916]: 现代简约
+                        - generic [ref=e2920]: Enf级
+                    - generic [ref=e2925]:
+                      - generic [ref=e2926]: ¥
+                      - generic [ref=e2927]:
+                        - generic [ref=e2928]: "640"
+                        - generic [ref=e2929]: ".05"
+                      - generic [ref=e2930]: 6000+人付款
+                      - generic [ref=e2931]: 广东
+                      - generic [ref=e2932]: 佛山
+                  - generic "政府补贴15% 超级立减22% 包邮" [ref=e2933]:
+                    - generic [ref=e2934]: 政府补贴15%
+                    - generic [ref=e2936]: 超级立减22%
+                    - generic [ref=e2938]: 包邮
+                  - link "极有家 艾尚美家居" [ref=e2941]:
+                    - /url: https://click.simba.taobao.com/cc_im?p=%D2%C2%B9%F1&s=2116703&k=2669&e=wivtwd4cB2xiyes8%2BBfOxpeOys%2FbPr7nzoF2US4UlJqEKAw5wrdCg%2Bu1tn9gtyC1gxi6NHdQQgNNQCAmpBKpX5Eti%2BXbgnwXZtIil12DuTW2RIdwCvTwMAgA9JVC86xf%2BXYvKnmqSuxxr%2FNOsEVcbMiWxUt9wDYth0j%2BlXnRy3z324unyC10RNb2ktKBspA4jkjXJw86hd3nrHaMPQruhFY5CSmKzpkVD7MqYvKktdlFIHod6nJuFwPAsX6ZR8Z8uoj%2FdQzIawDIriAFU1OxgYpEtn6ZFN2Sfj5xNF0MZgZAFDMlswjvQX212iiNHEWzZCaFHcuhNugUymTO4xTYUPUgwTnS0WN3G0%2F4Y8VLxqWlj%2BLu50bF%2FqTf9rZKBuywhhObBJ1H43Cb4R8osTzDf92azmWwOy%2FBNb%2FG3soSgLr0mHguPtJ0CHro5jx3O5qY98xr15oh2UPsWonCwlJLYB6h%2Bfwu0AmBC71EeYwTawurHiGSWUFF0Szyv1VRvXrBkpXkgrZsTuDbE0oUkPI3ch1%2B%2B2u9pZQw3EiQBSASGOigMCM2dSlvXg4jrvfD5QoJAaGhebJ0UMCEKHkPWtqKhhAVe0KOw6bxfBwvBIeeTH7AarHzqIalYZnhf%2BP1dg%2BB2A6q%2BpGPiKbGEG2iUhw%2BV45tg5izXoFb%2FhIfpRg5lkTJB1gy1wBZgZhXM3HVGqDA1Ln7sG51abNP%2B0GA6KxWXxtlGjzQgDVBeju%2B3uEyk0A%2F7qvkelYmASUnnjE8kmCPIsEo4zkUI9Q6IPN%2Flg8LvniItS5i%2Bn3IeKHQ71mTdVTpRdkPLh2zD9LA6c%2BI%2FzUe2PBJudAtoiJLwK7dvF%2B58oPOCVV7fTDzUu68GrMzIAil7ogc0xxDhPImyPcNl5UHKphX8rXWDMUJ4LtmGsgVIQz7PELbekogqHGFj2RWef%2Fetn7XjeCi%2BqCji04287S4fuF0KPCCAk24JoxX%2Bn5ZnV8tChCe8kYjY%2FkBBs7W7R42%2BsxRjjk1uiqJpieEDlJiy0RQ9jlTA7LtwdkK3G1%2B664VvbGqqhP7KR65YLtHL2VVA5TpPjP70gcILzT7w6XEqUu53iCjZhnViG2XOhObShxdOCjyNAUMTu3FIvc6v0%2F7kZRrHOTdD92%2F1R%2F1KJVRl1DCeXEE%2F5cCfVOe52kR5%2FLCs3yCHQUT3h3P%2BtkBDn2bTJ%2FGBe%2FucSr1%2FdFgosbzuWumlR7WDfKLHuuO1QyxSI0R1Zr4m6CnPz0t2W6p8U7C36NIPMPZJ194yWbsh%2FmMibhpj7LduFCN8RGXY8vnLBNj8GSV2fKY7P9WzJoBCUlxItBOK4EfzRVnpV0w3YrvoYWZ8bnGZmEjedFIWMVVLgQh828eRHAFT2TrKAnP7grcmuTFR3bvWz%2FZM1gK2erCstjZxWQMR9T3A9xEbtOej53I2mNqyyAeos4WnvtfZ%2B%2BbTrgf7%2Fuw7NG4%2BrvEnkotu7WBeMhI0c%2FJ5MlHsPDgJkFZeHa4tHatyHfE3K8Yr7t4odDvWZN1VOlF2Q8uHbMP0sDpz4j%2FNR7Y8Em50C2iIkvArt28X7nybF5nlc7GTcKhtstKCdAc6pPAfiJij6c1yxUyF4oZ9f%2FLqxljwy66r2gNSPa9XOx3PVxsKMD8xLTwL6RVOSHyWnejoCgFZKtjHSn1nomPz7lLwK7dvF%2B58n%2FSxENgU2eFIvCKxnqzWN5IG%2BJDwcHXu6Wjw5o%2Fksf4cSZ4O6Q5yo58u5ZRiJUi75maUab2GUHGqXCKWulL7OxFl%2BvcVbmfPnlnU%2FuycurYNO9p2HeyfuIH%2Bj1c7fLA1zSfOHazeCpKgOEmG8vuTtoxKUZn8wPMamhMi%2FSDqpRQ4aGDM8Eg4jibUX6egMKUufb9UrjkqmIjaEyL9IOqlFDvIaL%2FhsVcwFx%2FoIK%2FoXnN2FR425FTF5qi%2FZCE4%2BpsfkakWNofuyeOjhE1o43CiCJ8GmtO5SOwyMNOHSQ0XsTgOFSnjcAcYGytYgz%2F5xnjSzy42w10MB8jsecg6BUJ9HkxS%2F0F7jdPbRcIEFOMglBrIarkPyvLANmHb7lwt%2BnRGTzJU0gHZNjhrxs1v9mU4QUmb0w2Ixsu3U%2BNijBt7bbjyuNld5foYMzy13c93N5Dz6NzH2gDEKv46X8mkZ4n6BCuRMCkGgI9jwRSemJDUK8jgoT7VxwYFob%2B5obKg3SV7QuRmPmnBdoJcjrAfpoUm4a4xhJKV20IzinIGeZctu%2F%2BTWxVKz%2FFtOtPaMDd%2FgnCaKJDa88tkbrqQydAPyL%2BprLTqBMP78jh8QYZ2qhl0VRYdTC9QJgl92fRCLUpnrtEXKhxhY9kVnn%2F9osxXy1kgR3nT3GsitNN9TxuS1gk6lcyWNkTMq7945xG3XFxvsRdIsuD1ugjGQtAl7gPJLFZxV7s99TdhRQ5pvJtd%2FN0ehKBEtqtWq8nQhB46eI0L0Wj8r8axu8v%2BAar7%2FkzA5QIBLtJRnGWakJdHdwwaUOs%2FG7WxGjz4JoLMDtw%2BZ%2FbqSxab8QSI%2FVR%2FtONjcDXl977wktETtUZn%2FGAzutwzQJ%2BFPjOjBmT6%2FSB%2FH%2BZEIOzxD1pd9UGC2LHTvmAJDx%2BO3oSuxNRvrY3KHmwXSQC%2BUvmZK40CuwTZttqvh4i8IrGerNY3kgb4kPBwde7xDYv8a3Vbjo%3D&mm_sceneid=2_0_113796832_0&spm=a21n57.1.item.2
+                    - generic [ref=e2942]: 极有家
+                    - generic [ref=e2945]: 艾尚美家居
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "开放式衣柜自制步入式衣帽间衣橱组合衣服货架挂衣架落地卧室架子 碳钢 通用 收纳 ¥ 156 优惠后 8000+人付款 江苏 徐州 超级立减20% 3期 30天价保 极有家 简约现代风格家具 下载 选品 搜图" [ref=e2948] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=959061041806&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000yHG90gx3XnMpoq9htKvzfmxJCmDwIUZCUvPzZ_S_UmE&skuId=6080806172996&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%226c46f6df46c70c74d98e9eeaf0d97818%22%7D&spm=a21n57.1.item.3
+                - generic [ref=e2949]:
+                  - generic [ref=e2950]:
+                    - generic "开放式衣柜自制步入式衣帽间衣橱组合衣服货架挂衣架落地卧室架子" [ref=e2956]
+                    - generic [ref=e2960]:
+                      - generic [ref=e2961]: 碳钢
+                      - generic [ref=e2964]: 通用
+                      - generic [ref=e2968]: 收纳
+                    - generic [ref=e2973]:
+                      - generic [ref=e2974]: ¥
+                      - generic [ref=e2975]: "156"
+                      - generic [ref=e2977]: 优惠后
+                      - generic [ref=e2978]: 8000+人付款
+                      - generic [ref=e2979]: 江苏
+                      - generic [ref=e2980]: 徐州
+                  - generic "超级立减20% 3期 30天价保" [ref=e2981]:
+                    - generic [ref=e2982]: 超级立减20%
+                    - generic [ref=e2984]: 3期
+                    - generic [ref=e2986]: 30天价保
+                  - link "极有家 简约现代风格家具" [ref=e2989]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWUFY4HEGkE1DPgtv8my9nUJjdqARfY3vh2fHRwKdJXao7&spm=a21n57.1.item.3
+                    - generic [ref=e2990]: 极有家
+                    - generic [ref=e2993]: 简约现代风格家具
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "简易衣柜卧室家用2026新款爆款结实耐用儿童宝宝成人衣橱出租屋用 卧室 新中式 纯色 ¥ 95 .07 补贴后 1万+人付款 广东 潮州 政府补贴15% 超级立减20% 热销爆款 回头客30万 百年正和旗舰店 下载 选品 搜图" [ref=e2996] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=944993660767&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000JKidhz_i_TtVe4ZROlHuhcKvV-twmQCs-d6XLbmB8mU&skuId=6242812439378&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22e017aedb6a79b9daa047a461333e736d%22%7D&spm=a21n57.1.item.4
+                - generic [ref=e2997]:
+                  - generic [ref=e2998]:
+                    - generic "简易衣柜卧室家用2026新款爆款结实耐用儿童宝宝成人衣橱出租屋用" [ref=e3004]
+                    - generic [ref=e3009]:
+                      - generic [ref=e3010]: 卧室
+                      - generic [ref=e3013]: 新中式
+                      - generic [ref=e3017]: 纯色
+                    - generic [ref=e3022]:
+                      - generic [ref=e3023]: ¥
+                      - generic [ref=e3024]:
+                        - generic [ref=e3025]: "95"
+                        - generic [ref=e3026]: ".07"
+                      - generic [ref=e3027]: 补贴后
+                      - generic [ref=e3028]: 1万+人付款
+                      - generic [ref=e3029]: 广东
+                      - generic [ref=e3030]: 潮州
+                  - generic "政府补贴15% 超级立减20% 热销爆款" [ref=e3031]:
+                    - generic [ref=e3032]: 政府补贴15%
+                    - generic [ref=e3034]: 超级立减20%
+                    - generic [ref=e3036]: 热销爆款
+                  - link "回头客30万 百年正和旗舰店" [ref=e3039]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWZXcpg4UkHKNyL14H4xRykZ21iphoiLLp2rN688fLrpFw&spm=a21n57.1.item.4
+                    - generic [ref=e3040]: 回头客30万
+                    - generic [ref=e3042]: 百年正和旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "ENF级18mm加厚实木欧松板衣柜卧室家用加深60柜子出租房储物衣橱 53万+家装生活党看过 50kg 3个 现代简约 ¥ 608 优惠后 2000+人付款 广东 佛山 超级立减20% 包邮 公益宝贝 极有家 Hei设计家居 下载 选品 搜图" [ref=e3045] [cursor=pointer]:
+                - /url: https://click.simba.taobao.com/cc_im?p=%D2%C2%B9%F1&s=2116703&k=2617&e=dFrP3DAnap1iyes8%2BBfOxpeOys%2FbPr7nzoF2US4UlJqEKAw5wrdCg%2Bu1tn9gtyC1gxi6NHdQQgPAYij%2FsyEbDEwcVk8y2bPdaKIGQT7gFn%2B2RIdwCvTwMAgA9JVC86xf%2BXYvKnmqSuxxr%2FNOsEVcbMiWxUt9wDYth0j%2BlXnRy3z324unyC10RNb2ktKBspA4jkjXJw86hd3nrHaMPQruhFY5CSmKzpkVD7MqYvKktdlFIHod6nJuFwPAsX6ZR8Z8uoj%2FdQzIawDIriAFU1OxgYpEtn6ZFN2Sfj5xNF0MZgZAFDMlswjvQX212iiNHEWzZCaFHcuhNugUymTO4xTYUPUgwTnS0WN3G0%2F4Y8VLxqWlj%2BLu50bF%2FqTf9rZKBuywhhObBJ1H43Cb4R8osTzDf92azmWwOy%2FBNb%2FG3soSgLr0mHguPtJ0CHro5jx3O5qY98xr15oh2UPsWonCwlJLYB6h%2Bfwu0AmBC71EeYwTawurHiGSWUFF0Szyv1VRvXrBkpXkgrZsTuDbE0oUkPI3ch1%2B%2B2u9pZQw3EiQBSASGOigMCM2dSlvXg4jrvfD5QoJAaGhebJ0UMCEKHkPWtqKhhAVe0KOw6bxfBwvBIeeTH7AarHzqIalYZnhf%2BP1dg%2BB2A6q%2BpGPiKbGEG2iUhw%2BV45tg5izXoFb%2FhIfpRg5lkTJB1gy1wBZgZhXM3HVGqDAC13Q5ug3Wcyi%2B%2Ffo75Vn%2BuMbXvzsOA9kcK9oOZFh6wcn4aMsX5SFXFqFVwRe4ksc2lfhtjXoO7r3h7wE3iVEAp80JSyxSQMbewDyTkepRFF7mbxlFqhFg7n3d3rsgp%2FDPG0zvZXcjHAGiaj40cBaSsgZXRWH6u8NUu68GrMzIAhvS4KY3bgxWs9mFFDXdjENfx7XDvEk1xw%2B1%2Bk%2Fflsq0IhSjZFa5B6sovv36O%2BVZ%2Fpw6E8mqVxyC9924%2For22JajRh%2FZiZqKfGhID%2BHi82USfzcsPKXWGjbeAc3Mf2X07YoCaRHNtpiGzKZCk9xd0ynePCS3j9qFqTv%2BTMDlAgEu0lGcZZqQl0d3DBpQ6z8btbEaPPgmgswOwIjf5rcRvfPh2%2B5cLfp0RlAdo1yyvTVHlKyaAs4yiTmn%2BLbwnadyNXDXCndKFnzXDtK02MWY%2BXpGgpwMy9GS1nkYo3uD95DlOMbXvzsOA9koCrInomgWgTb%2BCE6uQil%2Flz9LqUOQqh3KU%2FYsx1XgM5QIUx5zVJM6Yu3lDE1DQowhATUeXcL46vR8ql4f7meOqBeUmR1OsLzkoYO46XT3M28BTlecPgb7AylmY4PL0t9TJDxu3Kr6kaZqdoasqJlHVnET5LWlLD7gdA29N78hhPjT5wiV2JZLtA9EY4dPjnub8SI5oSQrUorPYUiPfZK9run3TKR5W9usz98%2FJie0UP%2FP5KI3XU5vJKDcKANt1iNeqQVzgfa6dT8Vb5Kt8E6uH4emU29HaMX5lINZT5gVX8vuaBaSkT%2F3MogiZpxsQnDjBIqkTMg9%2BrNmEQYbAfzHktF1jNVJTCAxx3J2moEzbzT98PllL4LQi2oKuasuLVhdYT%2BARqWyz7ryV7n0VYcaXuZvGUWqEWDA%2BlWXw33jQOs1TA%2F0nlfnuMcbGh7Oa7IETij9B0hUXmrrL1UtWogWFZw8vZ%2FJeG8ClfPl4rgY0y6LrBAmOvK%2Fplz9zsTF04mR2zUFgd%2FrYTePFX9durZzPiSgiwLZy7wHZa4V1JmuO8ezMZVSOB35XO%2B8Og3Vnxb%2BOd5wQIrYi5uMF0t2KOtlQs14Ngul8nlGL9JgnxCYys5Ohg2dBcZlSij2Iqw9ea8tbD05Nf94upJBrfJfh2I%2FTk6GDZ0FxmVMXFWXWquQyYxCfSwBUeaspIU9pcT8MZUe9gH6vT8hrrkXz4%2FreQBWLUw2P80uVUoJ%2Bji9aNRW%2FL4YwQNOZvIY1nNVify1KCdN9L2ImB7sO7BypfJNlGCyiIr1PsFA65JyC%2BQeohe7zkBcYDQQdrg8bio8Hzx36wCJhbfD2iVK5%2Fk5XR3hvyCTpi2qSQS2KRstTCJLypZUSHso%2F1lH0rBzfIfVcmeaQvP3NXkfCm6uzJvqQx9Sd3TS41NJFSdu2k%2BVi9uwV4n37Ldxnzvj90LKoKE%2B1ccGBaGE1ulezwo2g2H6pfJew0Eay4Uipdd9wX4uDA%2F8r7czVTvnjZJZlIiValiSvqW4LIBCxfwBR8LZpghs9jHcmQWqMDWL1Zqqq33Iq%2FTG0Pol%2BwqG7J52n%2FS0Qsi4VaIDQ1ai%2F8YsMzWCGkHyJF8%2BwH15zmCzk2nXJJ%2FB6j0UeJ9yLGIGyoDOYPGX1qXUAMMtNJxHpRCPWUM%2FhxGBi6QP6bC11pke%2B%2Fj%2F1Q9%2Bumm8pB5MW14Bzcx%2FZfTtigJpEc22mIbMpkKT3F3TKd48JLeP2oWpO%2F5MwOUCAS7SUZxlmpCXR3cMGlDrPxu1sRo8%2BCaCzA7AiN%2FmtxG98%2BHb7lwt%2BnRGV3spN559q6HsYYC6s1u2p1SsmgLOMok5p%2Fi28J2ncjVFnimmyIoGbUgv2OKSuny9LHWp%2Fiusda5tJ%2BhZ7JOkCY7OQTx%2FkPHGtQT0Z42UQUyM%2FzVXON7zYkUsoJt8PMPpA%3D%3D&mm_sceneid=0_0_122661592_0&a=xxc%3Dad_ztc%26mi_id%3D0000d-CZ72cIWJ8wQiVuKhRiGAZjD5lYCfFZzXAYD9GnvmY%26skuId%3D6242261826500%26priceTId%3D2100c92317885129798941241e0c0a%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%25252522b75333720438b4fce460c149f2e2aff1%25252522%2525257D%26&id=828913034882&spm=a21n57.1.item.5
+                - generic [ref=e3046]:
+                  - generic [ref=e3047]:
+                    - generic "ENF级18mm加厚实木欧松板衣柜卧室家用加深60柜子出租房储物衣橱" [ref=e3053]
+                    - generic [ref=e3056]:
+                      - generic [ref=e3057]: 53万+家装生活党看过
+                      - generic [ref=e3058]:
+                        - generic [ref=e3059]: 50kg
+                        - generic [ref=e3062]: 3个
+                        - generic [ref=e3066]: 现代简约
+                    - generic [ref=e3071]:
+                      - generic [ref=e3072]: ¥
+                      - generic [ref=e3073]: "608"
+                      - generic [ref=e3075]: 优惠后
+                      - generic [ref=e3076]: 2000+人付款
+                      - generic [ref=e3077]: 广东
+                      - generic [ref=e3078]: 佛山
+                  - generic "超级立减20% 包邮 公益宝贝" [ref=e3079]:
+                    - generic [ref=e3080]: 超级立减20%
+                    - generic [ref=e3082]: 包邮
+                    - generic [ref=e3084]: 公益宝贝
+                  - link "极有家 Hei设计家居" [ref=e3087]:
+                    - /url: https://click.simba.taobao.com/cc_im?p=%D2%C2%B9%F1&s=2116703&k=2593&e=Q3kVdhaw4j9iyes8%2BBfOxpeOys%2FbPr7nzoF2US4UlJqEKAw5wrdCg%2Bu1tn9gtyC1gxi6NHdQQgNNKwZeBXtobUwcVk8y2bPdaKIGQT7gFn%2B2RIdwCvTwMAgA9JVC86xf%2BXYvKnmqSuxxr%2FNOsEVcbMiWxUt9wDYth0j%2BlXnRy3z324unyC10RNb2ktKBspA4jkjXJw86hd3nrHaMPQruhFY5CSmKzpkVD7MqYvKktdlFIHod6nJuFwPAsX6ZR8Z8uoj%2FdQzIawDIriAFU1OxgYpEtn6ZFN2Sfj5xNF0MZgZAFDMlswjvQX212iiNHEWzZCaFHcuhNugUymTO4xTYUPUgwTnS0WN3G0%2F4Y8VLxqWlj%2BLu50bF%2FqTf9rZKBuywhhObBJ1H43Cb4R8osTzDf92azmWwOy%2FBNb%2FG3soSgLr0mHguPtJ0CHro5jx3O5qY98xr15oh2UPsWonCwlJLYB6h%2Bfwu0AmBC71EeYwTawurHiGSWUFF0Szyv1VRvXrBkpXkgrZsTuDbE0oUkPI3ch1%2B%2B2u9pZQw3EiQBSASGOigMCM2dSlvXg4jrvfD5QoJAaGhebJ0UMCEKHkPWtqKhhAVe0KOw6bxfBwvBIeeTH7AarHzqIalYZnhf%2BP1dg%2BB2A6q%2BpGPiKbGEG2iUhw%2BV45tg5izXoFb%2FhIfpRg5lkTJB1gy1wBZgZhXM3HVGqDAC13Q5ug3Wcyi%2B%2Ffo75Vn%2BuMbXvzsOA9kcK9oOZFh6wcn4aMsX5SFXFqFVwRe4ksc2lfhtjXoO7r3h7wE3iVEAp80JSyxSQMbewDyTkepRFF7mbxlFqhFg7n3d3rsgp%2FDPG0zvZXcjHAGiaj40cBaSsgZXRWH6u8NUu68GrMzIAil7ogc0xxDhBx1DZeVlgtXkbPPKmpxUe8J4LtmGsgVIXDoTyapXHIL33bj%2BivbYlqNGH9mJmop8aEgP4eLzZRJ%2FNyw8pdYaNt4Bzcx%2FZfTtigJpEc22mIbMpkKT3F3TKd48JLeP2oWpO%2F5MwOUCAS7SUZxlmpCXR3cMGlDrPxu1sRo8%2BCaCzA7AiN%2FmtxG98%2BHb7lwt%2BnRGUB2jXLK9NUeUrJoCzjKJOaf4tvCdp3I1cNcKd0oWfNcO0rTYxZj5ekaCnAzL0ZLWeRije4P3kOU4xte%2FOw4D2SgKsieiaBaBNv4ITq5CKX%2BXP0upQ5CqHcpT9izHVeAzlAhTHnNUkzpi7eUMTUNCjCEBNR5dwvjq9HyqXh%2FuZ46oF5SZHU6wvOShg7jpdPczbwFOV5w%2BBvsDKWZjg8vS31MkPG7cqvqRpmp2hqyomUdWcRPktaUsPuB0Db03vyGE%2BNPnCJXYlku0D0Rjh0%2BOe5vxIjmhJCtSis9hSI99kr2u6fdMpHlb26zP3z8mJ7RQ%2F8%2FkojddTm8koNwoA23WI16pBXOB9rp1PxVvkq3wTq4fh6ZTb0doxfmUg1lPmBVfy%2B5oFpKRP%2FcyiCJmnGxCcOMEiqRMyD36s2YRBhsB%2FMeS0XWM1UlMIDHHcnaagTNvNP3w%2BWUvgtCLagq5qy4tWF1hP4BGpbLPuvJXufRVhxpe5m8ZRaoRYMD6VZfDfeNA6zVMD%2FSeV%2Be4xxsaHs5rsgROKP0HSFReausvVS1aiBYVnDy9n8l4bwKV8%2BXiuBjTLousECY68r%2BmXP3OxMXTiZHbNQWB3%2BthN48Vf126tnM%2BJKCLAtnLvAdlrhXUma47x7MxlVI4Hflc77w6DdWfFv453nBAitiLm4wXS3Yo62VCzXg2C6XyeUYv0mCfEJjKzk6GDZ0FxmVKKPYirD15ry1sPTk1%2F3i6kkGt8l%2BHYj9OToYNnQXGZUxcVZdaq5DJjEJ9LAFR5qykhT2lxPwxlR72Afq9PyGuuRfPj%2Bt5AFYtTDY%2FzS5VSgn6OL1o1Fb8vhjBA05m8hjWc1WJ%2FLUoJ030vYiYHuw7sHKl8k2UYLKIivU%2BwUDrknIL5B6iF7vOQFxgNBB2uDxuKjwfPHfrAImFt8PaJUrn%2BTldHeG%2FIJOmLapJBLYpGy1MIkvKllRIeyj%2FWUfSsHN8h9VyZ5pC8%2Fc1eR8Kbq7Mm%2BpDH1J3dNLjU0kVJ27aT5WL27BXiffst3GfO%2BP3QsqgoT7VxwYFoYTW6V7PCjaDYfql8l7DQRrLhSKl133Bfi4MD%2FyvtzNVO%2BeNklmUiJVqWJK%2BpbgsgELF%2FAFHwtmmCGz2MdyZBaowNYvVmqqrfcir9MbQ%2BiX7Cobsnnaf9LRCyLhVogNDVqL%2FxiwzNYIaQfIkXz7AfXnOYLOTadckn8HqPRR4n3IsYgbKgM5g8ZfWpdQAwy00nEelEI9ZQz%2BHEYGLpA%2FpsLXWmR77%2BP%2FVD366abykHkxbXgHNzH9l9O2KAmkRzbaYhsymQpPcXdMp3jwkt4%2Fahak7%2FkzA5QIBLtJRnGWakJdHdwwaUOs%2FG7WxGjz4JoLMDsCI3%2Ba3Eb3z4dvuXC36dEZXeyk3nn2roexhgLqzW7anVKyaAs4yiTmn%2BLbwnadyNUWeKabIigZtSC%2FY4pK6fL0sdan%2BK6x1rm0n6Fnsk6QJjs5BPH%2BQ8ca1BPRnjZRBTIz%2FNVc43vNiRSygm3w8w%2Bk&mm_sceneid=0_0_122661592_0&spm=a21n57.1.item.5
+                    - generic [ref=e3088]: 极有家
+                    - generic [ref=e3091]: Hei设计家居
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "衣柜家用卧室2026新款中古风收纳子柜简易出租房分段式木质挂衣橱 需要组装 中古风 E1级 ¥ 209 .5 优惠后 2000+人付款 江苏 宿迁 超级立减20% 6期 包邮 一鸣家具店 下载 选品 搜图" [ref=e3094] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=1023483195226&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=00003hiLsU84QgosQxgxJgMn3yQv_QLpUF9X4lVBrsoQo6Y&skuId=6131778924439&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22754cff6c2c0debdb811e1a841e1b705e%22%7D&spm=a21n57.1.item.6
+                - generic [ref=e3095]:
+                  - generic [ref=e3096]:
+                    - generic "衣柜家用卧室2026新款中古风收纳子柜简易出租房分段式木质挂衣橱" [ref=e3098]
+                    - generic [ref=e3102]:
+                      - generic [ref=e3103]: 需要组装
+                      - generic [ref=e3106]: 中古风
+                      - generic [ref=e3110]: E1级
+                    - generic [ref=e3115]:
+                      - generic [ref=e3116]: ¥
+                      - generic [ref=e3117]:
+                        - generic [ref=e3118]: "209"
+                        - generic [ref=e3119]: ".5"
+                      - generic [ref=e3120]: 优惠后
+                      - generic [ref=e3121]: 2000+人付款
+                      - generic [ref=e3122]: 江苏
+                      - generic [ref=e3123]: 宿迁
+                  - generic "超级立减20% 6期 包邮" [ref=e3124]:
+                    - generic [ref=e3125]: 超级立减20%
+                    - generic [ref=e3127]: 6期
+                    - generic [ref=e3129]: 包邮
+                  - link "一鸣家具店" [ref=e3132]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWLyPoku6BikhQzGdnMvoKsAXQo5TqfecRwhHornqjhfTT&spm=a21n57.1.item.6
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "钢制衣柜卧室家用2026爆款铁艺收纳柜子出租房用金属成品简易衣橱 衣橱/衣帽间 铁 现代简约风 ¥ 170 .11 补贴后 500+人付款 河南 洛阳 超级立减15% 淘金币已抵7.6元 30天价保 筑扇家居旗舰店 下载 选品 搜图" [ref=e3136] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=1041274803964&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000sNeQVx5B8goRzUKewBFnjsxzZU6BLjqnC-EqafWZvmM&skuId=6125408280893&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%228abf12542aa626d9748ec9d9aaa7d26f%22%7D&spm=a21n57.1.item.7
+                - generic [ref=e3137]:
+                  - generic [ref=e3138]:
+                    - generic "钢制衣柜卧室家用2026爆款铁艺收纳柜子出租房用金属成品简易衣橱" [ref=e3140]
+                    - generic [ref=e3145]:
+                      - generic [ref=e3146]: 衣橱/衣帽间
+                      - generic [ref=e3149]: 铁
+                      - generic [ref=e3153]: 现代简约风
+                    - generic [ref=e3158]:
+                      - generic [ref=e3159]: ¥
+                      - generic [ref=e3160]:
+                        - generic [ref=e3161]: "170"
+                        - generic [ref=e3162]: ".11"
+                      - generic [ref=e3163]: 补贴后
+                      - generic [ref=e3164]: 500+人付款
+                      - generic [ref=e3165]: 河南
+                      - generic [ref=e3166]: 洛阳
+                  - generic "超级立减15% 淘金币已抵7.6元 30天价保" [ref=e3167]:
+                    - generic [ref=e3168]: 超级立减15%
+                    - generic [ref=e3170]: 淘金币已抵7.6元
+                    - generic [ref=e3172]: 30天价保
+                  - link "筑扇家居旗舰店" [ref=e3175]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWUtVhFgKMzZAssLhGJz3xEpMasaCisHZbQx6eFFL43dPf&spm=a21n57.1.item.7
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "简易衣柜免安装收纳柜宝宝衣服塑料多层储物柜卧室婴儿衣橱可折叠 正在秒杀 直降23.7元 卧室 现代简约风 中国大陆 ¥ 73 补贴后 4000+人付款 广东 潮州 48小时内发 包邮 收纳巴巴 下载 选品 搜图" [ref=e3179] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=862911893934&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=00007oH_eVXrtICVD2AwzxagxHSAIiMjqUORwKvgKUwN0d0&skuId=5850517230114&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22e878fb5f4982461f1905040637146b11%22%7D&spm=a21n57.1.item.8
+                - generic [ref=e3180]:
+                  - generic [ref=e3181]:
+                    - generic "简易衣柜免安装收纳柜宝宝衣服塑料多层储物柜卧室婴儿衣橱可折叠" [ref=e3183]
+                    - generic [ref=e3187]:
+                      - generic [ref=e3190]:
+                        - generic [ref=e3191]: 正在秒杀
+                        - generic [ref=e3192]: 直降23.7元
+                      - generic [ref=e3193]:
+                        - generic [ref=e3194]: 卧室
+                        - generic [ref=e3197]: 现代简约风
+                        - generic [ref=e3201]: 中国大陆
+                    - generic [ref=e3206]:
+                      - generic [ref=e3207]: ¥
+                      - generic [ref=e3208]: "73"
+                      - generic [ref=e3210]: 补贴后
+                      - generic [ref=e3211]: 4000+人付款
+                      - generic [ref=e3212]: 广东
+                      - generic [ref=e3213]: 潮州
+                  - generic "48小时内发 包邮" [ref=e3214]:
+                    - generic [ref=e3215]: 48小时内发
+                    - generic [ref=e3217]: 包邮
+                  - link "收纳巴巴" [ref=e3220]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWXA8qemVf7dWkir51pWfwfj9pE3VEXrE9sZXuPHfUpJiG&spm=a21n57.1.item.8
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "衣柜家用卧室出租房用简易组装经济型实木儿童小户型收纳柜子衣橱 入选超级立减儿童衣柜热销 榜 2个 需要组装 现代简约 ¥ 174 .75 优惠后 4000+人付款 江苏 宿迁 超级立减20% 3期 30天价保 鑫森家居店 下载 选品 搜图" [ref=e3224] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=697985545965&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000dkBw6fJR2yweL49Aw_2erKKt2xy9SZpdbDBkkf-njws&skuId=6169518555206&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%2282ded188272a60ad28dc60a007e1ad9a%22%7D&spm=a21n57.1.item.9
+                - generic [ref=e3225]:
+                  - generic [ref=e3226]:
+                    - generic "衣柜家用卧室出租房用简易组装经济型实木儿童小户型收纳柜子衣橱" [ref=e3228]
+                    - generic [ref=e3231]:
+                      - generic [ref=e3232]:
+                        - generic [ref=e3233]: 入选超级立减儿童衣柜热销
+                        - generic [ref=e3234]: 榜
+                      - generic [ref=e3235]:
+                        - generic [ref=e3236]: 2个
+                        - generic [ref=e3239]: 需要组装
+                        - generic [ref=e3243]: 现代简约
+                    - generic [ref=e3248]:
+                      - generic [ref=e3249]: ¥
+                      - generic [ref=e3250]:
+                        - generic [ref=e3251]: "174"
+                        - generic [ref=e3252]: ".75"
+                      - generic [ref=e3253]: 优惠后
+                      - generic [ref=e3254]: 4000+人付款
+                      - generic [ref=e3255]: 江苏
+                      - generic [ref=e3256]: 宿迁
+                  - generic "超级立减20% 3期 30天价保" [ref=e3257]:
+                    - generic [ref=e3258]: 超级立减20%
+                    - generic [ref=e3260]: 3期
+                    - generic [ref=e3262]: 30天价保
+                  - link "鑫森家居店" [ref=e3265]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWJeszAdDY9xiY9F4gJNsrmVko7ALinp8EmkA62MmSVadP&spm=a21n57.1.item.9
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "免安装宝宝衣柜家用儿童衣服衣物收纳柜多层储物柜婴儿简易小衣橱 正在秒杀 直降38元 入选淘宝秒杀衣柜热销 榜 卧室 现代简约风 中国大陆 ¥ 88 补贴后 3000+人付款 广东 揭阳 退货宝 48小时内发 包邮 极有家 宝宝家居日用生活馆 下载 选品 搜图" [ref=e3269] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=916643845929&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000gFzzc-5ILnNczrWA1aHYVtCE9JlKor7skkCgs-liSGs&skuId=5784952777213&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22c4b9260842f17fc4ba2e656220c757a6%22%7D&spm=a21n57.1.item.10
+                - generic [ref=e3270]:
+                  - generic [ref=e3271]:
+                    - generic "免安装宝宝衣柜家用儿童衣服衣物收纳柜多层储物柜婴儿简易小衣橱" [ref=e3273]
+                    - generic [ref=e3277]:
+                      - generic [ref=e3280]:
+                        - generic [ref=e3281]: 正在秒杀
+                        - generic [ref=e3282]: 直降38元
+                      - generic [ref=e3283]:
+                        - generic [ref=e3284]: 入选淘宝秒杀衣柜热销
+                        - generic [ref=e3285]: 榜
+                      - generic [ref=e3286]:
+                        - generic [ref=e3287]: 卧室
+                        - generic [ref=e3290]: 现代简约风
+                        - generic [ref=e3294]: 中国大陆
+                    - generic [ref=e3299]:
+                      - generic [ref=e3300]: ¥
+                      - generic [ref=e3301]: "88"
+                      - generic [ref=e3303]: 补贴后
+                      - generic [ref=e3304]: 3000+人付款
+                      - generic [ref=e3305]: 广东
+                      - generic [ref=e3306]: 揭阳
+                  - generic "退货宝 48小时内发 包邮" [ref=e3307]:
+                    - generic [ref=e3308]: 退货宝
+                    - generic [ref=e3310]: 48小时内发
+                    - generic [ref=e3312]: 包邮
+                  - link "极有家 宝宝家居日用生活馆" [ref=e3315]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWaxHckiXbFVjiGByCkopaD5rGpCmAcxLYoTWypn1yitss&spm=a21n57.1.item.10
+                    - generic [ref=e3316]: 极有家
+                    - generic [ref=e3319]: 宝宝家居日用生活馆
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "简易衣柜免安装收纳柜子儿童小衣橱婴儿宝宝玩具零食柜塑料储物柜 正在秒杀 直降51.53元 卧室 现代简约风 中国大陆 ¥ 69 .35 补贴后 1万+人付款 广东 潮州 48小时内发 包邮 收纳巴巴 下载 选品 搜图" [ref=e3322] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=856173454611&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000jzSf_hNUCksv5c7wszQMfzxHHpjhclyjx9xIl8O1OeA&skuId=5829378750791&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%225271bcde4faaeefd26ff6549a043f027%22%7D&spm=a21n57.1.item.11
+                - generic [ref=e3323]:
+                  - generic [ref=e3324]:
+                    - generic "简易衣柜免安装收纳柜子儿童小衣橱婴儿宝宝玩具零食柜塑料储物柜" [ref=e3326]
+                    - generic [ref=e3330]:
+                      - generic [ref=e3333]:
+                        - generic [ref=e3334]: 正在秒杀
+                        - generic [ref=e3335]: 直降51.53元
+                      - generic [ref=e3336]:
+                        - generic [ref=e3337]: 卧室
+                        - generic [ref=e3340]: 现代简约风
+                        - generic [ref=e3344]: 中国大陆
+                    - generic [ref=e3349]:
+                      - generic [ref=e3350]: ¥
+                      - generic [ref=e3351]:
+                        - generic [ref=e3352]: "69"
+                        - generic [ref=e3353]: ".35"
+                      - generic [ref=e3354]: 补贴后
+                      - generic [ref=e3355]: 1万+人付款
+                      - generic [ref=e3356]: 广东
+                      - generic [ref=e3357]: 潮州
+                  - generic "48小时内发 包邮" [ref=e3358]:
+                    - generic [ref=e3359]: 48小时内发
+                    - generic [ref=e3361]: 包邮
+                  - link "收纳巴巴" [ref=e3364]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWXA8qemVf7dWkir51pWfwfj9pE3VEXrE9sZXuPHfUpJiG&spm=a21n57.1.item.11
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "衣柜家用卧室免安装折叠简易布衣柜出租房用全钢架结实耐用衣橱 品牌新客补贴，当日有效 免安装钢架衣柜好评 榜·第2名 200万+家装生活党看过 无需组装 现代简约 成人衣柜 ¥ 131 .44 首单价 7万+人付款 广西 贵港 全网低价 直降7元 超级立减16元 回头客4万 立构旗舰店 下载 选品 搜图" [ref=e3368] [cursor=pointer]:
+                - /url: https://click.simba.taobao.com/cc_im?p=%D2%C2%B9%F1&s=2116703&k=2637&e=agVLqc1lOJdiyes8%2BBfOxpeOys%2FbPr7nzoF2US4UlJqEKAw5wrdCg%2Bu1tn9gtyC1gxi6NHdQQgNsxPoewOU5%2F%2BoLOS3qjPDtNjBpOEERtAW2RIdwCvTwMAgA9JVC86xf%2BXYvKnmqSuxxr%2FNOsEVcbMiWxUt9wDYth0j%2BlXnRy3z324unyC10RNb2ktKBspA4jkjXJw86hd3nrHaMPQruhFY5CSmKzpkVD7MqYvKktdlFIHod6nJuFwPAsX6ZR8Z8uoj%2FdQzIawDIriAFU1OxgYpEtn6ZFN2Sfj5xNF0MZgZAFDMlswjvQX212iiNHEWzZCaFHcuhNugUymTO4xTYUPUgwTnS0WN3G0%2F4Y8VLxqWlj%2BLu50bF%2FqTf9rZKBuywhhObBJ1H43Cb4R8osTzDf92azmWwOy%2FBNb%2FG3soSgLr0mHguPtJ0CHro5jx3O5qY98xr15oh2UPsWonCwlJLYB6h%2Bfwu0AmBC71EeYwTawurHiGSWUFF0Szyv1VRvXrBkpXkgrZsTuDbE0oUkPI3ch1%2B%2B2u9pZQw3EiQBSASGOigMCM2dSlvXg4jrvfD5QoJAaGhebJ0UMCEKHkPWtqKhhAVe0KOw6bxfBwvBIeeTH7AarHzqIalYZnhf%2BP1dg%2BB2A6q%2BpGPiKbkIoGu8CrVtok3gRza4QPSlwIi46N63Tz4aHQmRYWg%2FnH2yX9fkLlHqSfcLR9xTzt1TpJClU4kVyqIbe8AS%2BlFrP3zFsPXj%2BhqbRiGyLQFsFw315NiMHXTHdvX8mO9c3%2B1JDeAOZTHoXr3%2BdF1B0ie96Vm8FqahoKL4o9VrMCOBuHDHiqbyUi%2FoZ6hF3R%2BaTQn3sUDHlO%2BuR62DHvQZyopbs1J0f%2FP3EH%2FtKs%2BYeaXELNv6vKw0jnMwiWxhbDze9RIH69YFWE0cA7xyp5s0xotVJLeaFYs1peN5fOdI3xtlMgxNyDrakRwqZJ3g%2B6wcfuRYXo5KaBG0gJuKd4EEwaQUWLZytiSfDG5KDlahyxQ3zGpPHF%2FdjvDZYroy2G8um5uI213GL3EBHCuZ0s5eeC0bJF2YoGJ%2BTytvSneVsHfE7vRbLZMxLNmPvPm3Qs3VuIcXTgo8jQFDE7txSL3Or9PFUc%2F3HRwZ6xtAB1j2vBa0ZdQwnlxBP%2BXU6LEznFSx96%2Bv6UGG0GC1xaiELTA4WzIBTAH7Yjd6ay6vpguv6GtqcseHSFrmJaCGrOdNwyktxNxAuC8Q6W82nKLRNXzlOuJb7qFSBuggrl1iU%2F%2F6v%2Fg3gpBThaV%2FzHro1sFAiv%2FhN2iv4NRkRI8QPJuKOXTSjdav4akfcjBqWQ%2BwjJTFvtPfI2r%2B6Wh7y1XcityqmepUiIV0JGZ2kmFFZqM%2Bh0%2Fafxvnj7lcwUMyr0LLQ%2F%2BN6yBIDbfT7GD004v8hl8pAy3WMVET93j6tqHRJRaCZUzDICc%2BFe%2FDCFZ2sldxKxlFepWEmPx5nlLpkG8dEIJmKromx9RZlgtHtnoe5cB6avyXZhm%2FeIkq8j5KYI6y9ISkxCEoK6A024j5Iopn%2BEOoQqTqwqSD5SwK9IhXcCJRM1Sjc0oED%2FposKObmdFt2ESk14V5E1MFwMbjndS69NIXdss%2BecHgkaP3u4a8jys8AQvfJnihSqDrDoDTmTkLuIzZssi18r6nSlm5UKJjLO2E%2BGf7uWPh6%2FTelkjVmQfaKKTDJDKhnUEJB1lXAgWdDKV64BXYgka2G4KeIvhiTsqjj2hCcFnJX3CQhvi1tGFSFCcU1txNI%2By3Fy0vaJ31pUpjIPROA28h7eB6LIkno7Hmjc9pHAG%2BqhLNZ3idYQ4kOx98EFXBtF2vWtm5Oc1q2mllpzCHfZ6RYtD9UEgaj3cY9hKSj4G0Xa9a2bk52KzRAsYtaplkMCrjg3W3VKAuUsfN9TMI%2FTVAx78uSWKeqAdJnNvKnQdSBo7OiooM2%2BR9ajd0KfcWXPw9MG5GLv0lHfrqfPeWMylx%2BsSijWmwwnFGAFwXk%2FegCKhgPWr2VQRy5n%2Bi91Q3Y0rKyJzG%2BzlX2qkP5SJvHIHtTxgwM5zjcDXl977wkslc6%2Fw330eNb7Bo%2F%2BvUQwiGzk1LJc%2BlcGgdXQCa8nW7AOpK7XL0XaSgezILnSq5g1TisiUh1ZcD9jxEqs6%2FbarPatQ62T8cQpWuw1yGo6t5wb1Pc%2FOzv2BJ%2F0soiFR%2BiZIVik3ybr0sSiS%2BMXkUp%2F5uSUktq4WkJeAJB4%2FLD5rWih%2B52mEOoegrYzebryBzR7rD21tuE2AfA5blI2%2BRBADATVMDUxauUqX7ZwKA5YbRie5wcB6%2Fc54L71H7EqYGvQDMxJAZqA0lUc26f5RLx4JEP3wm2DA73xem9tmSLTiHQnlTl8h21BSm9EHIVbGRU3DALIYvr5v0xIMyjTgFnTQNa%2B4ycXVNx8saU72drc2RJ5c%2Fg9d2%2BVBcrrOYs8qkpGuijth7A1fwRF7mGDDUHHqUH0uU7kzzdnvqrVEnGI2VhKf7ds1GcySjcDXl977wkvzRMYit9GNI364ZtQVhCxGdU6SQpVOJFdEm%2B6aaH8bCBWi9r1PKxzKXUFpinC6pe%2BtnVaxKj5nDxfUYlxOoCduCuwTZttqvh4i8IrGerNY3kgb4kPBwde7xDYv8a3Vbjo%3D&mm_sceneid=0_0_1209270133_0&a=xxc%3Dad_ztc%26mi_id%3D0000jFgKn7yMJSv_VfZSBzXcUQg3VyJJr3UhAXaNqlQHbWs%26skuId%3D5274939352717%26priceTId%3D2100c92317885129798941241e0c0a%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%252525229ec119945602a403b1c9edc005f36f35%25252522%2525257D%26&id=718377571214&spm=a21n57.1.item.12
+                - generic [ref=e3369]:
+                  - generic [ref=e3370]:
+                    - generic "衣柜家用卧室免安装折叠简易布衣柜出租房用全钢架结实耐用衣橱" [ref=e3372]
+                    - generic [ref=e3376]:
+                      - generic [ref=e3377]: 品牌新客补贴，当日有效
+                      - generic [ref=e3381]:
+                        - generic [ref=e3382]: 免安装钢架衣柜好评
+                        - generic [ref=e3383]: 榜·第2名
+                      - generic [ref=e3384]: 200万+家装生活党看过
+                      - generic [ref=e3385]:
+                        - generic [ref=e3386]: 无需组装
+                        - generic [ref=e3389]: 现代简约
+                        - generic [ref=e3393]: 成人衣柜
+                    - generic [ref=e3398]:
+                      - generic [ref=e3399]: ¥
+                      - generic [ref=e3400]:
+                        - generic [ref=e3401]: "131"
+                        - generic [ref=e3402]: ".44"
+                      - generic [ref=e3403]: 首单价
+                      - generic [ref=e3404]: 7万+人付款
+                      - generic [ref=e3405]: 广西
+                      - generic [ref=e3406]: 贵港
+                  - generic "全网低价 直降7元 超级立减16元" [ref=e3407]:
+                    - generic [ref=e3408]: 全网低价
+                    - generic [ref=e3410]: 直降7元
+                    - generic [ref=e3412]: 超级立减16元
+                  - link "回头客4万 立构旗舰店" [ref=e3415]:
+                    - /url: https://click.simba.taobao.com/cc_im?p=%D2%C2%B9%F1&s=2116703&k=2593&e=xgxq0MZSLvBiyes8%2BBfOxpeOys%2FbPr7nzoF2US4UlJqEKAw5wrdCg%2Bu1tn9gtyC1gxi6NHdQQgOxbKuQZ7IDZuoLOS3qjPDtNjBpOEERtAW2RIdwCvTwMAgA9JVC86xf%2BXYvKnmqSuxxr%2FNOsEVcbMiWxUt9wDYth0j%2BlXnRy3z324unyC10RNb2ktKBspA4jkjXJw86hd3nrHaMPQruhFY5CSmKzpkVD7MqYvKktdlFIHod6nJuFwPAsX6ZR8Z8uoj%2FdQzIawDIriAFU1OxgYpEtn6ZFN2Sfj5xNF0MZgZAFDMlswjvQX212iiNHEWzZCaFHcuhNugUymTO4xTYUPUgwTnS0WN3G0%2F4Y8VLxqWlj%2BLu50bF%2FqTf9rZKBuywhhObBJ1H43Cb4R8osTzDf92azmWwOy%2FBNb%2FG3soSgLr0mHguPtJ0CHro5jx3O5qY98xr15oh2UPsWonCwlJLYB6h%2Bfwu0AmBC71EeYwTawurHiGSWUFF0Szyv1VRvXrBkpXkgrZsTuDbE0oUkPI3ch1%2B%2B2u9pZQw3EiQBSASGOigMCM2dSlvXg4jrvfD5QoJAaGhebJ0UMCEKHkPWtqKhhAVe0KOw6bxfBwvBIeeTH7AarHzqIalYZnhf%2BP1dg%2BB2A6q%2BpGPiKbkIoGu8CrVtok3gRza4QPSlwIi46N63Tz4aHQmRYWg%2FnH2yX9fkLlHqSfcLR9xTzt1TpJClU4kVyqIbe8AS%2BlFrP3zFsPXj%2BhqbRiGyLQFsFw315NiMHXTHdvX8mO9c3%2B1JDeAOZTHoXr3%2BdF1B0ie96Vm8FqahoKL4o9VrMCOBuHDHiqbyUi%2FoZ6hF3R%2BaTQn3sUDHlO%2BuR62DHvQZyopbs1J0f%2FP3EEj84uqoTchWpLRBJIhCV1iwcR%2B0U3ozMfIMTcg62pEcKmSd4PusHH7kWF6OSmgRtICbineBBMGkFFi2crYknwxuSg5WocsUN8xqTxxf3Y7w2WK6MthvLpubiNtdxi9xARwrmdLOXngtGyRdmKBifk8rb0p3lbB3xO70Wy2TMSzZj7z5t0LN1biHF04KPI0BQxO7cUi9zq%2FTxVHP9x0cGesbQAdY9rwWtGXUMJ5cQT%2Fl1OixM5xUsfevr%2BlBhtBgtcWohC0wOFsyAUwB%2B2I3emsur6YLr%2BhranLHh0ha5iWghqznTcMpLcTcQLgvEOlvNpyi0TV85TriW%2B6hUgboIK5dYlP%2F%2Br%2F4N4KQU4Wlf8x66NbBQIr%2F4Tdor%2BDUZESPEDybijl00o3Wr%2BGpH3IwalkPsIyUxb7T3yNq%2Fuloe8tV3IrcqpnqVIiFdCRmdpJhRWajPodP2n8b54%2B5XMFDMq9Cy0P%2FjesgSA230%2Bxg9NOL%2FIZfKQMt1jFRE%2Fd4%2Brah0SUWgmVMwyAnPhXvwwhWdrJXcSsZRXqVhJj8eZ5S6ZBvHRCCZiq6JsfUWZYLR7Z6HuXAemr8l2YZv3iJKvI%2BSmCOsvSEpMQhKCugNNuI%2BSKKZ%2FhDqEKk6sKkg%2BUsCvSIV3AiUTNUo3NKBA%2F6aLCjm5nRbdhEpNeFeRNTBcDG453UuvTSF3bLPnnB4JGj97uGvI8rPAEL3yZ4oUqg6w6A05k5C7iM2bLItfK%2Bp0pZuVCiYyzthPhn%2B7lj4ev03pZI1ZkH2iikwyQyoZ1BCQdZVwIFnQyleuAV2IJGthuCniL4Yk7Ko49oQnBZyV9wkIb4tbRhUhQnFNbcTSPstxctL2id9aVKYyD0TgNvIe3geiyJJ6Ox5o3PaRwBvqoSzWd4nWEOJDsffBBVwbRdr1rZuTnNatppZacwh32ekWLQ%2FVBIGo93GPYSko%2BBtF2vWtm5Odis0QLGLWqZZDAq44N1t1SgLlLHzfUzCP01QMe%2FLklinqgHSZzbyp0HUgaOzoqKDNvkfWo3dCn3Flz8PTBuRi79JR366nz3ljMpcfrEoo1psMJxRgBcF5P3oAioYD1q9lUEcuZ%2FovdUN2NKysicxvs5V9qpD%2BUibxyB7U8YMDOc43A15fe%2B8JLJXOv8N99HjW%2BwaP%2Fr1EMIhs5NSyXPpXBoHV0AmvJ1uwDqSu1y9F2koHsyC50quYNU4rIlIdWXA%2FY8RKrOv22qz2rUOtk%2FHEKVrsNchqOrecG9T3Pzs79gSf9LKIhUfomSFYpN8m69LEokvjF5FKf%2BbklJLauFpCXgCQePyw%2Ba1oofudphDqHoK2M3m68gc0e6w9tbbhNgHwOW5SNvkQQAwE1TA1MWrlKl%2B2cCgOWG0YnucHAev3OeC%2B9R%2BxKmBr0AzMSQGagNJVHNun%2BUS8eCRD98JtgwO98XpvbZki04h0J5U5fIdtQUpvRByFWxkVNwwCyGL6%2Bb9MSDMo04BZ00DWvuMnF1TcfLGlO9na3NkSeXP4PXdvlQXK6zmLPKpKRroo7YewNX8ERe5hgw1Bx6lB9LlO5M83Z76q1RJxiNlYSn%2B3bNRnMko3A15fe%2B8JL80TGIrfRjSN%2BuGbUFYQsRnVOkkKVTiRXRJvummh%2FGwgVova9Tyscyl1BaYpwuqXvrZ1WsSo%2BZw8X1GJcTqAnbgrsE2bbar4eIvCKxnqzWN5IG%2BJDwcHXu8Q2L%2FGt1W46&mm_sceneid=0_0_1209270133_0&spm=a21n57.1.item.12
+                    - generic [ref=e3416]: 回头客4万
+                    - generic [ref=e3418]: 立构旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "衣帽架落地卧室家用挂衣架简易衣柜置物架室内靠墙防尘开放式衣柜 人造板 通用 框架结构 ¥ 158 优惠后 1000+人付款 江苏 宿迁 超级立减20% 3期 退货宝 极有家 滕氏家居企业店 下载 选品 搜图" [ref=e3421] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=981615051910&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000oW0GVU4Fk2lRBBIcVNCwDMdJm1JmqgPsqX29UJdmEVI&skuId=6089854565644&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22df5c05a2cbc69c27fd394c32a1545d4d%22%7D&spm=a21n57.1.item.13
+                - generic [ref=e3422]:
+                  - generic [ref=e3423]:
+                    - generic "衣帽架落地卧室家用挂衣架简易衣柜置物架室内靠墙防尘开放式衣柜" [ref=e3425]
+                    - generic [ref=e3429]:
+                      - generic [ref=e3430]: 人造板
+                      - generic [ref=e3433]: 通用
+                      - generic [ref=e3437]: 框架结构
+                    - generic [ref=e3442]:
+                      - generic [ref=e3443]: ¥
+                      - generic [ref=e3444]: "158"
+                      - generic [ref=e3446]: 优惠后
+                      - generic [ref=e3447]: 1000+人付款
+                      - generic [ref=e3448]: 江苏
+                      - generic [ref=e3449]: 宿迁
+                  - generic "超级立减20% 3期 退货宝" [ref=e3450]:
+                    - generic [ref=e3451]: 超级立减20%
+                    - generic [ref=e3453]: 3期
+                    - generic [ref=e3455]: 退货宝
+                  - link "极有家 滕氏家居企业店" [ref=e3458]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWSaKkKVggukiaY31S2teNDCCz8H2caJSTC5zpMia2a9po&spm=a21n57.1.item.13
+                    - generic [ref=e3459]: 极有家
+                    - generic [ref=e3462]: 滕氏家居企业店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "国家补贴家用钢制阳台柜一体防水防晒衣柜卧室置物架收纳储物柜子 特厚碳钢 简约现代 0.6m以下 ¥ 60 .35 补贴后 2000+人付款 河南 洛阳 政府补贴15% 超级立减12% 热销爆款 洛能旗舰店 下载 选品 搜图" [ref=e3465] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=954158959027&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000IQRG92oPqfyTMknMPdSOpr5EeiNLU5houHl2KhWqtWQ&skuId=6060880021539&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22460172065d991e716fc0d315ef227771%22%7D&spm=a21n57.1.item.14
+                - generic [ref=e3466]:
+                  - generic [ref=e3467]:
+                    - generic "国家补贴家用钢制阳台柜一体防水防晒衣柜卧室置物架收纳储物柜子" [ref=e3469]
+                    - generic [ref=e3474]:
+                      - generic [ref=e3475]: 特厚碳钢
+                      - generic [ref=e3478]: 简约现代
+                      - generic [ref=e3482]: 0.6m以下
+                    - generic [ref=e3487]:
+                      - generic [ref=e3488]: ¥
+                      - generic [ref=e3489]:
+                        - generic [ref=e3490]: "60"
+                        - generic [ref=e3491]: ".35"
+                      - generic [ref=e3492]: 补贴后
+                      - generic [ref=e3493]: 2000+人付款
+                      - generic [ref=e3494]: 河南
+                      - generic [ref=e3495]: 洛阳
+                  - generic "政府补贴15% 超级立减12% 热销爆款" [ref=e3496]:
+                    - generic [ref=e3497]: 政府补贴15%
+                    - generic [ref=e3499]: 超级立减12%
+                    - generic [ref=e3501]: 热销爆款
+                  - link "洛能旗舰店" [ref=e3504]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWM6mpc41AjiSiT8fZyAYLhHtPqvJHU9vA9unrUaFgKeHN&spm=a21n57.1.item.14
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=e3508]:
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+                - generic [ref=e3509]:
+                  - generic [ref=e3510]: 对本次搜索体验满意吗
+                  - generic [ref=e3513]:
+                    - generic [ref=e3514] [cursor=pointer]: 非常满意
+                    - generic [ref=e3522] [cursor=pointer]: 满意
+                    - generic [ref=e3529] [cursor=pointer]: 感觉一般
+                    - generic [ref=e3535] [cursor=pointer]: 不满意
+                    - generic [ref=e3540] [cursor=pointer]: 非常不满意
+                  - generic [ref=e3544]: 不感兴趣，关闭
+              - link "木质衣柜新款2026爆款小户型小房间衣柜家用卧室收纳简易两门衣橱 20kg 1个 轻奢风 ¥ 209 优惠后 1000+人付款 广西 贵港 全网低价 超级立减50% 48小时内发 木牛人家居店 下载 选品 搜图" [ref=e3547] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=746408401625&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000cxF7ByDziDLvo9A7d-o2nGT54WMd3HpmFwv9rDNPh_M&skuId=5803732012271&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%220ee0ae910d116470b174c9d5f870d420%22%7D&spm=a21n57.1.item.17
+                - generic [ref=e3548]:
+                  - generic [ref=e3549]:
+                    - generic "木质衣柜新款2026爆款小户型小房间衣柜家用卧室收纳简易两门衣橱" [ref=e3551]
+                    - generic [ref=e3556]:
+                      - generic [ref=e3557]: 20kg
+                      - generic [ref=e3560]: 1个
+                      - generic [ref=e3564]: 轻奢风
+                    - generic [ref=e3569]:
+                      - generic [ref=e3570]: ¥
+                      - generic [ref=e3571]: "209"
+                      - generic [ref=e3573]: 优惠后
+                      - generic [ref=e3574]: 1000+人付款
+                      - generic [ref=e3575]: 广西
+                      - generic [ref=e3576]: 贵港
+                  - generic "全网低价 超级立减50% 48小时内发" [ref=e3577]:
+                    - generic [ref=e3578]: 全网低价
+                    - generic [ref=e3580]: 超级立减50%
+                    - generic [ref=e3582]: 48小时内发
+                  - link "木牛人家居店" [ref=e3585]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWXek2Ry7R352CbG66Qt1dKJCEMTcXXJR3yxmhNvEj4xNG&spm=a21n57.1.item.17
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "家庭小卧室衣柜国家补贴2026新款爆款全是挂衣区儿童衣橱简易柜子 正在秒杀 直降279.5元 30kg 2个 需要组装 ¥ 313 .02 补贴后 3000+人付款 江苏 徐州 48小时内发 公益宝贝 极有家 玺越家具 下载 选品 搜图" [ref=e3589] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=1034109699918&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=00002JXsV3NgAFhX5Xym9hssRMdHLRqOlARQZNcB9P3oL8c&skuId=6270674575066&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%222e1ba65fb524064aca172328ec6cdb4d%22%7D&spm=a21n57.1.item.18
+                - generic [ref=e3590]:
+                  - generic [ref=e3591]:
+                    - generic "家庭小卧室衣柜国家补贴2026新款爆款全是挂衣区儿童衣橱简易柜子" [ref=e3593]
+                    - generic [ref=e3597]:
+                      - generic [ref=e3600]:
+                        - generic [ref=e3601]: 正在秒杀
+                        - generic [ref=e3602]: 直降279.5元
+                      - generic [ref=e3603]:
+                        - generic [ref=e3604]: 30kg
+                        - generic [ref=e3607]: 2个
+                        - generic [ref=e3611]: 需要组装
+                    - generic [ref=e3616]:
+                      - generic [ref=e3617]: ¥
+                      - generic [ref=e3618]:
+                        - generic [ref=e3619]: "313"
+                        - generic [ref=e3620]: ".02"
+                      - generic [ref=e3621]: 补贴后
+                      - generic [ref=e3622]: 3000+人付款
+                      - generic [ref=e3623]: 江苏
+                      - generic [ref=e3624]: 徐州
+                  - generic "48小时内发 公益宝贝" [ref=e3625]:
+                    - generic [ref=e3626]: 48小时内发
+                    - generic [ref=e3628]: 公益宝贝
+                  - link "极有家 玺越家具" [ref=e3631]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWULn2ZE2337YLGD2F8YWsrqRwj9FFN713YdUSJmTZvkhW&spm=a21n57.1.item.18
+                    - generic [ref=e3632]: 极有家
+                    - generic [ref=e3635]: 玺越家具
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "衣柜新款2026爆款复古胡桃家用卧室小户型组装收纳柜出租房挂衣橱 20kg 1个 复古风 ¥ 209 优惠后 7000+人付款 广西 贵港 超级立减50% 3期 48小时内发 极有家 优选家居直销店 下载 选品 搜图" [ref=e3638] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=883448858288&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000TSww7ySPdCsrmN5rGE8xi3y4z2axQ8yHXjFY5PI2keQ&skuId=6118172859079&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22a34fe6b42ea8c438e201845ed2051940%22%7D&spm=a21n57.1.item.19
+                - generic [ref=e3639]:
+                  - generic [ref=e3640]:
+                    - generic "衣柜新款2026爆款复古胡桃家用卧室小户型组装收纳柜出租房挂衣橱" [ref=e3642]
+                    - generic [ref=e3647]:
+                      - generic [ref=e3648]: 20kg
+                      - generic [ref=e3651]: 1个
+                      - generic [ref=e3655]: 复古风
+                    - generic [ref=e3660]:
+                      - generic [ref=e3661]: ¥
+                      - generic [ref=e3662]: "209"
+                      - generic [ref=e3664]: 优惠后
+                      - generic [ref=e3665]: 7000+人付款
+                      - generic [ref=e3666]: 广西
+                      - generic [ref=e3667]: 贵港
+                  - generic "超级立减50% 3期 48小时内发" [ref=e3668]:
+                    - generic [ref=e3669]: 超级立减50%
+                    - generic [ref=e3671]: 3期
+                    - generic [ref=e3673]: 48小时内发
+                  - link "极有家 优选家居直销店" [ref=e3676]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWbMsj2ZZLDNusTUW3xrCWzUWNs6zrS8mF7uipPwU7UPu4&spm=a21n57.1.item.19
+                    - generic [ref=e3677]: 极有家
+                    - generic [ref=e3680]: 优选家居直销店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "钢制衣柜家用卧室衣服收纳柜简易组装儿童衣橱落地置物架防尘衣架 卧室 现代简约风 纯色 ¥ 82 .58 补贴后 1000+人付款 河南 洛阳 政府补贴15% 淘金币已抵1.44元 30天价保 燕渺家居旗舰店 下载 选品 搜图" [ref=e3683] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=1040941064242&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000Kuj6Kggvcu00Mo7_2wiZdyl0dcm8i7pRP1V6LlnHAVU&skuId=6281399042516&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%228b91e9e278b1fcc100c4f34f2c0b9cc1%22%7D&spm=a21n57.1.item.20
+                - generic [ref=e3684]:
+                  - generic [ref=e3685]:
+                    - generic "钢制衣柜家用卧室衣服收纳柜简易组装儿童衣橱落地置物架防尘衣架" [ref=e3687]
+                    - generic [ref=e3692]:
+                      - generic [ref=e3693]: 卧室
+                      - generic [ref=e3696]: 现代简约风
+                      - generic [ref=e3700]: 纯色
+                    - generic [ref=e3705]:
+                      - generic [ref=e3706]: ¥
+                      - generic [ref=e3707]:
+                        - generic [ref=e3708]: "82"
+                        - generic [ref=e3709]: ".58"
+                      - generic [ref=e3710]: 补贴后
+                      - generic [ref=e3711]: 1000+人付款
+                      - generic [ref=e3712]: 河南
+                      - generic [ref=e3713]: 洛阳
+                  - generic "政府补贴15% 淘金币已抵1.44元 30天价保" [ref=e3714]:
+                    - generic [ref=e3715]: 政府补贴15%
+                    - generic [ref=e3717]: 淘金币已抵1.44元
+                    - generic [ref=e3719]: 30天价保
+                  - link "燕渺家居旗舰店" [ref=e3722]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWXzoML1VR1ovfktkszguoZExMNh7Ma9vEXTox9B9eVH4M&spm=a21n57.1.item.20
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "简易衣柜家用卧室布衣柜出租房屋结实耐用经济型衣橱单人小型柜子 正在秒杀 直降9.75元 布衣柜好评 榜·第2名 需要组装 轻奢风 成人衣柜 ¥ 39 补贴后 7万+人付款 广西 贵港 热销爆款 回头客4万 立构旗舰店 下载 选品 搜图" [ref=e3726] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=720675767082&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000_6-cfzNWCIfXt_8GOh5c1MCoyUDHaqdHS4OhhGZzB-s&skuId=5016231096837&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22824fb467c44a88ff1b999dbd4308b4c9%22%7D&spm=a21n57.1.item.21
+                - generic [ref=e3727]:
+                  - generic [ref=e3728]:
+                    - generic "简易衣柜家用卧室布衣柜出租房屋结实耐用经济型衣橱单人小型柜子" [ref=e3730]
+                    - generic [ref=e3734]:
+                      - generic [ref=e3737]:
+                        - generic [ref=e3738]: 正在秒杀
+                        - generic [ref=e3739]: 直降9.75元
+                      - generic [ref=e3740]:
+                        - generic [ref=e3741]: 布衣柜好评
+                        - generic [ref=e3742]: 榜·第2名
+                      - generic [ref=e3743]:
+                        - generic [ref=e3744]: 需要组装
+                        - generic [ref=e3747]: 轻奢风
+                        - generic [ref=e3751]: 成人衣柜
+                    - generic [ref=e3756]:
+                      - generic [ref=e3757]: ¥
+                      - generic [ref=e3758]: "39"
+                      - generic [ref=e3760]: 补贴后
+                      - generic [ref=e3761]: 7万+人付款
+                      - generic [ref=e3762]: 广西
+                      - generic [ref=e3763]: 贵港
+                  - generic "热销爆款" [ref=e3764]
+                  - link "回头客4万 立构旗舰店" [ref=e3768]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWXY6Qeb2xXDBGq21qj5wiUUa7ETiDimp6bpZpwmcJoXpn&spm=a21n57.1.item.21
+                    - generic [ref=e3769]: 回头客4万
+                    - generic [ref=e3771]: 立构旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "开放式衣帽架卧室落地挂衣架家用置物架防尘衣架子可收纳金属衣柜 75kg 3个 现代简约 ¥ 158 优惠后 2000+人付款 江苏 宿迁 超级立减61.5元 3期 30天价保 极有家 美秋予家居馆 下载 选品 搜图" [ref=e3774] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=1058643174476&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000_T1HxOoX0dVKJ_BwSkPmxND_xZGCTwCLtCr6ljPE6XU&skuId=6127920584896&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22cccc8bfff0254e691786c82275dbbe41%22%7D&spm=a21n57.1.item.22
+                - generic [ref=e3775]:
+                  - generic [ref=e3776]:
+                    - generic "开放式衣帽架卧室落地挂衣架家用置物架防尘衣架子可收纳金属衣柜" [ref=e3778]
+                    - generic [ref=e3782]:
+                      - generic [ref=e3783]: 75kg
+                      - generic [ref=e3786]: 3个
+                      - generic [ref=e3790]: 现代简约
+                    - generic [ref=e3795]:
+                      - generic [ref=e3796]: ¥
+                      - generic [ref=e3797]: "158"
+                      - generic [ref=e3799]: 优惠后
+                      - generic [ref=e3800]: 2000+人付款
+                      - generic [ref=e3801]: 江苏
+                      - generic [ref=e3802]: 宿迁
+                  - generic "超级立减61.5元 3期 30天价保" [ref=e3803]:
+                    - generic [ref=e3804]: 超级立减61.5元
+                    - generic [ref=e3806]: 3期
+                    - generic [ref=e3808]: 30天价保
+                  - link "极有家 美秋予家居馆" [ref=e3811]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWXs6qy1o2NoRWFMcQPHiad7opC7LUxKtEBviSpgXmEkv1&spm=a21n57.1.item.22
+                    - generic [ref=e3812]: 极有家
+                    - generic [ref=e3815]: 美秋予家居馆
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "货架衣柜家用卧室出租房用简易组装金属洞洞板新款收纳钢制衣橱柜 正在秒杀 直降123.69元 金属开放式衣柜好评 榜·第1名 轻奢风 E0级 成人衣柜 ¥ 185 .53 补贴后 2万+人付款 河南 洛阳 公益宝贝 美丽港旗舰店 下载 选品 搜图" [ref=e3818] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=942930265748&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000Wr85hwVul2kW1nYKqrRhkO46Vs4Fk1LLTnUrms1i3eQ&skuId=6009085782528&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22995fbc74880db2089bd57f0820e21f3c%22%7D&spm=a21n57.1.item.23
+                - generic [ref=e3819]:
+                  - generic [ref=e3820]:
+                    - generic "货架衣柜家用卧室出租房用简易组装金属洞洞板新款收纳钢制衣橱柜" [ref=e3822]
+                    - generic [ref=e3826]:
+                      - generic [ref=e3829]:
+                        - generic [ref=e3830]: 正在秒杀
+                        - generic [ref=e3831]: 直降123.69元
+                      - generic [ref=e3832]:
+                        - generic [ref=e3833]: 金属开放式衣柜好评
+                        - generic [ref=e3834]: 榜·第1名
+                      - generic [ref=e3835]:
+                        - generic [ref=e3836]: 轻奢风
+                        - generic [ref=e3839]: E0级
+                        - generic [ref=e3843]: 成人衣柜
+                    - generic [ref=e3848]:
+                      - generic [ref=e3849]: ¥
+                      - generic [ref=e3850]:
+                        - generic [ref=e3851]: "185"
+                        - generic [ref=e3852]: ".53"
+                      - generic [ref=e3853]: 补贴后
+                      - generic [ref=e3854]: 2万+人付款
+                      - generic [ref=e3855]: 河南
+                      - generic [ref=e3856]: 洛阳
+                  - generic "公益宝贝" [ref=e3857]
+                  - link "美丽港旗舰店" [ref=e3861]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWMvHNCL88u4dLMSmAcH3GwFuSrfFAWumkCQz6hw6i9adG&spm=a21n57.1.item.23
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "梧桐熊钢制家用卧室衣柜小户型推拉门衣柜防尘衣橱出租房衣帽架子 小户型衣柜好评 榜·第3名 2个 现代简约 ¥ 50 .2 补贴后 2000+人付款 河南 洛阳 政府补贴15% 包邮 梧桐熊旗舰店 下载 选品 搜图" [ref=e3865] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=1054765853184&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000j4QpP6b08QIQxcewegeTNbGp12x3z0LHgLYobNMrkKs&skuId=6293356083724&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22dfb82a07f910401e9c02af9d093c79cd%22%7D&spm=a21n57.1.item.24
+                - generic [ref=e3866]:
+                  - generic [ref=e3867]:
+                    - generic "梧桐熊钢制家用卧室衣柜小户型推拉门衣柜防尘衣橱出租房衣帽架子" [ref=e3869]
+                    - generic [ref=e3873]:
+                      - generic [ref=e3874]:
+                        - generic [ref=e3875]: 小户型衣柜好评
+                        - generic [ref=e3876]: 榜·第3名
+                      - generic [ref=e3877]:
+                        - generic [ref=e3878]: 2个
+                        - generic [ref=e3881]: 现代简约
+                    - generic [ref=e3886]:
+                      - generic [ref=e3887]: ¥
+                      - generic [ref=e3888]:
+                        - generic [ref=e3889]: "50"
+                        - generic [ref=e3890]: ".2"
+                      - generic [ref=e3891]: 补贴后
+                      - generic [ref=e3892]: 2000+人付款
+                      - generic [ref=e3893]: 河南
+                      - generic [ref=e3894]: 洛阳
+                  - generic "政府补贴15% 包邮" [ref=e3895]:
+                    - generic [ref=e3896]: 政府补贴15%
+                    - generic [ref=e3898]: 包邮
+                  - link "梧桐熊旗舰店" [ref=e3901]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWVeLPPw6h2tssWpsgQDjcqxx7Qpj7GTZAisweixKKbL9M&spm=a21n57.1.item.24
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "洞洞板衣柜家用卧室落地挂衣架简易金属置物架开放式防尘衣帽架 源头优选组合衣柜回购 榜·第8名 100kg 现代简约 E1级 ¥ 142 9000+人付款 江苏 宿迁 超级立减61.5元 3期 30天价保 极有家 美秋予家居馆 下载 选品 搜图" [ref=e3905] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=1004171498423&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=00006-lJNwC1JwSqRgN1c807A6eBt0MjiWRUws4oEyGqs_M&skuId=6127921936825&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22bf8b9519835a7eba6a5c3eb06354c543%22%7D&spm=a21n57.1.item.25
+                - generic [ref=e3906]:
+                  - generic [ref=e3907]:
+                    - generic "洞洞板衣柜家用卧室落地挂衣架简易金属置物架开放式防尘衣帽架" [ref=e3909]
+                    - generic [ref=e3912]:
+                      - generic [ref=e3913]:
+                        - generic [ref=e3914]: 源头优选组合衣柜回购
+                        - generic [ref=e3915]: 榜·第8名
+                      - generic [ref=e3916]:
+                        - generic [ref=e3917]: 100kg
+                        - generic [ref=e3920]: 现代简约
+                        - generic [ref=e3924]: E1级
+                    - generic [ref=e3929]:
+                      - generic [ref=e3930]: ¥
+                      - generic [ref=e3931]: "142"
+                      - generic [ref=e3933]: 9000+人付款
+                      - generic [ref=e3934]: 江苏
+                      - generic [ref=e3935]: 宿迁
+                  - generic "超级立减61.5元 3期 30天价保" [ref=e3936]:
+                    - generic [ref=e3937]: 超级立减61.5元
+                    - generic [ref=e3939]: 3期
+                    - generic [ref=e3941]: 30天价保
+                  - link "极有家 美秋予家居馆" [ref=e3944]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWXs6qy1o2NoRWFMcQPHiad7opC7LUxKtEBviSpgXmEkv1&spm=a21n57.1.item.25
+                    - generic [ref=e3945]: 极有家
+                    - generic [ref=e3948]: 美秋予家居馆
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "开放式衣帽架金属落地置物架卧室家用防尘挂衣架子开放式收纳衣柜 碳素钢 通用 多功能 ¥ 158 优惠后 3000+人付款 江苏 徐州 超级立减66.75元 3期 30天价保 极有家 苏源品质家居馆 下载 选品 搜图" [ref=e3951] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=1017997443736&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000ZvbbDQl-2xSrHNY7dbrONlUJaNKXkgfR7lxg3dwVlrQ&skuId=6129049772788&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22e7d0740d3fbec31c7c3be64567a20d59%22%7D&spm=a21n57.1.item.26
+                - generic [ref=e3952]:
+                  - generic [ref=e3953]:
+                    - generic "开放式衣帽架金属落地置物架卧室家用防尘挂衣架子开放式收纳衣柜" [ref=e3955]
+                    - generic [ref=e3959]:
+                      - generic [ref=e3960]: 碳素钢
+                      - generic [ref=e3963]: 通用
+                      - generic [ref=e3967]: 多功能
+                    - generic [ref=e3972]:
+                      - generic [ref=e3973]: ¥
+                      - generic [ref=e3974]: "158"
+                      - generic [ref=e3976]: 优惠后
+                      - generic [ref=e3977]: 3000+人付款
+                      - generic [ref=e3978]: 江苏
+                      - generic [ref=e3979]: 徐州
+                  - generic "超级立减66.75元 3期 30天价保" [ref=e3980]:
+                    - generic [ref=e3981]: 超级立减66.75元
+                    - generic [ref=e3983]: 3期
+                    - generic [ref=e3985]: 30天价保
+                  - link "极有家 苏源品质家居馆" [ref=e3988]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWL9sU5CTA23qGx1QQVNrLEMBKXfSyXe7C53X9VzFAJ5qt&spm=a21n57.1.item.26
+                    - generic [ref=e3989]: 极有家
+                    - generic [ref=e3992]: 苏源品质家居馆
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "开放式货架衣柜家用卧室出租房简易组装金属洞洞板收纳钢制衣橱柜 正在秒杀 直降113.03元 金属开放式衣柜好评 榜·第4名 60kg 2个 工业风 ¥ 169 .54 补贴后 7000+人付款 河南 洛阳 热销爆款 包邮 公益宝贝 美丽港旗舰店 下载 选品 搜图" [ref=e3995] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=1020501421272&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000ZaegTMNU3zALVb3Xe9RuS5mvcADQGKBGZFB7cecSv5E&skuId=6031137333367&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%2202abf7800d4df2b5f20649378e06225f%22%7D&spm=a21n57.1.item.27
+                - generic [ref=e3996]:
+                  - generic [ref=e3997]:
+                    - generic "开放式货架衣柜家用卧室出租房简易组装金属洞洞板收纳钢制衣橱柜" [ref=e3999]
+                    - generic [ref=e4003]:
+                      - generic [ref=e4006]:
+                        - generic [ref=e4007]: 正在秒杀
+                        - generic [ref=e4008]: 直降113.03元
+                      - generic [ref=e4009]:
+                        - generic [ref=e4010]: 金属开放式衣柜好评
+                        - generic [ref=e4011]: 榜·第4名
+                      - generic [ref=e4012]:
+                        - generic [ref=e4013]: 60kg
+                        - generic [ref=e4016]: 2个
+                        - generic [ref=e4020]: 工业风
+                    - generic [ref=e4025]:
+                      - generic [ref=e4026]: ¥
+                      - generic [ref=e4027]:
+                        - generic [ref=e4028]: "169"
+                        - generic [ref=e4029]: ".54"
+                      - generic [ref=e4030]: 补贴后
+                      - generic [ref=e4031]: 7000+人付款
+                      - generic [ref=e4032]: 河南
+                      - generic [ref=e4033]: 洛阳
+                  - generic "热销爆款 包邮 公益宝贝" [ref=e4034]:
+                    - generic [ref=e4035]: 热销爆款
+                    - generic [ref=e4037]: 包邮
+                    - generic [ref=e4039]: 公益宝贝
+                  - link "美丽港旗舰店" [ref=e4042]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWMvHNCL88u4dLMSmAcH3GwFuSrfFAWumkCQz6hw6i9adG&spm=a21n57.1.item.27
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "衣柜家用卧室实木生态板简约2026新款免拉手出租房用儿童定做衣橱 儿童衣柜好评 榜·第2名 ¥ 429 .93 补贴后 1000+人付款 江苏 徐州 政府补贴15% 超级立减20% 淘金币已抵7.6元 卿似旗舰店 下载 选品 搜图" [ref=e4046] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=1015605202207&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000fG9Nsj1zgbbupQV44eBy5HZJR6KQ1k9iB5-DbDjMVpM&skuId=6105775973531&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22a840b742e0a65395205e8862871b737a%22%7D&spm=a21n57.1.item.28
+                - generic [ref=e4047]:
+                  - generic [ref=e4048]:
+                    - generic "衣柜家用卧室实木生态板简约2026新款免拉手出租房用儿童定做衣橱" [ref=e4050]
+                    - generic [ref=e4055]:
+                      - generic [ref=e4056]: 儿童衣柜好评
+                      - generic [ref=e4057]: 榜·第2名
+                    - generic [ref=e4059]:
+                      - generic [ref=e4060]: ¥
+                      - generic [ref=e4061]:
+                        - generic [ref=e4062]: "429"
+                        - generic [ref=e4063]: ".93"
+                      - generic [ref=e4064]: 补贴后
+                      - generic [ref=e4065]: 1000+人付款
+                      - generic [ref=e4066]: 江苏
+                      - generic [ref=e4067]: 徐州
+                  - generic "政府补贴15% 超级立减20% 淘金币已抵7.6元" [ref=e4068]:
+                    - generic [ref=e4069]: 政府补贴15%
+                    - generic [ref=e4071]: 超级立减20%
+                    - generic [ref=e4073]: 淘金币已抵7.6元
+                  - link "卿似旗舰店" [ref=e4076]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWaJ5emRwK1GDHE6TM6xvXcTVmUnUCEHaUC9WVu3VUyZCn&spm=a21n57.1.item.28
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "ENF级钢制推拉门衣柜金属挂衣架家用卧室出租房用简易组装收纳柜 组合衣柜新品 榜·第2名 80kg 2个 轻奢风 ¥ 50 .56 补贴后 400+人付款 河南 洛阳 政府补贴15% 超级立减12% 包邮 回头客2万 炎恩旗舰店 下载 选品 搜图" [ref=e4080] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=1064109482760&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000tkezo2WMPQ0n0fSje6Q0MhMyFUQtIM2Mjny6-tMpQVQ&skuId=6132914861197&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%221f9cac55e4dca24687db10674f1204d5%22%7D&spm=a21n57.1.item.29
+                - generic [ref=e4081]:
+                  - generic [ref=e4082]:
+                    - generic "ENF级钢制推拉门衣柜金属挂衣架家用卧室出租房用简易组装收纳柜" [ref=e4084]
+                    - generic [ref=e4088]:
+                      - generic [ref=e4089]:
+                        - generic [ref=e4090]: 组合衣柜新品
+                        - generic [ref=e4091]: 榜·第2名
+                      - generic [ref=e4092]:
+                        - generic [ref=e4093]: 80kg
+                        - generic [ref=e4096]: 2个
+                        - generic [ref=e4100]: 轻奢风
+                    - generic [ref=e4105]:
+                      - generic [ref=e4106]: ¥
+                      - generic [ref=e4107]:
+                        - generic [ref=e4108]: "50"
+                        - generic [ref=e4109]: ".56"
+                      - generic [ref=e4110]: 补贴后
+                      - generic [ref=e4111]: 400+人付款
+                      - generic [ref=e4112]: 河南
+                      - generic [ref=e4113]: 洛阳
+                  - generic "政府补贴15% 超级立减12% 包邮" [ref=e4114]:
+                    - generic [ref=e4115]: 政府补贴15%
+                    - generic [ref=e4117]: 超级立减12%
+                    - generic [ref=e4119]: 包邮
+                  - link "回头客2万 炎恩旗舰店" [ref=e4122]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWMoHNrvPPDK93x2FbUN3ZWj8tdmNS31kGptSD7Dmgz7cQ&spm=a21n57.1.item.29
+                    - generic [ref=e4123]: 回头客2万
+                    - generic [ref=e4125]: 炎恩旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "衣柜家用卧室简易组装出租房用结实耐用布衣橱大容量防尘收纳柜子 品牌新客补贴，当日有效 入选300元以下衣柜热销 榜 北欧风 无门 ¥ 75 .13 首单价 6000+人付款 浙江 丽水 直降4元 热销爆款 包邮 15年老店 金木鱼旗舰店 下载 选品 搜图" [ref=e4128] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=946389725135&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000HuAOxIxt92Uu4EGTPyTA335cJZ-rCgQqvRWA4mQaJDM&skuId=5853349173761&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%221d875214c5416bbb80cd02c43ede93b5%22%7D&spm=a21n57.1.item.30
+                - generic [ref=e4129]:
+                  - generic [ref=e4130]:
+                    - generic "衣柜家用卧室简易组装出租房用结实耐用布衣橱大容量防尘收纳柜子" [ref=e4132]
+                    - generic [ref=e4136]:
+                      - generic [ref=e4137]: 品牌新客补贴，当日有效
+                      - generic [ref=e4141]:
+                        - generic [ref=e4142]: 入选300元以下衣柜热销
+                        - generic [ref=e4143]: 榜
+                      - generic [ref=e4144]:
+                        - generic [ref=e4145]: 北欧风
+                        - generic [ref=e4148]: 无门
+                    - generic [ref=e4153]:
+                      - generic [ref=e4154]: ¥
+                      - generic [ref=e4155]:
+                        - generic [ref=e4156]: "75"
+                        - generic [ref=e4157]: ".13"
+                      - generic [ref=e4158]: 首单价
+                      - generic [ref=e4159]: 6000+人付款
+                      - generic [ref=e4160]: 浙江
+                      - generic [ref=e4161]: 丽水
+                  - generic "直降4元 热销爆款 包邮" [ref=e4162]:
+                    - generic [ref=e4163]: 直降4元
+                    - generic [ref=e4165]: 热销爆款
+                    - generic [ref=e4167]: 包邮
+                  - link "15年老店 金木鱼旗舰店" [ref=e4170]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWapZF5g4vYPPet3SLYWQaX9xsKKdJNnSDsyqSUFuFjZbw&spm=a21n57.1.item.30
+                    - generic [ref=e4171]: 15年老店
+                    - generic [ref=e4173]: 金木鱼旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=e4176]:
+                - generic [ref=e4177]: 大家都在搜
+                - generic [ref=e4180]:
+                  - generic [ref=e4181] [cursor=pointer]: 家用卧室铝合金衣柜
+                  - generic [ref=e4183] [cursor=pointer]: 铝合金衣柜
+                  - generic [ref=e4185] [cursor=pointer]: 衣柜连书桌一体
+                  - generic [ref=e4187] [cursor=pointer]: 儿童小衣柜
+                  - generic [ref=e4189] [cursor=pointer]: 单人小衣柜
+                  - generic [ref=e4191] [cursor=pointer]: 租房经济型衣柜
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "衣柜一体式免安装可折叠家用卧室简易布衣柜出租房全钢架加厚加粗 免安装钢架衣柜好评 榜·第6名 200kg 2个 现代简约 ¥ 137 .42 补贴后 1万+人付款 江苏 徐州 全网低价 淘金币已抵1.38元 30天价保 12年老店 宅秀旗舰店 下载 选品 搜图" [ref=e4194] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=894863514654&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000ermNHeaXs8zBcODkyMCyKqWLM38IbTFpKUqOXedMxH8&skuId=5744798804129&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22f9ffd84edf7be9f708c038a02bb575ef%22%7D&spm=a21n57.1.item.32
+                - generic [ref=e4195]:
+                  - generic [ref=e4196]:
+                    - generic "衣柜一体式免安装可折叠家用卧室简易布衣柜出租房全钢架加厚加粗" [ref=e4198]
+                    - generic [ref=e4202]:
+                      - generic [ref=e4203]:
+                        - generic [ref=e4204]: 免安装钢架衣柜好评
+                        - generic [ref=e4205]: 榜·第6名
+                      - generic [ref=e4206]:
+                        - generic [ref=e4207]: 200kg
+                        - generic [ref=e4210]: 2个
+                        - generic [ref=e4214]: 现代简约
+                    - generic [ref=e4219]:
+                      - generic [ref=e4220]: ¥
+                      - generic [ref=e4221]:
+                        - generic [ref=e4222]: "137"
+                        - generic [ref=e4223]: ".42"
+                      - generic [ref=e4224]: 补贴后
+                      - generic [ref=e4225]: 1万+人付款
+                      - generic [ref=e4226]: 江苏
+                      - generic [ref=e4227]: 徐州
+                  - generic "全网低价 淘金币已抵1.38元 30天价保" [ref=e4228]:
+                    - generic [ref=e4229]: 全网低价
+                    - generic [ref=e4231]: 淘金币已抵1.38元
+                    - generic [ref=e4233]: 30天价保
+                  - link "12年老店 宅秀旗舰店" [ref=e4236]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWKeGaaWwT8DYty8qGKQrfw3BB3H34sEWmLBW5Bc4pCaDs&spm=a21n57.1.item.32
+                    - generic [ref=e4237]: 12年老店
+                    - generic [ref=e4239]: 宅秀旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "家用推拉门衣柜国补卧室2026新款爆款金属简易衣橱衣架衣物收纳柜 正在秒杀 直降147.82元 卧室 铁 现代简约风 ¥ 260 .07 300+人付款 河南 洛阳 政府补贴15% 退货宝 包邮 运天杰旗舰店 下载 选品 搜图" [ref=e4242] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=1063526007639&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000Tqt6hs0OOAsCg8KBLWS3xIHL8Rv5rmEe7YRFYtwNQRA&skuId=6287377235404&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22336cca93ea483e6e0ab68de32f21e892%22%7D&spm=a21n57.1.item.33
+                - generic [ref=e4243]:
+                  - generic [ref=e4244]:
+                    - generic "家用推拉门衣柜国补卧室2026新款爆款金属简易衣橱衣架衣物收纳柜" [ref=e4246]
+                    - generic [ref=e4250]:
+                      - generic [ref=e4253]:
+                        - generic [ref=e4254]: 正在秒杀
+                        - generic [ref=e4255]: 直降147.82元
+                      - generic [ref=e4256]:
+                        - generic [ref=e4257]: 卧室
+                        - generic [ref=e4260]: 铁
+                        - generic [ref=e4264]: 现代简约风
+                    - generic [ref=e4269]:
+                      - generic [ref=e4270]: ¥
+                      - generic [ref=e4271]:
+                        - generic [ref=e4272]: "260"
+                        - generic [ref=e4273]: ".07"
+                      - generic [ref=e4274]: 300+人付款
+                      - generic [ref=e4275]: 河南
+                      - generic [ref=e4276]: 洛阳
+                  - generic "政府补贴15% 退货宝 包邮" [ref=e4277]:
+                    - generic [ref=e4278]: 政府补贴15%
+                    - generic [ref=e4280]: 退货宝
+                    - generic [ref=e4282]: 包邮
+                  - link "运天杰旗舰店" [ref=e4285]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWMq8JUsJcrfpKa8e6MBwTUt8JrSk6WcDNC7exus2qP2v8&spm=a21n57.1.item.33
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "实木洞洞板衣柜家用卧室2026新款松木推拉门儿童小户型免安装定制 原木风 E0级 ¥ 307 .4 34人付款 江苏 宿迁 直降35元 超级立减150元 淘金币已抵7.6元 6年老店 聿臣木业旗舰店 下载 选品 搜图" [ref=e4289] [cursor=pointer]:
+                - /url: https://click.simba.taobao.com/cc_im?p=%D2%C2%B9%F1&s=2116703&k=2785&e=lXiWJoe5Wshiyes8%2BBfOxpeOys%2FbPr7nzoF2US4UlJqEKAw5wrdCg%2Bu1tn9gtyC1gxi6NHdQQgMlXhBy%2BkC6NVv%2B6DwWUNNsnMmK0AFVuRS2RIdwCvTwMAgA9JVC86xf%2BXYvKnmqSuxxr%2FNOsEVcbMiWxUt9wDYth0j%2BlXnRy3z324unyC10RNb2ktKBspA4jkjXJw86hd3nrHaMPQruhFY5CSmKzpkVD7MqYvKktdlFIHod6nJuFwPAsX6ZR8Z8uoj%2FdQzIawDIriAFU1OxgYpEtn6ZFN2Sfj5xNF0MZgZAFDMlswjvQX212iiNHEWzZCaFHcuhNugUymTO4xTYUPUgwTnS0WN3G0%2F4Y8VLxqWlj%2BLu50bF%2FqTf9rZKBuywhhObBJ1H43Cb4R8osTzDf92azmWwOy%2FBNb%2FG3soSgLr0mHguPtJ0CHro5jx3O5qY98xr15oh2UPsWonCwlJLYB6h%2Bfwu0AmBC71EeYwTawurHiGSWUFF0Szyv1VRvXrBkpXkgrZsTuDbE0oUkPI3ch1%2B%2B2u9pZQw3EiQBSASGOigMCM2dSlvXg4jrvfD5QoJAaGhebJ0UMCEKHkPWtqKhhAVe0KOw6bxfBwvBIeeTH7AarHzqIalYZnhf%2BP1dg%2BB2A6q%2BpGPiKbGEG2iUhw%2BV45tg5izXoFb%2FhIfpRg5lkTJB1gy1wBZgZhXM3HVGqDALpf4mkxgY8pRdTQjrUZcz7HXxL%2BM5NyR%2F8W8957WGtImkMR57GRCxOKicSOGKolMarPsw7vpuw%2BHHctPy3y%2Fh3AdiSrT6k8B94YmzeDyqnbHDuwLc8kvBF%2F5%2FHIRBNFVTv7kGp9Dp6AXpiNu7%2BbaqIdMdxyu%2ByJzA%2FhudklRenM5sQZ86JYWtwjEzmkZu6fUSI8RL6ZhbwNGVZk0enzU9UA0SdXo6%2FmkYOEFm5mlgi09GcAiBBqqm1%2ByE6td6cNFSw5fbKkg5naBoiIAa8jWadBjwDA9dZKe7ONicrC3%2BUDzghbnYHF2OSYpBRHHh91F%2BWBBIbluHKaRo1ZuQkUTgcyyQREDYq9Hw8MA7oUnTL2jMaIlTxXpSsBWHyIbo7a0a1wNAJ0kv0DmaTTfhc0MzRXYoCnlVnUgYOEFm5mlgi17sDfWZdHBn5hpKZpXbDXbESzcBwewnD4Y3dFzDw33c40xWrb7CvmV09LFH83uAi4jWBF4JXmm9hmdv0N0%2FRfitk%2BPdK6i177q1SXEIY4a%2BVuCZ6sEv%2F9DBLyQqK0KjDys87UMpe%2BO4iqxec2OYNJnKMoyXraWmxf6pz4lYv%2F6im4P5pqaiqAUFspLlg2iysG1tLMRZ2lg43NYoa3p2Crk4aq5aTBC0oRR1DRRrWeXLZ7%2BYDOIkd%2FGLvP5Cp6SXKNK8HI9XgD4JbWHddyL6FmugrBgCDknk4LgatjrSyFeb5j9mwl8HXHImFus5XSt8L1oN%2F0J1mRO1JBsIey2aRHWLnsQYmbguSByMITdNgcyT1fvi6ND4wyKjRFe9o3QXsPzghbnYHF2OcHj%2FEnNhjGCI133eptzO3s2xWruFtGzplm8Nj3mXYdD5bD8Y3dUrQigQ%2BEG6xIa7wrO7wYiqSiWy4blzpZYvX3LCoMQWXua%2Bbfw27d21aX8v5zC3WONQU0i8IrGerNY3kgb4kPBwde7paPDmj%2BSx%2FhxJng7pDnKjny7llGIlSLvN6SS%2F45rYCKnrIU%2FF7dYj2tSL5sShs%2Fvczgyp1d5bwcNR7cqeGSvuts%2F10RFBhSOm6jExtipL%2BRlEeQlsVfZzo8vBLXFE%2FNTmkQ0vTeVzEQG%2BqhLNZ3idZwdJqIvalOFYOEFm5mlgi2CSlfDXVU6MptRfp6AwpS5OTgMueNhNepM94SNbLfNIJGgFm12fjj89CMxh7LvfQZUUqHRkJRTIUmwftPNq%2BOR5pgJ%2BW33%2Fz8VoQEz1rydH%2B8DDqItDUUZAzibjRWOtcGkgMjywfWgmb%2FY0bLQf4D3wcqXyTZRgspmMESR4DZk1MgvkHqIXu85i0Ady8cXO1e%2FVbkaXpWM31m8Nj3mXYdD7NSgt2Pf0hfDQ%2FuoXYjVb8gH%2FBybAwHK8To7GGEBozfp2I70mVGX0%2Byk%2FWcAvITM%2BBiyqlMftw1yB7U8YMDOc43A15fe%2B8JLJXOv8N99HjXF83kQmwIVbzKG68fnW9x5oHV0AmvJ1uwkFNyQaPqCtYHsyC50quYNQMQ0lNcwVflRkxBYuO8iOpj21x2JBBIulF3wRBSTmqHA2F1ij4OylzYhbugtguca7US1FmQxwzw1Z96JrMJGJS9eqDDuFcLja90bqRadMENlTCPi8pplDGaO32u6qHnLYtsXnL3tdpStyYtARms0N5DMYUufVeEyu3hjO32BzZyzxcL20UEl9AwUPm%2FqtGlXFu1oxTZdYlfZmhF2pgKl8pD0Bw3rIH3gSdSIA3kPt3wvMqAUXuK27vhd10f5nElmjXxmCSjI1OnJNzmZ7OJ5kHWE%2FgEalss%2BWNkTMq7945xG3XFxvsRdIpKNMdkRsL8jBanzxnqkaBpV%2FxMeCGZ8EZTC88zD%2FjOaMa38G2X6nHSr9CMZwUZ8kCh8XS7D7CTluBZmk3x5iijt4GrOXSWCQo57LRQdMbNjI21OJxc47abJSOfV6rMgrrydoF0JrtaanfSczVsMZLRcDZCpB4g1QfDwyVkoZzh9UXU0I61GXM8%2FFg9iMlINHFRy3upr5LP%2FBa2rvjJM%2BvOHHctPy3y%2Fh0pzU5WB8HhjRHO4bbUT87Sr%2FA%2FGm%2FIjOhcgn89CCQ%2FJ&mm_sceneid=0_0_1215520116_0&a=xxc%3Dad_ztc%26mi_id%3D0000nG_6DdJyQHx17N1sxPozYTZuDTNEeO4i_eTAzU9UE_k%26skuId%3D6127872864183%26priceTId%3D2100c92317885129798941241e0c0a%26utparam%3D%2525257B%25252522aplus_abtest%25252522%2525253A%2525252227b5df90d1fe0b8646e9768d27da9cf2%25252522%2525257D%26&id=1071050879957&spm=a21n57.1.item.34
+                - generic [ref=e4290]:
+                  - generic [ref=e4291]:
+                    - generic "实木洞洞板衣柜家用卧室2026新款松木推拉门儿童小户型免安装定制" [ref=e4293]
+                    - generic [ref=e4298]:
+                      - generic [ref=e4299]: 原木风
+                      - generic [ref=e4302]: E0级
+                    - generic [ref=e4307]:
+                      - generic [ref=e4308]: ¥
+                      - generic [ref=e4309]:
+                        - generic [ref=e4310]: "307"
+                        - generic [ref=e4311]: ".4"
+                      - generic [ref=e4312]: 34人付款
+                      - generic [ref=e4313]: 江苏
+                      - generic [ref=e4314]: 宿迁
+                  - generic "直降35元 超级立减150元 淘金币已抵7.6元" [ref=e4315]:
+                    - generic [ref=e4316]: 直降35元
+                    - generic [ref=e4318]: 超级立减150元
+                    - generic [ref=e4320]: 淘金币已抵7.6元
+                  - link "6年老店 聿臣木业旗舰店" [ref=e4323]:
+                    - /url: https://click.simba.taobao.com/cc_im?p=%D2%C2%B9%F1&s=2116703&k=2753&e=8UqMXZhPdApiyes8%2BBfOxpeOys%2FbPr7nzoF2US4UlJqEKAw5wrdCg%2Bu1tn9gtyC1gxi6NHdQQgMzdtmkI4QVblv%2B6DwWUNNsnMmK0AFVuRS2RIdwCvTwMAgA9JVC86xf%2BXYvKnmqSuxxr%2FNOsEVcbMiWxUt9wDYth0j%2BlXnRy3z324unyC10RNb2ktKBspA4jkjXJw86hd3nrHaMPQruhFY5CSmKzpkVD7MqYvKktdlFIHod6nJuFwPAsX6ZR8Z8uoj%2FdQzIawDIriAFU1OxgYpEtn6ZFN2Sfj5xNF0MZgZAFDMlswjvQX212iiNHEWzZCaFHcuhNugUymTO4xTYUPUgwTnS0WN3G0%2F4Y8VLxqWlj%2BLu50bF%2FqTf9rZKBuywhhObBJ1H43Cb4R8osTzDf92azmWwOy%2FBNb%2FG3soSgLr0mHguPtJ0CHro5jx3O5qY98xr15oh2UPsWonCwlJLYB6h%2Bfwu0AmBC71EeYwTawurHiGSWUFF0Szyv1VRvXrBkpXkgrZsTuDbE0oUkPI3ch1%2B%2B2u9pZQw3EiQBSASGOigMCM2dSlvXg4jrvfD5QoJAaGhebJ0UMCEKHkPWtqKhhAVe0KOw6bxfBwvBIeeTH7AarHzqIalYZnhf%2BP1dg%2BB2A6q%2BpGPiKbGEG2iUhw%2BV45tg5izXoFb%2FhIfpRg5lkTJB1gy1wBZgZhXM3HVGqDALpf4mkxgY8pRdTQjrUZcz7HXxL%2BM5NyR%2F8W8957WGtImkMR57GRCxOKicSOGKolMarPsw7vpuw%2BHHctPy3y%2Fh3AdiSrT6k8B94YmzeDyqnbHDuwLc8kvBF%2F5%2FHIRBNFVTv7kGp9Dp6AXpiNu7%2BbaqIdMdxyu%2ByJzA%2FhudklRenNSEDufvSVZeRqo59rjNwyywcR%2B0U3ozMft9I0CwkmAxBCUKr4qd7VCNSji75aIvYsII7Ioskgv5BC6%2FKiBLH0KN1y5K4%2BRfbzXjh8LMNS0KJ5c%2Fg9d2%2BVBcrrOYs8qkpGuijth7A1fwRF7mGDDUHHqUH0uU7kzzdnvqrVEnGI2VhKf7ds1GcySjcDXl977wkuH8HYWYTKS5Ak2HIGkKQxo2aKF0S%2BCYUBgU5m%2Ba3v4aYEEWp41g%2FVjw%2FxZFtnE%2BD3FAfXzetliP8X54%2BZ1EN7k7Gq2tWT%2Fj9Al0%2FZ7VkilGdWEJAVVZp%2F7rZAXStOCYJNyi0TV85TriW%2B6hUgboIK5dYlP%2F%2Br%2F4N4KQU4Wlf8x66NbBQIr%2F4Tdor%2BDUZESPEDybijl00o3Wr%2BGpH3IwalkPsIyUxb7T3yNq%2Fuloe8tV3IrcqpnqVIiFdCRmdpJhRWajPodP2n8b54%2B5XMFDMq9rvBotLtW2qUdySGzPx2jp%2FIZfKQMt1jFRE%2Fd4%2Brah0SUWgmVMwyAnPhXvwwhWdrJXcSsZRXqVhJj8eZ5S6ZBvHRCCZiq6JsfxsOl%2FitkqND3hibN4PKqdscO7AtzyS8EX%2Fn8chEE0VVO%2FuQan0OnoBemI27v5tqoqV8A0K%2BaQtakmf7QKlxCya2CLmsI35owRbdhEpNeFeRNTBcDG453UrPcOGQfZS0ubmz8WxZrxI82j6p0n%2BAleZ9C09%2FhEYaq5C7iM2bLItfK%2Bp0pZuVCiYyzthPhn%2B7lj4ev03pZI1ZkH2iikwyQyoZ1BCQdZVwIZzvx4h7BmGNY%2FnJKd2Whd16s0n3nmE%2BjrKvKkGlJHvogG4LyZ3hmliUX1tTz%2FO69NrmzKswTjwYDEXKqe%2FyYd9mNuH%2F9b39hi7Up%2FkJJKocDEF2faGROAgk2HIGkKQxodHYmu92K6z21sPTk1%2F3i6kkGt8l%2BHYj90Y%2BiITj6WGah%2Fm9ufdUB4HU34OtwvQoTUW1cNoDQZ3yKqoqbW1KjwYKl112hmgwrYjxj%2FvmnfL4PuGLJVNELuGuYrztF1Zu0xfN5EJsCFW9iV58vAz1unK1iDP%2FnGeNLPLjbDXQwHyMq10tgvBpo3VlmVCHFkNtdAkMCsLzw%2FMthFOeheBOiQZ3z8APCl3oMrMALfOGw8w3caVsv9qvScA5zp4ziopOHjX9l4OeO4URILIbyaSm8uWKgwhOxc0wW7uPQ%2BYmERv55cs%2FdEeJQt%2BZpNN%2BFzQzNQvrFp7nmRT6kgMjywfWgmTyNwtRGMAiZQl1oJXBLvw3K42V3l%2BhgzJJsEmvx40wSS45S9tbCFRmswAt84bDzDT80wFQu2JmP0ppc%2FCqyW4ZF1Ljlu2Frxp7T6cWwlakqRlNbQyfUledVTf5ZLDjuMjRbNmwqSGhJJovu%2BCfp5CytAfP7ulQls5upd4sggzO5i9Jc1FNz6NAv5s48vD4S227ybIL4mTgCZ2BjUZ9M6p5mXCg37FagoM%2B%2BZfJ9Wp9VNYwUQWIok850n29SuqGPxKsPQkV9yqnwdjXIHq4dpyfF53NlHynjM7BfLCAxtFs59WiVJhjUqfuVaFFtscKonK2S0WcZkF5m5ux8bv6tmy6MVFQcumGGPaTLSM5aW6ZhGQDLaZg5EwasVxwu6IWFC5koMpESmlZ8KtfbOAaC3ORliujLYby6bm4jbXcYvcQEcK5nSzl54LRskXZigYn5PK29Kd5Wwd8Tu9FstkzEs2Y%2B8%2BbdCzdW4hxdOCjyNAUMF0vkiyKgBps2I9%2FBvHE30w6sAK8kM8eYS38%2F6ebhUBDpjBe%2FyOLzYcuG5c6WWL19rYsd7r%2F3xhFSa%2Be5rQ3XOTs5BPH%2BQ8ca1BPRnjZRBTIz%2FNVc43vNiRSygm3w8w%2Bk&mm_sceneid=0_0_1215520116_0&spm=a21n57.1.item.34
+                    - generic [ref=e4324]: 6年老店
+                    - generic [ref=e4326]: 聿臣木业旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "简易衣柜出租房挂衣架卧室储物柜家用组装金属防尘衣橱衣服收纳柜 卧室 碳钢 轻奢风 ¥ 65 .7 补贴后 5000+人付款 河南 洛阳 政府补贴15% 超级立减12% 热销爆款 回头客10万 三箭家具旗舰店 下载 选品 搜图" [ref=e4329] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=996723164678&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000H9THGCUe7odfn9oVTVB078bJpfcqNDSCvUos0e0KXA8&skuId=6035149613186&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22f894f6c873e9e84d38e7d289b3032119%22%7D&spm=a21n57.1.item.35
+                - generic [ref=e4330]:
+                  - generic [ref=e4331]:
+                    - generic "简易衣柜出租房挂衣架卧室储物柜家用组装金属防尘衣橱衣服收纳柜" [ref=e4333]
+                    - generic [ref=e4338]:
+                      - generic [ref=e4339]: 卧室
+                      - generic [ref=e4342]: 碳钢
+                      - generic [ref=e4346]: 轻奢风
+                    - generic [ref=e4351]:
+                      - generic [ref=e4352]: ¥
+                      - generic [ref=e4353]:
+                        - generic [ref=e4354]: "65"
+                        - generic [ref=e4355]: ".7"
+                      - generic [ref=e4356]: 补贴后
+                      - generic [ref=e4357]: 5000+人付款
+                      - generic [ref=e4358]: 河南
+                      - generic [ref=e4359]: 洛阳
+                  - generic "政府补贴15% 超级立减12% 热销爆款" [ref=e4360]:
+                    - generic [ref=e4361]: 政府补贴15%
+                    - generic [ref=e4363]: 超级立减12%
+                    - generic [ref=e4365]: 热销爆款
+                  - link "回头客10万 三箭家具旗舰店" [ref=e4368]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWUkuJQnP9bEgHYwSYcf7ndXALMy65oBoRJKqdP2VZWJWJ&spm=a21n57.1.item.35
+                    - generic [ref=e4369]: 回头客10万
+                    - generic [ref=e4371]: 三箭家具旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "开放式双层落地衣柜出租房衣帽架洞洞板防尘帘衣架置物架角钢货架 品牌新客补贴，当日有效 衣橱/衣帽间 加强冷轧碳钢 现代简约风 ¥ 143 .77 首单价 4000+人付款 河南 洛阳 直降5元 超级立减12% 退货宝 昭简旗舰店 下载 选品 搜图" [ref=e4374] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=947271723965&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000TAfGhuU1WPJbJHLW6A88GiOEDibm5qTuchuO4nDYocA&skuId=6024917655850&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%2248639ff2b512ba8502b36320180bb0a7%22%7D&spm=a21n57.1.item.36
+                - generic [ref=e4375]:
+                  - generic [ref=e4376]:
+                    - generic "开放式双层落地衣柜出租房衣帽架洞洞板防尘帘衣架置物架角钢货架" [ref=e4378]
+                    - generic [ref=e4382]:
+                      - generic [ref=e4383]: 品牌新客补贴，当日有效
+                      - generic [ref=e4387]:
+                        - generic [ref=e4388]: 衣橱/衣帽间
+                        - generic [ref=e4391]: 加强冷轧碳钢
+                        - generic [ref=e4395]: 现代简约风
+                    - generic [ref=e4400]:
+                      - generic [ref=e4401]: ¥
+                      - generic [ref=e4402]:
+                        - generic [ref=e4403]: "143"
+                        - generic [ref=e4404]: ".77"
+                      - generic [ref=e4405]: 首单价
+                      - generic [ref=e4406]: 4000+人付款
+                      - generic [ref=e4407]: 河南
+                      - generic [ref=e4408]: 洛阳
+                  - generic "直降5元 超级立减12% 退货宝" [ref=e4409]:
+                    - generic [ref=e4410]: 直降5元
+                    - generic [ref=e4412]: 超级立减12%
+                    - generic [ref=e4414]: 退货宝
+                  - link "昭简旗舰店" [ref=e4417]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWMV1nvAHRVsELS7Us44PY1NRoBum45QsvfGTT2eEjfZoZ&spm=a21n57.1.item.36
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "80CM宽加厚儿童衣柜宝宝收纳柜塑料衣橱婴儿置物柜储物简易衣柜 衣橱/衣帽间 现代简约风 coulorful ¥ 139 优惠后 1000+人付款 广东 潮州 超级立减10% 退货宝 48小时内发 极有家 时尚美家坊 下载 选品 搜图" [ref=e4421] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=932361408492&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000iej_Ncx13wTQlTtDHCIG3CpnYUl4qz9lSywDQSa3TO0&skuId=5818871525880&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22e3e9c81f82defa7afe37978c2c0ec84f%22%7D&spm=a21n57.1.item.37
+                - generic [ref=e4422]:
+                  - generic [ref=e4423]:
+                    - generic "80CM宽加厚儿童衣柜宝宝收纳柜塑料衣橱婴儿置物柜储物简易衣柜" [ref=e4425]
+                    - generic [ref=e4429]:
+                      - generic [ref=e4430]: 衣橱/衣帽间
+                      - generic [ref=e4433]: 现代简约风
+                      - generic [ref=e4437]: coulorful
+                    - generic [ref=e4442]:
+                      - generic [ref=e4443]: ¥
+                      - generic [ref=e4444]: "139"
+                      - generic [ref=e4446]: 优惠后
+                      - generic [ref=e4447]: 1000+人付款
+                      - generic [ref=e4448]: 广东
+                      - generic [ref=e4449]: 潮州
+                  - generic "超级立减10% 退货宝 48小时内发" [ref=e4450]:
+                    - generic [ref=e4451]: 超级立减10%
+                    - generic [ref=e4453]: 退货宝
+                    - generic [ref=e4455]: 48小时内发
+                  - link "极有家 时尚美家坊" [ref=e4458]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWL28Ef2HBE8pQ7i9wW6dvGuHhgSvQXHdwd7N2qiDY5S1y&spm=a21n57.1.item.37
+                    - generic [ref=e4459]: 极有家
+                    - generic [ref=e4462]: 时尚美家坊
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "免安装宝宝衣柜加厚婴儿收纳柜家用零食整理箱衣服储物儿童小衣橱 衣橱/衣帽间 PP材质 现代简约风 ¥ 110 .88 补贴后 4000+人付款 河南 焦作 政府补贴15% 超级立减26.53元 热销爆款 回头客9万 妙立官方旗舰店 下载 选品 搜图" [ref=e4465] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=910446663777&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000g2vA_bkxhP-bhAmW1CJlZXgJBAyGg7Fvq0x7JE7gHi8&skuId=6128808414592&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22f2504f51c5ef7db03ab4eff9f6590e1d%22%7D&spm=a21n57.1.item.38
+                - generic [ref=e4466]:
+                  - generic [ref=e4467]:
+                    - generic "免安装宝宝衣柜加厚婴儿收纳柜家用零食整理箱衣服储物儿童小衣橱" [ref=e4469]
+                    - generic [ref=e4474]:
+                      - generic [ref=e4475]: 衣橱/衣帽间
+                      - generic [ref=e4478]: PP材质
+                      - generic [ref=e4482]: 现代简约风
+                    - generic [ref=e4487]:
+                      - generic [ref=e4488]: ¥
+                      - generic [ref=e4489]:
+                        - generic [ref=e4490]: "110"
+                        - generic [ref=e4491]: ".88"
+                      - generic [ref=e4492]: 补贴后
+                      - generic [ref=e4493]: 4000+人付款
+                      - generic [ref=e4494]: 河南
+                      - generic [ref=e4495]: 焦作
+                  - generic "政府补贴15% 超级立减26.53元 热销爆款" [ref=e4496]:
+                    - generic [ref=e4497]: 政府补贴15%
+                    - generic [ref=e4499]: 超级立减26.53元
+                    - generic [ref=e4501]: 热销爆款
+                  - link "回头客9万 妙立官方旗舰店" [ref=e4504]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWamxsbJjWjwiSZrjzQEyRdoe6dnnuETxEZssVSjukxqXX&spm=a21n57.1.item.38
+                    - generic [ref=e4505]: 回头客9万
+                    - generic [ref=e4507]: 妙立官方旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "推拉门简易衣柜2026新款金属钢制家用卧室组装儿童衣橱衣服收纳柜 静音导轨钢架衣柜热销 榜·第1名 需要组装 现代简约 Enf级 ¥ 102 .17 补贴后 400+人付款 河南 洛阳 政府补贴15% 超级立减12% 48小时内发 回头客10万 三箭家具旗舰店 下载 选品 搜图" [ref=e4510] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=1063485013436&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000j4P8i70xtq_E7s2jSaa70MI7HNdYZ8Rbe_qjk4mvd80&skuId=6274048318717&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22fbbab5d5ef7bd460786813d040626de2%22%7D&spm=a21n57.1.item.39
+                - generic [ref=e4511]:
+                  - generic [ref=e4512]:
+                    - generic "推拉门简易衣柜2026新款金属钢制家用卧室组装儿童衣橱衣服收纳柜" [ref=e4514]
+                    - generic [ref=e4518]:
+                      - generic [ref=e4519]:
+                        - generic [ref=e4520]: 静音导轨钢架衣柜热销
+                        - generic [ref=e4521]: 榜·第1名
+                      - generic [ref=e4522]:
+                        - generic [ref=e4523]: 需要组装
+                        - generic [ref=e4526]: 现代简约
+                        - generic [ref=e4530]: Enf级
+                    - generic [ref=e4535]:
+                      - generic [ref=e4536]: ¥
+                      - generic [ref=e4537]:
+                        - generic [ref=e4538]: "102"
+                        - generic [ref=e4539]: ".17"
+                      - generic [ref=e4540]: 补贴后
+                      - generic [ref=e4541]: 400+人付款
+                      - generic [ref=e4542]: 河南
+                      - generic [ref=e4543]: 洛阳
+                  - generic "政府补贴15% 超级立减12% 48小时内发" [ref=e4544]:
+                    - generic [ref=e4545]: 政府补贴15%
+                    - generic [ref=e4547]: 超级立减12%
+                    - generic [ref=e4549]: 48小时内发
+                  - link "回头客10万 三箭家具旗舰店" [ref=e4552]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWUkuJQnP9bEgHYwSYcf7ndXALMy65oBoRJKqdP2VZWJWJ&spm=a21n57.1.item.39
+                    - generic [ref=e4553]: 回头客10万
+                    - generic [ref=e4555]: 三箭家具旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "钢制衣柜家用卧室简易组装2026新款爆款出租房结实耐用金属收纳柜 超级立减组合衣柜好评 榜·第10名 40kg 2个 现代简约 ¥ 58 .79 补贴后 3000+人付款 河南 洛阳 政府补贴15% 超级立减12% 热销爆款 回头客2万 炎恩旗舰店 下载 选品 搜图" [ref=e4558] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=1025310498545&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000HlXwRHAB2HpeOABXo2oGKamCOvvWNV4DQXsdrNqiPtM&skuId=6123429265357&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22a666578862e29e092a5503184299734e%22%7D&spm=a21n57.1.item.40
+                - generic [ref=e4559]:
+                  - generic [ref=e4560]:
+                    - generic "钢制衣柜家用卧室简易组装2026新款爆款出租房结实耐用金属收纳柜" [ref=e4562]
+                    - generic [ref=e4566]:
+                      - generic [ref=e4567]:
+                        - generic [ref=e4568]: 超级立减组合衣柜好评
+                        - generic [ref=e4569]: 榜·第10名
+                      - generic [ref=e4570]:
+                        - generic [ref=e4571]: 40kg
+                        - generic [ref=e4574]: 2个
+                        - generic [ref=e4578]: 现代简约
+                    - generic [ref=e4583]:
+                      - generic [ref=e4584]: ¥
+                      - generic [ref=e4585]:
+                        - generic [ref=e4586]: "58"
+                        - generic [ref=e4587]: ".79"
+                      - generic [ref=e4588]: 补贴后
+                      - generic [ref=e4589]: 3000+人付款
+                      - generic [ref=e4590]: 河南
+                      - generic [ref=e4591]: 洛阳
+                  - generic "政府补贴15% 超级立减12% 热销爆款" [ref=e4592]:
+                    - generic [ref=e4593]: 政府补贴15%
+                    - generic [ref=e4595]: 超级立减12%
+                    - generic [ref=e4597]: 热销爆款
+                  - link "回头客2万 炎恩旗舰店" [ref=e4600]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWMoHNrvPPDK93x2FbUN3ZWj8tdmNS31kGptSD7Dmgz7cQ&spm=a21n57.1.item.40
+                    - generic [ref=e4601]: 回头客2万
+                    - generic [ref=e4603]: 炎恩旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "收纳柜子置物柜家用零食抽屉式婴儿童宝宝多层储物衣柜整理架收纳 对开门儿童收纳柜热销 榜·第9名 竹 通用 欧式 ¥ 51 优惠后 100+人付款 浙江 丽水 3期 包邮 回头客10万 木马人官方旗舰店 下载 选品 搜图" [ref=e4606] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=696521284732&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000bz1zkIf8gxoFCSPJGuEh7P4GBlPxoMgAZFjNoMdRNhA&skuId=5778748595952&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22d50fd73e840e213b4b75660703fdfee0%22%7D&spm=a21n57.1.item.41
+                - generic [ref=e4607]:
+                  - generic [ref=e4608]:
+                    - generic "收纳柜子置物柜家用零食抽屉式婴儿童宝宝多层储物衣柜整理架收纳" [ref=e4610]
+                    - generic [ref=e4614]:
+                      - generic [ref=e4615]:
+                        - generic [ref=e4616]: 对开门儿童收纳柜热销
+                        - generic [ref=e4617]: 榜·第9名
+                      - generic [ref=e4618]:
+                        - generic [ref=e4619]: 竹
+                        - generic [ref=e4622]: 通用
+                        - generic [ref=e4626]: 欧式
+                    - generic [ref=e4631]:
+                      - generic [ref=e4632]: ¥
+                      - generic [ref=e4633]: "51"
+                      - generic [ref=e4635]: 优惠后
+                      - generic [ref=e4636]: 100+人付款
+                      - generic [ref=e4637]: 浙江
+                      - generic [ref=e4638]: 丽水
+                  - generic "3期 包邮" [ref=e4639]:
+                    - generic [ref=e4640]: 3期
+                    - generic [ref=e4642]: 包邮
+                  - link "回头客10万 木马人官方旗舰店" [ref=e4645]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWYo5gTkM9NMWiMJH8poe7uof7Gnz1bkRTt2Mv9W7Zw96d&spm=a21n57.1.item.41
+                    - generic [ref=e4646]: 回头客10万
+                    - generic [ref=e4648]: 木马人官方旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "收纳柜家用免安装宝宝衣柜整理儿童衣服零食塑料置物柜卧室储物柜 正在秒杀 直降9.65元 对开门儿童收纳柜热销 榜·第1名 塑料 通用 矮柜式 ¥ 38 .6 补贴后 5000+人付款 湖北 鄂州 热销爆款 退货宝 包邮 回头客2万 俏洁旗舰店 下载 选品 搜图" [ref=e4651] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=883330405244&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000obdMykSt4lmk2mTi0QZeU3BRiOIcMMc0iq9cSkeTndk&skuId=5722177176297&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%226cbc42733e7112fc385e84d144f41f79%22%7D&spm=a21n57.1.item.42
+                - generic [ref=e4652]:
+                  - generic [ref=e4653]:
+                    - generic "收纳柜家用免安装宝宝衣柜整理儿童衣服零食塑料置物柜卧室储物柜" [ref=e4655]
+                    - generic [ref=e4659]:
+                      - generic [ref=e4662]:
+                        - generic [ref=e4663]: 正在秒杀
+                        - generic [ref=e4664]: 直降9.65元
+                      - generic [ref=e4665]:
+                        - generic [ref=e4666]: 对开门儿童收纳柜热销
+                        - generic [ref=e4667]: 榜·第1名
+                      - generic [ref=e4668]:
+                        - generic [ref=e4669]: 塑料
+                        - generic [ref=e4672]: 通用
+                        - generic [ref=e4676]: 矮柜式
+                    - generic [ref=e4681]:
+                      - generic [ref=e4682]: ¥
+                      - generic [ref=e4683]:
+                        - generic [ref=e4684]: "38"
+                        - generic [ref=e4685]: ".6"
+                      - generic [ref=e4686]: 补贴后
+                      - generic [ref=e4687]: 5000+人付款
+                      - generic [ref=e4688]: 湖北
+                      - generic [ref=e4689]: 鄂州
+                  - generic "热销爆款 退货宝 包邮" [ref=e4690]:
+                    - generic [ref=e4691]: 热销爆款
+                    - generic [ref=e4693]: 退货宝
+                    - generic [ref=e4695]: 包邮
+                  - link "回头客2万 俏洁旗舰店" [ref=e4698]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWYA2uL8AHrfUWmgwBetBoP1ZjBw11b8ykXgYCoWBLt9Yb&spm=a21n57.1.item.42
+                    - generic [ref=e4699]: 回头客2万
+                    - generic [ref=e4701]: 俏洁旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "免安装折叠衣柜家用卧室简易布衣柜结实耐用出租房用衣橱钢架柜子 品牌新客补贴，当日有效 轻奢风 儿童衣柜 ¥ 178 .1 首单价 8万+人付款 山东 济宁 全网低价 直降13元 超级立减10% 回头客3万 伟赞旗舰店 下载 选品 搜图" [ref=e4704] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=746113258655&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000Oc99KDfw7CrV5LaIrktK8uB6k2DUONjUrg4q55cyeEg&skuId=5970692692489&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22b04567b10a07fbcee105b689280887b6%22%7D&spm=a21n57.1.item.43
+                - generic [ref=e4705]:
+                  - generic [ref=e4706]:
+                    - generic "免安装折叠衣柜家用卧室简易布衣柜结实耐用出租房用衣橱钢架柜子" [ref=e4708]
+                    - generic [ref=e4712]:
+                      - generic [ref=e4713]: 品牌新客补贴，当日有效
+                      - generic [ref=e4717]:
+                        - generic [ref=e4718]: 轻奢风
+                        - generic [ref=e4721]: 儿童衣柜
+                    - generic [ref=e4726]:
+                      - generic [ref=e4727]: ¥
+                      - generic [ref=e4728]:
+                        - generic [ref=e4729]: "178"
+                        - generic [ref=e4730]: ".1"
+                      - generic [ref=e4731]: 首单价
+                      - generic [ref=e4732]: 8万+人付款
+                      - generic [ref=e4733]: 山东
+                      - generic [ref=e4734]: 济宁
+                  - generic "全网低价 直降13元 超级立减10%" [ref=e4735]:
+                    - generic [ref=e4736]: 全网低价
+                    - generic [ref=e4738]: 直降13元
+                    - generic [ref=e4740]: 超级立减10%
+                  - link "回头客3万 伟赞旗舰店" [ref=e4743]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWSQNMeS1Cw6XwERKs5x4LhMQPrwzKoxyh1eYh8DGysUJS&spm=a21n57.1.item.43
+                    - generic [ref=e4744]: 回头客3万
+                    - generic [ref=e4746]: 伟赞旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "洞洞板衣柜家用卧室挂衣架落地简易金属置物架子开放式组合衣帽架 100kg 中古风 E1级 ¥ 156 优惠后 3000+人付款 江苏 宿迁 超级立减20% 3期 30天价保 极有家 滕氏家居企业店 下载 选品 搜图" [ref=e4749] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=1015545267895&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000RX2Y9-tqsUfEonTJV-s6yUvP73fyPVkPNxadmwCQPWc&skuId=6292666138700&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22050b10446da6a81b5e566f01aa08bc7e%22%7D&spm=a21n57.1.item.44
+                - generic [ref=e4750]:
+                  - generic [ref=e4751]:
+                    - generic "洞洞板衣柜家用卧室挂衣架落地简易金属置物架子开放式组合衣帽架" [ref=e4753]
+                    - generic [ref=e4758]:
+                      - generic [ref=e4759]: 100kg
+                      - generic [ref=e4762]: 中古风
+                      - generic [ref=e4766]: E1级
+                    - generic [ref=e4771]:
+                      - generic [ref=e4772]: ¥
+                      - generic [ref=e4773]: "156"
+                      - generic [ref=e4775]: 优惠后
+                      - generic [ref=e4776]: 3000+人付款
+                      - generic [ref=e4777]: 江苏
+                      - generic [ref=e4778]: 宿迁
+                  - generic "超级立减20% 3期 30天价保" [ref=e4779]:
+                    - generic [ref=e4780]: 超级立减20%
+                    - generic [ref=e4782]: 3期
+                    - generic [ref=e4784]: 30天价保
+                  - link "极有家 滕氏家居企业店" [ref=e4787]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWSaKkKVggukiaY31S2teNDCCz8H2caJSTC5zpMia2a9po&spm=a21n57.1.item.44
+                    - generic [ref=e4788]: 极有家
+                    - generic [ref=e4791]: 滕氏家居企业店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "免安装儿童衣柜宝宝衣服收纳柜可折叠婴儿小衣橱零食玩具储物柜子 卧室 日式风 中国大陆 ¥ 147 .5 4000+人付款 广东 揭阳 48小时内发 包邮 极有家 仟柏霖 优创家居 下载 选品 搜图" [ref=e4794] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=980265851617&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000kay6QM-cHQqihDLtEJ4oCbtLkehguyLTdfMg1piJtUQ&skuId=5940129961456&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%227029552dd34567358350c70393a4aa0d%22%7D&spm=a21n57.1.item.45
+                - generic [ref=e4795]:
+                  - generic [ref=e4796]:
+                    - generic "免安装儿童衣柜宝宝衣服收纳柜可折叠婴儿小衣橱零食玩具储物柜子" [ref=e4798]
+                    - generic [ref=e4802]:
+                      - generic [ref=e4803]: 卧室
+                      - generic [ref=e4806]: 日式风
+                      - generic [ref=e4810]: 中国大陆
+                    - generic [ref=e4815]:
+                      - generic [ref=e4816]: ¥
+                      - generic [ref=e4817]:
+                        - generic [ref=e4818]: "147"
+                        - generic [ref=e4819]: ".5"
+                      - generic [ref=e4820]: 4000+人付款
+                      - generic [ref=e4821]: 广东
+                      - generic [ref=e4822]: 揭阳
+                  - generic "48小时内发 包邮" [ref=e4823]:
+                    - generic [ref=e4824]: 48小时内发
+                    - generic [ref=e4826]: 包邮
+                  - link "极有家 仟柏霖 优创家居" [ref=e4829]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWRUJhHhQmmtZbnfYAxPy93hPAiH5qrQ19SbjLW7CCFEio&spm=a21n57.1.item.45
+                    - generic [ref=e4830]: 极有家
+                    - generic [ref=e4833]: 仟柏霖 优创家居
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "儿童衣柜折叠收纳柜子婴儿小衣橱宝宝玩具零食柜免安装多层储物柜 正在秒杀 直降13.6元 淘宝秒杀衣柜热销 榜·第4名 儿童房 现代简约风 中国大陆 ¥ 98 补贴后 4000+人付款 广东 潮州 退货宝 48小时内发 包邮 极有家 宝宝家居日用生活馆 下载 选品 搜图" [ref=e4836] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=960924518066&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000McqmvHdhf_gVOI8Lz3Z8iK8rGmxYDtjIvpNvd7pGkYg&skuId=5893465752295&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22223a108aa8f7554c523fd3ce5ce8ab3a%22%7D&spm=a21n57.1.item.46
+                - generic [ref=e4837]:
+                  - generic [ref=e4838]:
+                    - generic "儿童衣柜折叠收纳柜子婴儿小衣橱宝宝玩具零食柜免安装多层储物柜" [ref=e4840]
+                    - generic [ref=e4844]:
+                      - generic [ref=e4847]:
+                        - generic [ref=e4848]: 正在秒杀
+                        - generic [ref=e4849]: 直降13.6元
+                      - generic [ref=e4850]:
+                        - generic [ref=e4851]: 淘宝秒杀衣柜热销
+                        - generic [ref=e4852]: 榜·第4名
+                      - generic [ref=e4853]:
+                        - generic [ref=e4854]: 儿童房
+                        - generic [ref=e4857]: 现代简约风
+                        - generic [ref=e4861]: 中国大陆
+                    - generic [ref=e4866]:
+                      - generic [ref=e4867]: ¥
+                      - generic [ref=e4868]: "98"
+                      - generic [ref=e4870]: 补贴后
+                      - generic [ref=e4871]: 4000+人付款
+                      - generic [ref=e4872]: 广东
+                      - generic [ref=e4873]: 潮州
+                  - generic "退货宝 48小时内发 包邮" [ref=e4874]:
+                    - generic [ref=e4875]: 退货宝
+                    - generic [ref=e4877]: 48小时内发
+                    - generic [ref=e4879]: 包邮
+                  - link "极有家 宝宝家居日用生活馆" [ref=e4882]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWaxHckiXbFVjiGByCkopaD5rGpCmAcxLYoTWypn1yitss&spm=a21n57.1.item.46
+                    - generic [ref=e4883]: 极有家
+                    - generic [ref=e4886]: 宝宝家居日用生活馆
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "双层国家补贴衣柜出租房简易组装开放式衣帽架衣架落地加厚置物架 衣橱/衣帽间 钢 现代简约风 ¥ 157 .07 优惠后 300+人付款 河南 洛阳 超级立减15% 30天价保 退货宝 运天杰旗舰店 下载 选品 搜图" [ref=e4889] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=995078137584&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000sR3jEYSerGw9TwN-G48WysDq3goPn7wDyZrLUq7SPlQ&skuId=6106231676804&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%2253230b9f5d326932fa23dcb881d604ee%22%7D&spm=a21n57.1.item.47
+                - generic [ref=e4890]:
+                  - generic [ref=e4891]:
+                    - generic "双层国家补贴衣柜出租房简易组装开放式衣帽架衣架落地加厚置物架" [ref=e4893]
+                    - generic [ref=e4898]:
+                      - generic [ref=e4899]: 衣橱/衣帽间
+                      - generic [ref=e4902]: 钢
+                      - generic [ref=e4906]: 现代简约风
+                    - generic [ref=e4911]:
+                      - generic [ref=e4912]: ¥
+                      - generic [ref=e4913]:
+                        - generic [ref=e4914]: "157"
+                        - generic [ref=e4915]: ".07"
+                      - generic [ref=e4916]: 优惠后
+                      - generic [ref=e4917]: 300+人付款
+                      - generic [ref=e4918]: 河南
+                      - generic [ref=e4919]: 洛阳
+                  - generic "超级立减15% 30天价保 退货宝" [ref=e4920]:
+                    - generic [ref=e4921]: 超级立减15%
+                    - generic [ref=e4923]: 30天价保
+                    - generic [ref=e4925]: 退货宝
+                  - link "运天杰旗舰店" [ref=e4928]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWMq8JUsJcrfpKa8e6MBwTUt8JrSk6WcDNC7exus2qP2v8&spm=a21n57.1.item.47
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "简易衣柜家用卧室钢架加粗厚收纳布衣柜出租房屋组装布艺挂衣橱子 布衣柜好评 榜·第6名 北欧风 成人衣柜 ¥ 46 3万+人付款 浙江 金华 公益宝贝 6年老店 艳森旗舰店 下载 选品 搜图" [ref=e4932] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=719384782268&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000CyP77m3fm6RhLkRLX82u_Na1t3iNZQ9hXJ4u2zyVREM&skuId=5552907626128&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%221e8d125ca8f695ea3b0845e9c73a2bab%22%7D&spm=a21n57.1.item.48
+                - generic [ref=e4933]:
+                  - generic [ref=e4934]:
+                    - generic "简易衣柜家用卧室钢架加粗厚收纳布衣柜出租房屋组装布艺挂衣橱子" [ref=e4936]
+                    - generic [ref=e4940]:
+                      - generic [ref=e4941]:
+                        - generic [ref=e4942]: 布衣柜好评
+                        - generic [ref=e4943]: 榜·第6名
+                      - generic [ref=e4944]:
+                        - generic [ref=e4945]: 北欧风
+                        - generic [ref=e4948]: 成人衣柜
+                    - generic [ref=e4953]:
+                      - generic [ref=e4954]: ¥
+                      - generic [ref=e4955]: "46"
+                      - generic [ref=e4957]: 3万+人付款
+                      - generic [ref=e4958]: 浙江
+                      - generic [ref=e4959]: 金华
+                  - generic "公益宝贝" [ref=e4960]
+                  - link "6年老店 艳森旗舰店" [ref=e4964]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWVz6DCBbtVHMj2JixpNN1wbEbLer6Nei5tXv5Xusz3Pp8&spm=a21n57.1.item.48
+                    - generic [ref=e4965]: 6年老店
+                    - generic [ref=e4967]: 艳森旗舰店
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "钢制衣柜家用儿童衣橱简易组装衣架卧室防尘收纳柜出租屋用置物架 ¥ 29 .95 优惠后 4000+人付款 河南 洛阳 超级立减10% 包邮 百丰达家具旗舰店 下载 选品 搜图" [ref=e4970] [cursor=pointer]:
+                - /url: //detail.tmall.com/item.htm?id=1035216081190&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000OgMqa6xmj6ph7I_b1fhjPkgug44zduqVzTsMlrsO97Y&skuId=6293356711728&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%226c2631451a225a4625f15eeccf24a54f%22%7D&spm=a21n57.1.item.49
+                - generic [ref=e4971]:
+                  - generic [ref=e4972]:
+                    - generic "钢制衣柜家用儿童衣橱简易组装衣架卧室防尘收纳柜出租屋用置物架" [ref=e4974]
+                    - generic [ref=e4978]:
+                      - generic [ref=e4979]: ¥
+                      - generic [ref=e4980]:
+                        - generic [ref=e4981]: "29"
+                        - generic [ref=e4982]: ".95"
+                      - generic [ref=e4983]: 优惠后
+                      - generic [ref=e4984]: 4000+人付款
+                      - generic [ref=e4985]: 河南
+                      - generic [ref=e4986]: 洛阳
+                  - generic "超级立减10% 包邮" [ref=e4987]:
+                    - generic [ref=e4988]: 超级立减10%
+                    - generic [ref=e4990]: 包邮
+                  - link "百丰达家具旗舰店" [ref=e4993]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWUeeLcSUtiwfsSnDE8ck6iKYQkRPSXsxdLmRoU2AYDhNN&spm=a21n57.1.item.49
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "金属钢制衣柜落地简易组装靠墙收纳柜家用衣帽架无甲醛大容量衣橱 需要组装 现代简约 ¥ 44 .81 优惠后 1000+人付款 河南 洛阳 超级立减10% 48小时内发 包邮 恒康家具工厂店 下载 选品 搜图" [ref=e4997] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=1017197022310&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000tF1g20-3tlFxYNC3eQsIdVKk8n3FMWlu3AXilozF_gg&skuId=6025949340420&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%2231a53faa636d49362b2071b9828e0c77%22%7D&spm=a21n57.1.item.50
+                - generic [ref=e4998]:
+                  - generic [ref=e4999]:
+                    - generic "金属钢制衣柜落地简易组装靠墙收纳柜家用衣帽架无甲醛大容量衣橱" [ref=e5001]
+                    - generic [ref=e5005]:
+                      - generic [ref=e5006]: 需要组装
+                      - generic [ref=e5009]: 现代简约
+                    - generic [ref=e5014]:
+                      - generic [ref=e5015]: ¥
+                      - generic [ref=e5016]:
+                        - generic [ref=e5017]: "44"
+                        - generic [ref=e5018]: ".81"
+                      - generic [ref=e5019]: 优惠后
+                      - generic [ref=e5020]: 1000+人付款
+                      - generic [ref=e5021]: 河南
+                      - generic [ref=e5022]: 洛阳
+                  - generic "超级立减10% 48小时内发 包邮" [ref=e5023]:
+                    - generic [ref=e5024]: 超级立减10%
+                    - generic [ref=e5026]: 48小时内发
+                    - generic [ref=e5028]: 包邮
+                  - link "恒康家具工厂店" [ref=e5031]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWNT5isUw6kpgmYHQWh7qVSYQCtiuWkfUpfvNPor7L4jhw&spm=a21n57.1.item.50
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - link "免安装折叠收纳柜简易衣柜多层储物柜儿童玩具零食柜婴儿塑料衣橱 正在秒杀 直降74.66元 入选淘宝秒杀衣柜热销 榜 塑料 儿童房 落地式 ¥ 72 补贴后 100+人付款 湖北 武汉 48小时内发 包邮 收纳巴巴 下载 选品 搜图" [ref=e5035] [cursor=pointer]:
+                - /url: //item.taobao.com/item.htm?id=1069696911202&ns=1&abbucket=5&xxc=taobaoSearch&mi_id=0000Ucswcp8hnnY-btSUubHkAFA7YcJVCW8pfYL-W1_M--M&skuId=6121334905195&priceTId=2100c92317885129798941241e0c0a&utparam=%7B%22aplus_abtest%22%3A%22bc1e170077d08fe871e5ccdaa18978bf%22%7D&spm=a21n57.1.item.51
+                - generic [ref=e5036]:
+                  - generic [ref=e5037]:
+                    - generic "免安装折叠收纳柜简易衣柜多层储物柜儿童玩具零食柜婴儿塑料衣橱" [ref=e5039]
+                    - generic [ref=e5043]:
+                      - generic [ref=e5046]:
+                        - generic [ref=e5047]: 正在秒杀
+                        - generic [ref=e5048]: 直降74.66元
+                      - generic [ref=e5049]:
+                        - generic [ref=e5050]: 入选淘宝秒杀衣柜热销
+                        - generic [ref=e5051]: 榜
+                      - generic [ref=e5052]:
+                        - generic [ref=e5053]: 塑料
+                        - generic [ref=e5056]: 儿童房
+                        - generic [ref=e5060]: 落地式
+                    - generic [ref=e5065]:
+                      - generic [ref=e5066]: ¥
+                      - generic [ref=e5067]: "72"
+                      - generic [ref=e5069]: 补贴后
+                      - generic [ref=e5070]: 100+人付款
+                      - generic [ref=e5071]: 湖北
+                      - generic [ref=e5072]: 武汉
+                  - generic "48小时内发 包邮" [ref=e5073]:
+                    - generic [ref=e5074]: 48小时内发
+                    - generic [ref=e5076]: 包邮
+                  - link "收纳巴巴" [ref=e5079]:
+                    - /url: //store.taobao.com/category.htm?appUid=RAzN8HWXA8qemVf7dWkir51pWfwfj9pE3VEXrE9sZXuPHfUpJiG&spm=a21n57.1.item.51
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+            - generic [ref=e5083]:
+              - button "上一页，当前第1页" [disabled] [ref=e5084]:
+                - generic [ref=e5085]: 
+                - generic [ref=e5086]: 上一页
+              - generic [ref=e5087]:
+                - button "第1页，共100页" [ref=e5088] [cursor=pointer]:
+                  - generic [ref=e5089]: "1"
+                - button "第2页，共100页" [ref=e5090] [cursor=pointer]:
+                  - generic [ref=e5091]: "2"
+                - button "第3页，共100页" [ref=e5092] [cursor=pointer]:
+                  - generic [ref=e5093]: "3"
+                - button "第4页，共100页" [ref=e5094] [cursor=pointer]:
+                  - generic [ref=e5095]: "4"
+                - button "第5页，共100页" [ref=e5096] [cursor=pointer]:
+                  - generic [ref=e5097]: "5"
+                - generic [ref=e5098]: 
+                - button "第100页，共100页" [ref=e5099] [cursor=pointer]:
+                  - generic [ref=e5100]: "100"
+              - button "下一页，当前第1页" [ref=e5101] [cursor=pointer]:
+                - generic [ref=e5102]: 下一页
+                - generic [ref=e5103]: 
+              - generic [ref=e5104]:
+                - emphasis [ref=e5105]: "1"
+                - text: /100
+              - generic [ref=e5106]: 到第
+              - textbox "请输入跳转到第几页" [ref=e5108]
+              - generic [ref=e5109]: 页
+              - button "确定" [ref=e5110] [cursor=pointer]
+        - generic [ref=e2723]:
+          - link [ref=e2725] [cursor=pointer]:
+            - /url: https://pc.taobao.com?channel=search
+          - generic [ref=e2727] [cursor=pointer]: "56"
+          - link "31" [ref=e2732] [cursor=pointer]:
+            - /url: //cart.taobao.com
+          - link [ref=e2736] [cursor=pointer]:
+            - /url: //consumerservice.taobao.com/online-help
+          - link [ref=e2739] [cursor=pointer]:
+            - /url: //market.m.taobao.com/app/tbhome/feedback/index.html?fromURL=https%3A%2F%2Fs.taobao.com%2Fsearch%3Fpage%3D1%26preLoadOrigin%3Dhttps%253A%252F%252Fi.taobao.com%26q%3D%25E9%2598%25B3%25E5%258F%25B0%25E7%25BD%25AE%25E7%2589%25A9%25E6%259E%25B6%26spm%3Dtbpc.mytb_index.searchSuggest.0%26tab%3Dall
+      - generic [ref=e2620]:
+        - generic [ref=e2621]:
+          - generic [ref=e2622]: 商品对比
+          - button "关闭" [ref=e2623] [cursor=pointer]
+        - generic [ref=e2626]:
+          - generic [ref=e2627]:
+            - generic [ref=e2628]:
+              - generic [ref=e2629]: "1."
+              - generic [ref=e2630]: 选择商品
+            - generic [ref=e2631]: 最多可选择4件
+          - generic [ref=e2632]:
+            - generic [ref=e2633]: 还未添加对比商品
+            - button "添加商品" [ref=e2634] [cursor=pointer]
+        - button "开始对比" [disabled] [ref=e2640]
+    - generic [ref=e2642]:
+      - generic [ref=e2644]: AI商品对比新上线
+      - generic [ref=e2645]: 根据你的偏好，读懂商品关键差异
+      - generic [ref=e2646]: 知道了
+  - generic:
+    - generic:
+      - generic [ref=e2648]:
+        - tab "" [ref=e2650] [cursor=pointer]
+        - generic [ref=e2653]:
+          - generic [ref=e2654]:
+            - tab " 高级查询" [ref=e2656] [cursor=pointer]:
+              - generic [ref=e2657]:
+                - generic [ref=e2658]: 
+                - generic [ref=e2659]: 高级查询
+            - tab "" [ref=e2661] [cursor=pointer]
+          - tab [ref=e2665] [cursor=pointer]
+      - generic:
+        - generic:
+          - generic: 
+          - text:  

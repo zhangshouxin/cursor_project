@@ -1,0 +1,970 @@
+- generic [ref=f12e1]:
+  - link "欢迎进入 淘宝,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。":
+    - /url: javascript:void(0)
+  - generic [ref=f12e3]:
+    - list [ref=f12e4]:
+      - listitem [ref=f12e5]:
+        - generic [ref=f12e6]:
+          - generic [ref=f12e7]: 中国大陆
+          - generic [ref=f12e8]: 
+      - listitem [ref=f12e10]:
+        - generic [ref=f12e11]:
+          - generic:
+            - link "tb1262003_2012" [ref=f12e12] [cursor=pointer]:
+              - /url: //i.taobao.com/my_itaobao?ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+            - generic [ref=f12e13]: 
+      - listitem [ref=f12e15]:
+        - link "网页无障碍" [ref=f12e17] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f12e19]:
+        - link "切换企业版" [ref=f12e21] [cursor=pointer]:
+          - /url: //b.taobao.com/?from=PCzhannei
+      - listitem [ref=f12e23]:
+        - generic [ref=f12e24]:
+          - generic [ref=f12e25]: Language
+          - generic [ref=f12e26]: 
+    - list [ref=f12e28]:
+      - listitem [ref=f12e29]:
+        - link "已买到的宝贝" [ref=f12e31] [cursor=pointer]:
+          - /url: //buyertrade.taobao.com/trade/itemlist/list_bought_items.htm
+      - listitem [ref=f12e33]:
+        - generic [ref=f12e34]:
+          - link "我的淘宝" [ref=f12e35] [cursor=pointer]:
+            - /url: //i.taobao.com/my_itaobao
+          - generic [ref=f12e37]: 
+      - listitem [ref=f12e39]:
+        - link " 购物车 32" [ref=f12e41] [cursor=pointer]:
+          - /url: //cart.taobao.com/cart.htm?from=mini&ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+          - generic [ref=f12e42]: 
+          - generic [ref=f12e43]: 购物车
+          - generic [ref=f12e44]: "32"
+      - listitem [ref=f12e45]:
+        - generic [ref=f12e46]:
+          - link " 收藏夹" [ref=f12e47] [cursor=pointer]:
+            - /url: //i.taobao.com/my_itaobao/itao-tool/collect
+            - generic [ref=f12e48]: 
+            - generic [ref=f12e49]: 收藏夹
+          - generic [ref=f12e50]: 
+      - listitem [ref=f12e52]:
+        - generic [ref=f12e53]:
+          - link "免费开店" [ref=f12e54] [cursor=pointer]:
+            - /url: //ishop.taobao.com/openshop/tb_open_shop_landing.htm?source=tbweb1st
+          - generic [ref=f12e56]: 
+      - listitem [ref=f12e58]:
+        - generic [ref=f12e59]:
+          - link "千牛卖家中心" [ref=f12e60] [cursor=pointer]:
+            - /url: //myseller.taobao.com/home.htm/QnworkbenchHome/
+          - generic [ref=f12e62]: 
+      - listitem [ref=f12e64]:
+        - generic [ref=f12e65]:
+          - link "帮助中心" [ref=f12e66] [cursor=pointer]:
+            - /url: https://consumerservice.taobao.com
+          - generic [ref=f12e68]: 
+  - generic [ref=f12e71]:
+    - generic [ref=f12e74]:
+      - heading [level=1] [ref=f12e77]:
+        - img [ref=f12e78] [cursor=pointer]: 淘宝网
+      - link [ref=f12e80] [cursor=pointer]:
+        - /url: https://huodong.taobao.com/wow/z/tbhome/pc-growth/tao-coin?action=sign
+        - generic [ref=f12e82]:
+          - paragraph [ref=f12e83]: 签到可得50淘金币
+          - paragraph [ref=f12e84]: 立即签到
+      - generic [ref=f12e87]:
+        - generic [ref=f12e88]:
+          - list [ref=f12e90]:
+            - listitem: 宝贝
+            - listitem [ref=f12e91] [cursor=pointer]: 天猫
+            - listitem [ref=f12e92] [cursor=pointer]: 店铺
+          - generic [ref=f12e93]:
+            - button "搜索" [ref=f12e95] [cursor=pointer]
+            - generic:
+              - generic:
+                - generic: 苹果16pro钢化贴膜
+                - generic: 苹果16pro max钢化膜
+                - generic: 苹果mini主机m5
+            - combobox "请输入搜索文字" [ref=f12e97]
+          - generic [ref=f12e98]:
+            - link "黑五抢5折" [ref=f12e99] [cursor=pointer]:
+              - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-587894&disableNav=YES&status_bar_transparent=true
+            - link "教师节礼物" [ref=f12e100] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?boxFilterList=&clientPreloadId=preload_1788315388834&commend=all&ie=utf8&initiative_id=tbindexz_20170306&page=1&preLoadOrigin=https%3A%2F%2Fwww.taobao.com&q=%E6%95%99%E5%B8%88%E8%8A%82%E7%A4%BC%E7%89%A9&search_type=item&sourceId=tb.index&spm=a21bo.jianhua%2Fa.search_hover.0&ssid=s5-e&tab=all
+            - link "野兽派" [ref=f12e101] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?boxFilterList=&clientPreloadId=preload_1788315388834&commend=all&ie=utf8&initiative_id=tbindexz_20170306&page=1&preLoadOrigin=https%3A%2F%2Fwww.taobao.com&q=%E9%87%8E%E5%85%BD%E6%B4%BE&search_type=item&sourceId=tb.index&spm=a21bo.jianhua%2Fa.search_hover.0&ssid=s5-e&tab=all
+            - link "iphone15pro钢化膜" [ref=f12e102] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?q=iphone15pro%E9%92%A2%E5%8C%96%E8%86%9C&ie=utf8&tab=all&
+            - link "固色洗发水榜" [ref=f12e103] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?q=%E5%9B%BA%E8%89%B2%E6%B4%97%E5%8F%91%E6%B0%B4%E6%A6%9C&ie=utf8&tab=all&
+            - link "macmace主机" [ref=f12e104] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?q=macmace%E4%B8%BB%E6%9C%BA&ie=utf8&tab=all&
+            - link "苹果mini电脑" [ref=f12e105] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?q=%E8%8B%B9%E6%9E%9Cmini%E7%94%B5%E8%84%91&ie=utf8&tab=all&
+            - link "iphone16钢化膜" [ref=f12e106] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?q=iphone16%E9%92%A2%E5%8C%96%E8%86%9C&ie=utf8&tab=all&
+            - link "果粉甄选品质" [ref=f12e107] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?q=%E6%9E%9C%E7%B2%89%E7%94%84%E9%80%89%E5%93%81%E8%B4%A8&ie=utf8&tab=all&
+            - link "苹果主机盒子" [ref=f12e108] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?q=%E8%8B%B9%E6%9E%9C%E4%B8%BB%E6%9C%BA%E7%9B%92%E5%AD%90&ie=utf8&tab=all&
+            - link "苹果台式电脑主机" [ref=f12e109] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?q=%E8%8B%B9%E6%9E%9C%E5%8F%B0%E5%BC%8F%E7%94%B5%E8%84%91%E4%B8%BB%E6%9C%BA&ie=utf8&tab=all&
+            - link "苹果16手机膜" [ref=f12e110] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?q=%E8%8B%B9%E6%9E%9C16%E6%89%8B%E6%9C%BA%E8%86%9C&ie=utf8&tab=all&
+            - link "苹果12pro钢化膜" [ref=f12e111] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?q=%E8%8B%B9%E6%9E%9C12pro%E9%92%A2%E5%8C%96%E8%86%9C&ie=utf8&tab=all&
+            - link "苹果钢化膜" [ref=f12e112] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?q=%E8%8B%B9%E6%9E%9C%E9%92%A2%E5%8C%96%E8%86%9C&ie=utf8&tab=all&
+            - link "苹果小主机" [ref=f12e113] [cursor=pointer]:
+              - /url: https://s.taobao.com/search?q=%E8%8B%B9%E6%9E%9C%E5%B0%8F%E4%B8%BB%E6%9C%BA&ie=utf8&tab=all&
+        - generic [ref=f12e114]: 搜同款
+    - generic [ref=f12e123]:
+      - navigation [ref=f12e127]:
+        - list [ref=f12e128]:
+          - listitem [ref=f12e129]:
+            - link "天猫" [ref=f12e130] [cursor=pointer]:
+              - /url: https://www.tmall.com
+        - list [ref=f12e131]:
+          - listitem [ref=f12e132]:
+            - link "淘宝直播" [ref=f12e133] [cursor=pointer]:
+              - /url: https://tbzb.taobao.com
+        - list [ref=f12e134]:
+          - listitem [ref=f12e135]:
+            - link "阿里企业购" [ref=f12e136] [cursor=pointer]:
+              - /url: https://b.taobao.com/?from=PCzhannei
+        - list [ref=f12e137]:
+          - listitem [ref=f12e138]:
+            - link "司法拍卖" [ref=f12e139] [cursor=pointer]:
+              - /url: https://sf.taobao.com
+        - list [ref=f12e140]:
+          - listitem [ref=f12e141]:
+            - link "天猫超市" [ref=f12e142] [cursor=pointer]:
+              - /url: https://chaoshi.tmall.com
+        - list [ref=f12e143]:
+          - listitem [ref=f12e144]:
+            - link "国家补贴" [ref=f12e145] [cursor=pointer]:
+              - /url: https://huodong.taobao.com/wow/z/tbhome/tbpc-venue/gov-subsidy
+        - list [ref=f12e146]:
+          - listitem [ref=f12e147]:
+            - link "领券中心" [ref=f12e148] [cursor=pointer]:
+              - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?spm=a21bo.jianhua/a.201859.9.4f0f2a89Odac4P&wh_pid=daily-561441&disableNav=YES&status_bar_transparent=true
+        - list [ref=f12e149]:
+          - listitem [ref=f12e150]:
+            - link "超级立减" [ref=f12e151] [cursor=pointer]:
+              - /url: https://huodong.taobao.com/wow/z/tbhome/tb-m2pc/super-jianjian-venue-85636629
+        - list [ref=f12e152]:
+          - listitem [ref=f12e153]:
+            - link [ref=f12e154] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f12e155]:
+                - img "全部频道" [ref=f12e156]
+                - text: 全部频道
+      - main [ref=f12e157]:
+        - menubar [ref=f12e160]:
+          - menuitem "查看更多" [ref=f12e161]:
+            - generic [ref=f12e162]:
+              - generic [aria-hidden] [ref=f12e163]: 
+              - link "超级立减" [ref=f12e164] [cursor=pointer]:
+                - /url: https://huodong.taobao.com/wow/z/tbhome/tb-m2pc/super-jianjian-venue-85636629
+              - generic [ref=f12e165]: 
+              - link "抢省钱补贴" [ref=f12e166] [cursor=pointer]:
+                - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-561441&disableNav=YES&status_bar_transparent=true
+          - menuitem "查看更多" [ref=f12e167]:
+            - generic [ref=f12e168]:
+              - generic [aria-hidden] [ref=f12e169]: 
+              - link "电脑" [ref=f12e170] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E7%94%B5%E8%84%91
+              - generic [ref=f12e171]: 
+              - link "配件" [ref=f12e172] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E7%94%B5%E8%84%91%E9%85%8D%E4%BB%B6
+              - generic [ref=f12e173]: 
+              - link "办公" [ref=f12e174] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E5%8A%9E%E5%85%AC
+              - generic [ref=f12e175]: 
+              - link "文具" [ref=f12e176] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E6%96%87%E5%85%B7
+          - menuitem "查看更多" [ref=f12e177]:
+            - generic [ref=f12e178]:
+              - generic [aria-hidden] [ref=f12e179]: 
+              - link "工业品" [ref=f12e180] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?page=1&q=%E5%B7%A5%E4%B8%9A%E9%9B%B6%E4%BB%B6%E8%80%97%E6%9D%90&tab=all
+              - generic [ref=f12e181]: 
+              - link "商业" [ref=f12e182] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?page=1&q=%E5%95%86%E4%B8%9A%E5%8A%9E%E5%85%AC&tab=all
+              - generic [ref=f12e183]: 
+              - link "农业" [ref=f12e184] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?page=1&q=%E5%86%9C%E4%B8%9A%E7%89%A9%E8%B5%84&tab=all
+              - generic [ref=f12e185]: 
+              - link "定制" [ref=f12e186] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?page=1&q=%E4%B8%AA%E6%80%A7%E5%AE%9A%E5%88%B6%E5%A5%BD%E7%89%A9&tab=all
+          - menuitem "查看更多" [ref=f12e187]:
+            - generic [ref=f12e188]:
+              - generic [aria-hidden] [ref=f12e189]: 
+              - link "家电" [ref=f12e190] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E5%AE%B6%E7%94%B5
+              - generic [ref=f12e191]: 
+              - link "手机" [ref=f12e192] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E6%89%8B%E6%9C%BA
+              - generic [ref=f12e193]: 
+              - link "通信" [ref=f12e194] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E8%BF%90%E8%90%A5%E5%95%86
+              - generic [ref=f12e195]: 
+              - link "数码" [ref=f12e196] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E6%95%B0%E7%A0%81
+          - menuitem "查看更多" [ref=f12e197]:
+            - generic [ref=f12e198]:
+              - generic [aria-hidden] [ref=f12e199]: 
+              - link "家具" [ref=f12e200] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E5%AE%B6%E5%85%B7
+              - generic [ref=f12e201]: 
+              - link "家装" [ref=f12e202] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E5%AE%B6%E8%A3%85
+              - generic [ref=f12e203]: 
+              - link "家居" [ref=f12e204] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?page=1&q=%E5%AE%B6%E5%B1%85&tab=all
+              - generic [ref=f12e205]: 
+              - link "厨具" [ref=f12e206] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E5%8E%A8%E5%85%B7
+          - menuitem "查看更多" [ref=f12e207]:
+            - generic [ref=f12e208]:
+              - generic [aria-hidden] [ref=f12e209]: 
+              - link "女装" [ref=f12e210] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E5%A5%B3%E8%A3%85
+              - generic [ref=f12e211]: 
+              - link "男装" [ref=f12e212] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?page=1&q=%E7%94%B7%E8%A3%85&tab=all
+              - generic [ref=f12e213]: 
+              - link "内衣" [ref=f12e214] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E5%86%85%E8%A1%A3
+              - generic [ref=f12e215]: 
+              - link "配饰" [ref=f12e216] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E9%85%8D%E9%A5%B0
+          - menuitem "查看更多" [ref=f12e217]:
+            - generic [ref=f12e218]:
+              - generic [aria-hidden] [ref=f12e219]: 
+              - link "女鞋" [ref=f12e220] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E5%A5%B3%E9%9E%8B
+              - generic [ref=f12e221]: 
+              - link "男鞋" [ref=f12e222] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E7%94%B7%E9%9E%8B
+              - generic [ref=f12e223]: 
+              - link "运动" [ref=f12e224] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E8%BF%90%E5%8A%A8%E8%A3%85%E5%A4%87
+              - generic [ref=f12e225]: 
+              - link "户外" [ref=f12e226] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E6%88%B7%E5%A4%96%E7%94%A8%E5%93%81
+          - menuitem "查看更多" [ref=f12e227]:
+            - generic [ref=f12e228]:
+              - generic [aria-hidden] [ref=f12e229]: 
+              - link "汽车" [ref=f12e230] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?page=1&q=%E6%B1%BD%E8%BD%A6&tab=all
+              - generic [ref=f12e231]: 
+              - link "珠宝" [ref=f12e232] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E7%8F%A0%E5%AE%9D
+              - generic [ref=f12e233]: 
+              - link "文玩" [ref=f12e234] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E6%96%87%E7%8E%A9
+              - generic [ref=f12e235]: 
+              - link "箱包" [ref=f12e236] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E7%AE%B1%E5%8C%85
+          - menuitem "查看更多" [ref=f12e237]:
+            - generic [ref=f12e238]:
+              - generic [aria-hidden] [ref=f12e239]: 
+              - link "食品" [ref=f12e240] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E9%A3%9F%E5%93%81
+              - generic [ref=f12e241]: 
+              - link "鲜花" [ref=f12e242] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?page=1&q=%E9%B2%9C%E8%8A%B1
+              - generic [ref=f12e243]: 
+              - link "酒水" [ref=f12e244] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?page=1&q=%E9%85%92%E6%B0%B4%E9%A5%AE%E6%96%99
+              - generic [ref=f12e245]: 
+              - link "健康" [ref=f12e246] [cursor=pointer]:
+                - /url: https://www.liangxinyao.com/
+          - menuitem "查看更多" [ref=f12e247]:
+            - generic [ref=f12e248]:
+              - generic [aria-hidden] [ref=f12e249]: 
+              - link "母婴" [ref=f12e250] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E6%AF%8D%E5%A9%B4
+              - generic [ref=f12e251]: 
+              - link "童装" [ref=f12e252] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E7%AB%A5%E8%A3%85
+              - generic [ref=f12e253]: 
+              - link "玩具" [ref=f12e254] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E7%8E%A9%E5%85%B7
+              - generic [ref=f12e255]: 
+              - link "宠物" [ref=f12e256] [cursor=pointer]:
+                - /url: https://s.taobao.com/search?q=%E5%AE%A0%E7%89%A9
+        - generic [ref=f12e258]:
+          - generic [ref=f12e259]:
+            - generic [ref=f12e262]:
+              - generic [ref=f12e264]:
+                - link [ref=f12e268] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-582644&disableNav=YES&status_bar_transparent=true&custom_content_source=a2113w.45591450
+                  - generic [ref=f12e269]:
+                    - generic [ref=f12e271]: 上喵速达
+                    - generic [ref=f12e272]: 玩点新科技
+                    - generic [ref=f12e273]: 领补贴立减15%
+                - link [ref=f12e277] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/z/tbhome/tb-m2pc/m2pc-light-daily-596822-1?custom_content_source=a2113w.46742759
+                  - generic [ref=f12e278]:
+                    - generic [ref=f12e280]: 月饼品类日
+                    - generic [ref=f12e281]: 中秋好货9折起
+                - link "来领券中心 发现更多补贴 领省钱优惠券" [ref=f12e285] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-561441&disableNav=YES&status_bar_transparent=true&custom_content_source=a2113w.30046077
+                  - generic [ref=f12e286]:
+                    - generic [ref=f12e288]: 来领券中心
+                    - generic [ref=f12e289]: 发现更多补贴
+                    - generic [ref=f12e290]: 领省钱优惠券
+                - link [ref=f12e294] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/z/tbhome/tb-m2pc/super-jianjian-venue-85636629?custom_content_source=a2113w.30016753
+                  - generic [ref=f12e295]:
+                    - generic [ref=f12e297]: 中秋抢先购
+                    - generic [ref=f12e298]: 券后8.1折起
+                    - generic [ref=f12e299]: 叠券立享优惠
+                - link [ref=f12e303] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-551926&disableNav=YES&status_bar_transparent=true&scm=1007.home_pc.banner.doudi
+                  - generic [ref=f12e304]:
+                    - generic [ref=f12e306]: 新鲜果蔬
+                    - generic [ref=f12e307]: 产地优选
+                    - generic [ref=f12e308]: 就选淘宝买菜
+                - link [ref=f12e312] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-582644&disableNav=YES&status_bar_transparent=true&custom_content_source=a2113w.45591450
+                  - generic [ref=f12e313]:
+                    - generic [ref=f12e315]: 上喵速达
+                    - generic [ref=f12e316]: 玩点新科技
+                    - generic [ref=f12e317]: 领补贴立减15%
+                - link [ref=f12e321] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/z/tbhome/tb-m2pc/m2pc-light-daily-596822-1?custom_content_source=a2113w.46742759
+                  - generic [ref=f12e322]:
+                    - generic [ref=f12e324]: 月饼品类日
+                    - generic [ref=f12e325]: 中秋好货9折起
+                - link [ref=f12e329] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-561441&disableNav=YES&status_bar_transparent=true&custom_content_source=a2113w.30046077
+                  - generic [ref=f12e330]:
+                    - generic [ref=f12e332]: 来领券中心
+                    - generic [ref=f12e333]: 发现更多补贴
+                    - generic [ref=f12e334]: 领省钱优惠券
+                - link [ref=f12e338] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/z/tbhome/tb-m2pc/super-jianjian-venue-85636629?custom_content_source=a2113w.30016753
+                  - generic [ref=f12e339]:
+                    - generic [ref=f12e341]: 中秋抢先购
+                    - generic [ref=f12e342]: 券后8.1折起
+                    - generic [ref=f12e343]: 叠券立享优惠
+                - link [ref=f12e347] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-551926&disableNav=YES&status_bar_transparent=true&scm=1007.home_pc.banner.doudi
+                  - generic [ref=f12e348]:
+                    - generic [ref=f12e350]: 新鲜果蔬
+                    - generic [ref=f12e351]: 产地优选
+                    - generic [ref=f12e352]: 就选淘宝买菜
+                - link [ref=f12e356] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-582644&disableNav=YES&status_bar_transparent=true&custom_content_source=a2113w.45591450
+                  - generic [ref=f12e357]:
+                    - generic [ref=f12e359]: 上喵速达
+                    - generic [ref=f12e360]: 玩点新科技
+                    - generic [ref=f12e361]: 领补贴立减15%
+              - list [ref=f12e362]:
+                - listitem [ref=f12e363]:
+                  - button "1" [ref=f12e364] [cursor=pointer]
+                - listitem [ref=f12e365]:
+                  - button "2" [ref=f12e366] [cursor=pointer]
+                - listitem [ref=f12e367]:
+                  - button "3" [ref=f12e368] [cursor=pointer]
+                - listitem [ref=f12e369]:
+                  - button "4" [ref=f12e370] [cursor=pointer]
+                - listitem [ref=f12e371]:
+                  - button "5" [ref=f12e372] [cursor=pointer]
+            - generic [ref=f12e374]:
+              - link "百亿补贴 · 买贵必赔" [ref=f12e375] [cursor=pointer]:
+                - /url: https://pages-fast.m.taobao.com/wow/z/tbhome/tb-m2pc/jingmi-1323-pc-adapt?mi_ids=0200O16gu1EnatV1B0VH0-pBcEJW3c14uqcW2_PpZiZ65nay9QTPqBRttPASdGNN4geZ8WU5CuvZFHcPDOrl0y91ECs6xbOpOwUBDOVDn-nN8uC6Lm6lU9jQy7qvvGqx4HEb&itemId=708884538415%2C539959603519%2C659634502681%2C741059727602&itemIds=708884538415%2C539959603519%2C659634502681%2C741059727602&custom_content_source=a21677.neirong_tm_kp_618
+              - generic [ref=f12e380]:
+                - link "¥539" [ref=f12e381] [cursor=pointer]:
+                  - /url: https://pages-fast.m.taobao.com/wow/z/tbhome/tb-m2pc/jingmi-1323-pc-adapt?mi_ids=0200O16gu1EnatV1B0VH0-pBcEJW3c14uqcW2_PpZiZ65nay9QTPqBRttPASdGNN4geZ8WU5CuvZFHcPDOrl0y91ECs6xbOpOwUBDOVDn-nN8uC6Lm6lU9jQy7qvvGqx4HEb&itemId=708884538415%2C539959603519%2C659634502681%2C741059727602&itemIds=708884538415%2C539959603519%2C659634502681%2C741059727602&custom_content_source=a21677.neirong_tm_kp_618
+                - link "¥276.43" [ref=f12e386] [cursor=pointer]:
+                  - /url: https://pages-fast.m.taobao.com/wow/z/tbhome/tb-m2pc/jingmi-1323-pc-adapt?mi_ids=0200O16gu1EnatV1B0VH0-pBcEJW3c14uqcW2_PpZiZ65nay9QTPqBRttPASdGNN4geZ8WU5CuvZFHcPDOrl0y91ECs6xbOpOwUBDOVDn-nN8uC6Lm6lU9jQy7qvvGqx4HEb&itemId=708884538415%2C539959603519%2C659634502681%2C741059727602&itemIds=708884538415%2C539959603519%2C659634502681%2C741059727602&custom_content_source=a21677.neirong_tm_kp_618
+                - link "¥69" [ref=f12e391] [cursor=pointer]:
+                  - /url: https://pages-fast.m.taobao.com/wow/z/tbhome/tb-m2pc/jingmi-1323-pc-adapt?mi_ids=0200O16gu1EnatV1B0VH0-pBcEJW3c14uqcW2_PpZiZ65nay9QTPqBRttPASdGNN4geZ8WU5CuvZFHcPDOrl0y91ECs6xbOpOwUBDOVDn-nN8uC6Lm6lU9jQy7qvvGqx4HEb&itemId=708884538415%2C539959603519%2C659634502681%2C741059727602&itemIds=708884538415%2C539959603519%2C659634502681%2C741059727602&custom_content_source=a21677.neirong_tm_kp_618
+                - link "¥649.4" [ref=f12e396] [cursor=pointer]:
+                  - /url: https://pages-fast.m.taobao.com/wow/z/tbhome/tb-m2pc/jingmi-1323-pc-adapt?mi_ids=0200O16gu1EnatV1B0VH0-pBcEJW3c14uqcW2_PpZiZ65nay9QTPqBRttPASdGNN4geZ8WU5CuvZFHcPDOrl0y91ECs6xbOpOwUBDOVDn-nN8uC6Lm6lU9jQy7qvvGqx4HEb&itemId=708884538415%2C539959603519%2C659634502681%2C741059727602&itemIds=708884538415%2C539959603519%2C659634502681%2C741059727602&custom_content_source=a21677.neirong_tm_kp_618
+          - generic [ref=f12e401]:
+            - generic [ref=f12e403]:
+              - link "领券中心" [ref=f12e404] [cursor=pointer]:
+                - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-561441&disableNav=YES&status_bar_transparent=true&mi_ids=0200iwYc-Qc0j9oomJGkv4XAKfrnYe7NEzkkHr-4hL6v21cK_frOxZUSeTsL2ImMNS-lQz9eea8igG4pn8iAqFMG3g&itemId=661742702518%2C743382497545&itemIds=661742702518%2C743382497545&custom_content_source=a2113w.30046077
+              - generic [ref=f12e409]:
+                - link "¥29.9" [ref=f12e410] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-561441&disableNav=YES&status_bar_transparent=true&mi_ids=0200iwYc-Qc0j9oomJGkv4XAKfrnYe7NEzkkHr-4hL6v21cK_frOxZUSeTsL2ImMNS-lQz9eea8igG4pn8iAqFMG3g&itemId=661742702518%2C743382497545&itemIds=661742702518%2C743382497545&custom_content_source=a2113w.30046077
+                - link "¥11.51" [ref=f12e415] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-561441&disableNav=YES&status_bar_transparent=true&mi_ids=0200iwYc-Qc0j9oomJGkv4XAKfrnYe7NEzkkHr-4hL6v21cK_frOxZUSeTsL2ImMNS-lQz9eea8igG4pn8iAqFMG3g&itemId=661742702518%2C743382497545&itemIds=661742702518%2C743382497545&custom_content_source=a2113w.30046077
+            - generic [ref=f12e421]:
+              - link "淘宝直播" [ref=f12e422] [cursor=pointer]:
+                - /url: https://tbzb.taobao.com/
+              - generic [ref=f12e427]:
+                - link "李佳琦Austin" [ref=f12e428] [cursor=pointer]:
+                  - /url: https://tbzb.taobao.com/?spm=a21bo.jianhua%2Fa.201859.3.5af92a897Dor4K&liveId=2510318761025363
+                  - generic "李佳琦Austin" [ref=f12e431]
+                - link "锦棠丝绸" [ref=f12e432] [cursor=pointer]:
+                  - /url: https://tbzb.taobao.com/?spm=a21bo.jianhua%2Fa.201859.3.5af92a897Dor4K&liveId=673916027203970
+                  - generic "锦棠丝绸" [ref=f12e435]
+            - generic [ref=f12e437]:
+              - link "国家补贴" [ref=f12e438] [cursor=pointer]:
+                - /url: https://huodong.taobao.com/wow/z/tbhome/tbpc-venue/gov-subsidy?mi_ids=0200NFcFQAp0PXIeJPCPXaup0R9-AM3TFLUDmCaonRnTv3MT-9WiJU4P7TsOUQ6ahOidtl6xV1duhLxIk1z-Cmu5PA&itemId=619236745835%2C1056661519050&itemIds=619236745835%2C1056661519050&custom_content_source=gov-subsidy-app.home-pcall
+              - generic [ref=f12e443]:
+                - link "¥765.85" [ref=f12e444] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/z/tbhome/tbpc-venue/gov-subsidy?mi_ids=0200NFcFQAp0PXIeJPCPXaup0R9-AM3TFLUDmCaonRnTv3MT-9WiJU4P7TsOUQ6ahOidtl6xV1duhLxIk1z-Cmu5PA&itemId=619236745835%2C1056661519050&itemIds=619236745835%2C1056661519050&custom_content_source=gov-subsidy-app.home-pcall
+                - link "¥280.65" [ref=f12e449] [cursor=pointer]:
+                  - /url: https://huodong.taobao.com/wow/z/tbhome/tbpc-venue/gov-subsidy?mi_ids=0200NFcFQAp0PXIeJPCPXaup0R9-AM3TFLUDmCaonRnTv3MT-9WiJU4P7TsOUQ6ahOidtl6xV1duhLxIk1z-Cmu5PA&itemId=619236745835%2C1056661519050&itemIds=619236745835%2C1056661519050&custom_content_source=gov-subsidy-app.home-pcall
+            - generic [ref=f12e455]:
+              - link "淘宝秒杀" [ref=f12e456] [cursor=pointer]:
+                - /url: https://web.m.taobao.com/app/ltao-fe/tbmx-pc-page/home?spmb=tbmspcnew&mi_ids=0200iwYc-Qc0j9oomJGkv4XAKYsQWqNafkOTv64reFdkkDiHaPPmPQsry2DEC6xba8bQ5CYU1eV9eds6DtLb7CfhXw&itemId=661742702518%2C797192688903&itemIds=661742702518%2C797192688903&custom_content_source=mspd.tbmspcnew
+              - generic [ref=f12e461]:
+                - link "¥29.9" [ref=f12e462] [cursor=pointer]:
+                  - /url: https://web.m.taobao.com/app/ltao-fe/tbmx-pc-page/home?spmb=tbmspcnew&mi_ids=0200iwYc-Qc0j9oomJGkv4XAKYsQWqNafkOTv64reFdkkDiHaPPmPQsry2DEC6xba8bQ5CYU1eV9eds6DtLb7CfhXw&itemId=661742702518%2C797192688903&itemIds=661742702518%2C797192688903&custom_content_source=mspd.tbmspcnew
+                - link "¥14.95" [ref=f12e467] [cursor=pointer]:
+                  - /url: https://web.m.taobao.com/app/ltao-fe/tbmx-pc-page/home?spmb=tbmspcnew&mi_ids=0200iwYc-Qc0j9oomJGkv4XAKYsQWqNafkOTv64reFdkkDiHaPPmPQsry2DEC6xba8bQ5CYU1eV9eds6DtLb7CfhXw&itemId=661742702518%2C797192688903&itemIds=661742702518%2C797192688903&custom_content_source=mspd.tbmspcnew
+        - complementary [ref=f12e472]:
+          - generic [ref=f12e473]:
+            - generic [ref=f12e474]:
+              - generic [ref=f12e475]:
+                - link [ref=f12e477] [cursor=pointer]:
+                  - /url: //i.taobao.com/my_itaobao
+                - link [ref=f12e479] [cursor=pointer]:
+                  - /url: //i.taobao.com/my_itaobao
+                  - strong [ref=f12e481]: tb1262003_2012
+                - generic [ref=f12e482]:
+                  - link "关注店铺" [ref=f12e483] [cursor=pointer]:
+                    - /url: //i.taobao.com/my_itaobao/subscription
+                  - link "收货地址" [ref=f12e485] [cursor=pointer]:
+                    - /url: //member1.taobao.com/member/fresh/deliver_address.htm
+              - generic [ref=f12e486]:
+                - generic [ref=f12e488]:
+                  - link [ref=f12e489] [cursor=pointer]:
+                    - /url: //cart.taobao.com
+                    - strong [ref=f12e490]: "32"
+                    - text: 购物车
+                  - link [ref=f12e491] [cursor=pointer]:
+                    - /url: //buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?action=itemlist/BoughtQueryAction&event_submit_do_query=1&tabCode=waitConfirm
+                    - strong [ref=f12e492]: "0"
+                    - text: 待收货
+                  - link [ref=f12e493] [cursor=pointer]:
+                    - /url: //buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?action=itemlist/BoughtQueryAction&event_submit_do_query=1&tabCode=waitSend
+                    - strong [ref=f12e494]: "0"
+                    - text: 待发货
+                  - link [ref=f12e495] [cursor=pointer]:
+                    - /url: //buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?action=itemlist/BoughtQueryAction&event_submit_do_query=1&tabCode=waitPay
+                    - strong [ref=f12e496]: "0"
+                    - text: 待付款
+                  - link [ref=f12e497] [cursor=pointer]:
+                    - /url: //buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?action=itemlist/BoughtQueryAction&event_submit_do_query=1&tabCode=waitRate
+                    - strong [ref=f12e498]: "0"
+                    - text: 待评价
+                - generic [ref=f12e500]:
+                  - generic [ref=f12e502]:
+                    - link "¥33 红包" [ref=f12e503] [cursor=pointer]:
+                      - /url: https://i.taobao.com/my_itaobao/coupon?defaultTab=redEnvelope
+                      - generic [ref=f12e504]: ¥33
+                      - generic [ref=f12e505]: 红包
+                    - link "张 1 优惠券" [ref=f12e506] [cursor=pointer]:
+                      - /url: https://i.taobao.com/my_itaobao/coupon
+                      - generic [ref=f12e507]:
+                        - generic [ref=f12e508]: 张
+                        - generic [ref=f12e509]: "1"
+                      - generic [ref=f12e510]: 优惠券
+                    - link "¥7.60 淘金币抵" [ref=f12e511] [cursor=pointer]:
+                      - /url: https://huodong.taobao.com/wow/z/tbhome/pc-growth/tao-coin
+                      - generic [ref=f12e512]: ¥7.60
+                      - generic [ref=f12e513]: 淘金币抵
+                  - generic [ref=f12e517]:
+                    - link [ref=f12e519] [cursor=pointer]:
+                      - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-561441&disableNav=YES&status_bar_transparent=true
+                      - generic [ref=f12e522]: 发现官方补贴 找优惠
+                      - generic [ref=f12e524]: 
+                    - link "发现官方补贴 找优惠 " [ref=f12e527] [cursor=pointer]:
+                      - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-561441&disableNav=YES&status_bar_transparent=true
+                      - generic [ref=f12e530]: 发现官方补贴 找优惠
+                      - generic [ref=f12e532]: 
+                    - link [ref=f12e535] [cursor=pointer]:
+                      - /url: https://huodong.taobao.com/wow/a/act/tao/dailygroup/23509/24308/wupr?wh_pid=daily-561441&disableNav=YES&status_bar_transparent=true
+                      - generic [ref=f12e538]: 发现官方补贴 找优惠
+                      - generic [ref=f12e540]: 
+            - generic [ref=f12e545]:
+              - link [ref=f12e549] [cursor=pointer]:
+                - /url: https://huodong.taobao.com/wow/z/tbhome/pc-growth/tao-coin?bc_fl_src=tbsite_odHcHDg3
+              - link "降价提醒 您加购的商品降价了" [ref=f12e553] [cursor=pointer]:
+                - /url: //cart.taobao.com
+                - generic [ref=f12e555]:
+                  - heading "降价提醒" [level=2] [ref=f12e556]
+                  - paragraph [ref=f12e557]: 您加购的商品降价了
+              - link [ref=f12e561] [cursor=pointer]:
+                - /url: //cart.taobao.com
+                - generic [ref=f12e563]:
+                  - heading [level=2] [ref=f12e564]: 降价提醒
+                  - paragraph [ref=f12e565]: 您加购的商品降价了
+              - link [ref=f12e569] [cursor=pointer]:
+                - /url: //cart.taobao.com
+                - generic [ref=f12e571]:
+                  - heading [level=2] [ref=f12e572]: 降价提醒
+                  - paragraph [ref=f12e573]: 您加购的商品降价了
+              - link [ref=f12e577] [cursor=pointer]:
+                - /url: https://huodong.taobao.com/wow/z/tbhome/pc-growth/tao-coin?bc_fl_src=tbsite_odHcHDg3
+              - link [ref=f12e581] [cursor=pointer]:
+                - /url: //cart.taobao.com
+                - generic [ref=f12e583]:
+                  - heading [level=2] [ref=f12e584]: 降价提醒
+                  - paragraph [ref=f12e585]: 您加购的商品降价了
+              - link [ref=f12e589] [cursor=pointer]:
+                - /url: //cart.taobao.com
+                - generic [ref=f12e591]:
+                  - heading [level=2] [ref=f12e592]: 降价提醒
+                  - paragraph [ref=f12e593]: 您加购的商品降价了
+              - link [ref=f12e597] [cursor=pointer]:
+                - /url: //cart.taobao.com
+                - generic [ref=f12e599]:
+                  - heading [level=2] [ref=f12e600]: 降价提醒
+                  - paragraph [ref=f12e601]: 您加购的商品降价了
+              - link [ref=f12e605] [cursor=pointer]:
+                - /url: https://huodong.taobao.com/wow/z/tbhome/pc-growth/tao-coin?bc_fl_src=tbsite_odHcHDg3
+            - generic [ref=f12e606]:
+              - link " 已买到" [ref=f12e608] [cursor=pointer]:
+                - /url: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm
+                - generic [ref=f12e609]: 
+                - paragraph [ref=f12e610]: 已买到
+              - link " 收藏夹" [ref=f12e612] [cursor=pointer]:
+                - /url: https://i.taobao.com/my_itaobao/itao-tool/collect
+                - generic [ref=f12e613]: 
+                - paragraph [ref=f12e614]: 收藏夹
+              - link " 买过的店" [ref=f12e616] [cursor=pointer]:
+                - /url: https://favorite.taobao.com/list_bought_shops_n.htm
+                - generic [ref=f12e617]: 
+                - paragraph [ref=f12e618]: 买过的店
+              - link " 足迹" [ref=f12e620] [cursor=pointer]:
+                - /url: https://i.taobao.com/my_itaobao/itao-tool/footMark
+                - generic [ref=f12e621]: 
+                - paragraph [ref=f12e622]: 足迹
+    - generic [ref=f12e626]:
+      - generic [ref=f12e628]: 更多低价商品
+      - generic [ref=f12e641]:
+        - generic [ref=f12e644]:
+          - generic [ref=f12e645] [cursor=pointer]: 猜你喜欢
+          - generic [ref=f12e648] [cursor=pointer]: 我的关注
+        - generic [ref=f12e654] [cursor=pointer]
+      - generic [ref=f12e657]:
+        - link "苹果Mac Mini M4迷你台式机 退货宝 包邮 ¥ 2799 73人购买 同款" [ref=f12e662] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=981919320736&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=6105079023435&mi_id=0000lHstKivoEGAJFuPZjHkfmP1XHTYzCnGEFWBotzAITB4&utparam=%7B%22item_ctr%22%3A0.37442442774772644%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22nann_base%22%2C%22item_price%22%3A%222799%22%2C%22item_cvr%22%3A0.00007659729453735054%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.30696195363998413%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%227c7885cfb9dbabc38b3d258b105baaf7%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A92.1048091405395%2C%22rn%22%3A0%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%222799%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A981919320736%7D&
+          - generic [ref=f12e665]: 苹果Mac Mini M4迷你台式机
+          - generic [ref=f12e667]:
+            - generic [ref=f12e668]: 退货宝
+            - generic [ref=f12e669]: 包邮
+          - generic [ref=f12e670]:
+            - generic [ref=f12e671]: ¥
+            - generic [ref=f12e672]: "2799"
+            - generic [ref=f12e673]: 73人购买
+            - generic [ref=f12e674]: 同款
+        - link "苹果Mac Studio二手工作站 超级立减1% 退货宝 包邮 ¥ 9690 2人购买 同款" [ref=f12e682] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=998810242785&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=6156134447708&mi_id=00003zy74loo0eIOe4ICDXed2FN_bQq0ZIB3dFoCvLj0vh4&utparam=%7B%22item_ctr%22%3A0.22117531299591064%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22nann_base%22%2C%22item_price%22%3A%229690%22%2C%22item_cvr%22%3A0.00006657448830083013%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.17299535870552063%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%22880687ec534225bfc2cc94814866e091%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A51.9073145479721%2C%22rn%22%3A1%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%229690%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A998810242785%7D&
+          - generic [ref=f12e685]: 苹果Mac Studio二手工作站
+          - generic [ref=f12e687]:
+            - generic [ref=f12e688]: 超级立减1%
+            - generic [ref=f12e689]: 退货宝
+            - generic [ref=f12e690]: 包邮
+          - generic [ref=f12e691]:
+            - generic [ref=f12e692]: ¥
+            - generic [ref=f12e693]: "9690"
+            - generic [ref=f12e694]: 2人购买
+            - generic [ref=f12e695]: 同款
+        - link "原木色白蜡木实木抽屉款沙发 超级立减20% 满51减50 包邮 ¥ 1390.4 500+人购买 同款" [ref=f12e703] [cursor=pointer]:
+          - /url: https://click.mz.simba.taobao.com/necpm?eadt=296&p=&s=1852210437&k=2734&e=YFubem6KZsqrGgCUjY9Y8DdrKfxHRmE%2BWOf3AAj0SjAqmBtB6UdTgZu0D%2FzWzCVzGlGUsMJGJzNfD7V0ow9uasK%2BLlXmFYlIGGCAT16OgeEHUT91LHjkxG0ekoFYjtv6oVETfhQykT9miHLuhaSs6N8g%2B7XUsI0c2kHuj8Mm9egPalH%2F8sMbAqgd18Z7zDJK1z4nbd%2FOJsv%2BGLbAXALlRFfbQ%2BczTjbCHo%2BOQq62P9GZzL%2FdJMrKAXpo%2BrPpysnb6o87Wp3D7rj%2FSiVRfFADNIYEpftlb1%2BV5sAi0dJivWBXd02Vsd%2BCMHB%2Ba5bQZd5wft%2FWSqeQZ9MP78NbcyrCU6fsgjHqR902p4ZR71w307Ftc6utN4Vu1d2oxW90J%2BYJMXpZX0KLmo4eGNXXK3u%2B6A1gWUDrB%2FduJ2sDZIWTZcC6wl0xEgRdzt1I%2Ff167yhMakmgCn3xupXAqiWAYluixXbhMp%2FP8OaEPT6pva4DrRDp2B%2B3UMagvxs3jMqpG2nFVTBA04CRM9fZ7oidhZ3yKk093CtYUeKWyh%2FQDYfD0W%2FUswZRU1TMvv%2FjKOF2gmT4EMjExjvYE%2Bj9kgl4gpAEhzQYaHYn%2BetUEvnr0adbTNc1WzjUkZtGxzkgHZc5voMUZscfUxc%2FBga70qM11rCdJcg6i%2BWAvn%2Fpwd2%2F9i0NBWedIr1XrjuEnnp1gVQijRoewwqO9AjruKqMQRKiUGnxKGtb8vrTSCByZrNajb512Ob%2FEsrjxqkK16PHDv9yL9zQIyOUI8ie6blrcHIawjr8JEWFD3u5%2FQXLNyUfTspLiVRDUiC88tMSicYpGpssmKgaBtOMaL1Gu91F3U4gaTXy3qtz%2FnTsFCFNs5L5HR1Z1uEBxBW1wo66QvZX8lWO5mWXpl4%2B%2BXGMGwSNvcniUIcbbGDYVa6uZdKEVcBCxeph6pZqQ1JbcYoUjv%2BFkhClLOm0ZkyMOT06cz0%2B1Y5dTrgNgFo6pU8ZCZCX%2B5Jp16guEvuc3NDAkSFhW5CpNTVz%2FzSLG9rMUuFbKLtSmZVfXWbjexD46GDzTa5skOGwmtBfkSiNBCBx7BIVOJ1DCka5%2B939Iq5pYTy5XLByAs72LDGgC7myGAARcbG%2Fi2lgD9rsRiqK9TZzMpniZkNDX%2BOvlgu%2FKeCqNo3KbktVx%2FILk3oS8gQ8GcyZ184CBAXUnt3Pqc61EG1kusB0HhWzhX5C38DtVCdkTYVARoN5f9H9FYhEjWzZWVOfWP6kQ6KMhvLuN53Qs4O%2BsA0CXU5lXTWsVBcSpPUA9IOtImRDenapw7qD9LnSiM2ZT54ykFyObKPnkTuQ6UV85BKmrew2OhEBhveUzLk9m%2B7tqnUVn96urdv7P3swPleCx97jjBK2Gw%2BgPDwih4MvVa8S2Di5KU%2Fagqyd9rjRQVsv2reAsIAX7qAU3vj28%2BwFGI9CcbkrpaBJ0EfugjC1AwzqJqyHAxFy%2FvjhFxatgLxP2xQPECMBoyZ5khFAzf4xgEOu4oyqwrqIVdmE%2BOrPloijnUSA%2BzlVys5rKAjpSBnDnrVmn3leLXJ4%2FvACicLOWzzCg5Pds486BDeZqXovVwR5POYXuUNCW0g5jBAQCiue72Ydp%2BOxWR9EkAue5Xn2hCAOBPh6iQBWzNUBCYRg6xX1hPb%2FESO%2BIcIEQGlcQNFHZ8PGcWzfbz70MMKFZTbJjlUdRKe7H1mGOUoUTWn%2FfqtcgAV5vFwx%2F4WfxKAay25BRxRRuRmb4ec%2BQVcmEnaaMeXMwEd0OPGyyhySijU653qCNIhiukJ2IfgoPosTW4IIJlaZXAgdU2wawR3NECqtljysYCz9Fn4OeN%2F4heXu%2FRaH3UWG%2Bn%2FWWAFfdvNDw%2BTB%2BJA5grJuj9eblBuSQNl4E7BB65CJ3JPyZQOxL38Gdp1nFY7A5smp%2F7FjHtkFhAui9QnOUz%2BhpY%2F0oogS9BIdx90%2Fv0W6pAWyrH%2FkZjvLPL5MEONILIMmgOiF69MdQWdus%2BUKQwVnJPGC2B1%2BzcxVAJwJsvvioa7fdPgSA1%2BJqhTRvOYDed2ZpWtQXIUMbrrwuLw%2BLVgiDvGOvDvTbsWEGZofBm%2B1YRxZZGt%2B85FZaRn468Fpu3eWkU%2FqTpOU3Di3Tzo0VJAtlsE6HSMwHyFgTRXxVY606LRUaIUUOMlGHyoLo151CM7DXnVhnv9E1BAQr24Cz254WF24K66DC%2BoI%2BP9e8XnlZdNDJeT3qwGB0o8ar%2BuzZsJ3iLuwhy4WCfe72H%2FwIDuzoatRjho9NFf2Nxit1KQSetJVfpPSNmrWsE5AkNK6RibAuyy6uU8oIjw0Nso7cCQdwRjQ7eqKTntAUMz7KIB6H4s008bY82a%2BwQ3EzB0Oru3udEgqOuF%2BZT9ixjcdDq7t7nRIKs9fTHYMV8jh5Gtq918vldDqsQO22ks4uVgVLQXC5xMo4b7CZhydnFKznj5%2FsfsZXOGR3DKLieMRflIchXW2SvVqreyAfB8mj7IXQItPq2wyL98hsTkPuyv%2F8KDTcCEZDHuy2zXqYBFnmbpqMogMcw1JAo35n%2FASMg%2Fh2X8ljCM2a6y8yVISeWiwrOybDZ4E4ODYPRkw6Y3PAf%2F3wjHS4KOxYXB7PZtyVsCJYSEINDo%2BcA5tj7S9bwpzY3iKz37iuhvazFLhWyi7UpmVX11m43uWW4DQuOftXtgjx1Il95P3XD6CUlX7jGmK1XKxDTUus7CBmn7TcFKjlqNbiNDoKIQ%3D&mm_sceneid=2_0_123667077_0&a=xxc%3Dad_ct%26pvid%3D10086988-11ed-4259-a63f-c4cc32e41f8a%26scm%3D1007.40986.467924.0%26skuId%3D5754276244933%26mi_id%3D0000UL-nJcf1JOwYpzK-fX1itYkmCd3mWosGBlgBI-5D1F8%26utparam%3D%2525257B%25252522item_ctr%25252522%2525253A0.008045%2525252C%25252522x_object_type%25252522%2525253A%25252522p4p_item%25252522%2525252C%25252522matchType%25252522%2525253A%25252522k2%25252522%2525252C%25252522item_price%25252522%2525253A%252525221390.4%25252522%2525252C%25252522item_cvr%25252522%2525253A0.001895%2525252C%25252522umpCalled%25252522%2525253Atrue%2525252C%25252522pc_scene%25252522%2525253A%2525252220001%25252522%2525252C%25252522userId%25252522%2525253A1057197692%2525252C%25252522ab_info%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522tpp_buckets%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522aplus_abtest%25252522%2525253A%25252522586ad9bec72f654a6a8e984a7280c499%25252522%2525252C%25252522isLogin%25252522%2525253Atrue%2525252C%25252522abid%25252522%2525253A%25252522528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%25252522%2525252C%25252522pc_pvid%25252522%2525253A%2525252210086988-11ed-4259-a63f-c4cc32e41f8a%25252522%2525252C%25252522isWeekLogin%25252522%2525253Afalse%2525252C%25252522rn%25252522%2525253A2%2525252C%25252522item_ecpm%25252522%2525253A0.014722%2525252C%25252522ump_price%25252522%2525253A%252525221390.4%25252522%2525252C%25252522isXClose%25252522%2525253Afalse%2525252C%25252522x_object_id%25252522%2525253A899904897264%2525257D%26&id=899904897264
+          - generic [ref=f12e706]: 原木色白蜡木实木抽屉款沙发
+          - generic [ref=f12e708]:
+            - generic [ref=f12e709]: 超级立减20%
+            - generic [ref=f12e710]: 满51减50
+            - generic [ref=f12e711]: 包邮
+          - generic [ref=f12e712]:
+            - generic [ref=f12e713]: ¥
+            - generic [ref=f12e714]: "1390.4"
+            - generic [ref=f12e715]: 500+人购买
+            - generic [ref=f12e716]: 同款
+        - link "Apple/苹果15.3英寸笔记本电脑M5 ¥ 6099 97人购买 同款" [ref=f12e724] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=1007149488044&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=6210885198607&mi_id=0000YAUciBAIgFwYkZDoo10FJlsZCvIZ8SUROahqCN_uuBs&utparam=%7B%22item_ctr%22%3A0.17961296439170837%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22nann_base%22%2C%22item_price%22%3A%226099%22%2C%22item_cvr%22%3A0.0004618880047928542%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.10534650087356567%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%2298d8ed20bc2957f81b4626bddb247179%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A31.6571731581903%2C%22rn%22%3A3%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%226099%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A1007149488044%7D&
+          - generic [ref=f12e727]: Apple/苹果15.3英寸笔记本电脑M5
+          - generic [ref=f12e730]:
+            - generic [ref=f12e731]: ¥
+            - generic [ref=f12e732]: "6099"
+            - generic [ref=f12e733]: 97人购买
+            - generic [ref=f12e734]: 同款
+        - link "苹果17原装正品双卡全网通5G手机 ¥ 3691.4 4人购买 同款" [ref=f12e742] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=1075215990008&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=6291785387073&mi_id=00007c7_Odt84gRayaAQz4EFBvB3WPVqdcs_HyMpx6kTll0&utparam=%7B%22item_ctr%22%3A0.17843714356422424%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22nann_base%22%2C%22item_price%22%3A%223691.4%22%2C%22item_cvr%22%3A0.00009168250107904896%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.10443100333213806%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%22aa8db9388c1d79d4dcf95dc39580a9d9%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A31.33946046663334%2C%22rn%22%3A4%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%223691.4%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A1075215990008%7D&
+          - generic [ref=f12e745]: 苹果17原装正品双卡全网通5G手机
+          - generic [ref=f12e748]:
+            - generic [ref=f12e749]: ¥
+            - generic [ref=f12e750]: "3691.4"
+            - generic [ref=f12e751]: 4人购买
+            - generic [ref=f12e752]: 同款
+        - link "木纹仿木门修复门框包边修补翻新 我买过3次的宝贝 ¥ 9.9 1万+人购买 同款" [ref=f12e760] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=636499024506&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=5333239886317&mi_id=000066-NclKqKUCT2c0XTqmGPuBpS9jBWUe42v_yzJOTN7Y&utparam=%7B%22item_ctr%22%3A0.024505198001861572%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22dm_allnet_pay%22%2C%22item_price%22%3A%229.9%22%2C%22item_cvr%22%3A0.18506191670894623%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.026483893394470215%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%2209c24395e5f8cf4ee9dd4ea28c20b13c%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A26.89942414713%2C%22rn%22%3A5%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%229.9%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A636499024506%7D&
+          - generic [ref=f12e763]: 木纹仿木门修复门框包边修补翻新
+          - generic [ref=f12e767]: 我买过3次的宝贝
+          - generic [ref=f12e769]:
+            - generic [ref=f12e770]: ¥
+            - generic [ref=f12e771]: "9.9"
+            - generic [ref=f12e772]: 1万+人购买
+            - generic [ref=f12e773]: 同款
+        - link "北欧白蜡木实木沙发组合现代简约 超级立减25% 满51减50 包邮 ¥ 835 100+人购买 同款" [ref=f12e781] [cursor=pointer]:
+          - /url: https://click.mz.simba.taobao.com/necpm?eadt=296&p=&s=1852210437&k=2746&e=5uPjB08sCB6rGgCUjY9Y8DdrKfxHRmE%2BWOf3AAj0SjAqmBtB6UdTgZu0D%2FzWzCVz6V5DeG7Iq1h6q3TacpEZ7qBFR3pz1z7KvJ889eaerz0HUT91LHjkxG0ekoFYjtv6oVETfhQykT9miHLuhaSs6N8g%2B7XUsI0c2kHuj8Mm9egPalH%2F8sMbAqgd18Z7zDJK1z4nbd%2FOJsv%2BGLbAXALlRFfbQ%2BczTjbCHo%2BOQq62P9GZzL%2FdJMrKAXpo%2BrPpysnb6o87Wp3D7rj%2FSiVRfFADNIYEpftlb1%2BV5sAi0dJivWBXd02Vsd%2BCMHB%2Ba5bQZd5wft%2FWSqeQZ9MP78NbcyrCU6fsgjHqR902p4ZR71w307Ftc6utN4Vu1d2oxW90J%2BYJMXpZX0KLmo4eGNXXK3u%2B6A1gWUDrB%2FduJ2sDZIWTZcC6wl0xEgRdzt1I%2Ff167yhMakmgCn3xupXAqiWAYluixXbhMp%2FP8OaEPT6pva4DrRDp2B%2B3UMagvxs3jMqpG2nFVTBA04CRM9fZ7oidhZ3yKk093CtYUeKWyh%2FQDYfD0W%2FUswZRU1TMvv%2FjKOF2gmT4EMjExjvYE%2Bj9kgl4gpAEhzQYaHYn%2BetUEvnr0adbTNc1WzjUkZtGxzkgHZc5voMUZscfUxc%2FBga70qM11rCdJcg6i%2BWAvn%2Fpwd2%2F9i0NBWedIr1XrjuEnnp1gVQijRoewwqO9AjruKqMQRKiUGnxKGtb8vrTSCByZrNajb512Ob%2FEsrjxqkK16PHDv9yL9zQIyOUI8ie6blrcHIawjr8JEWFD3u5%2FQXLNyUfTspLiVRDUiC88tMSicYpGpssmKgaBtOMaL1Gu91F3U4gaTXy3qtz%2FnTsFCFNs5L5HR1Z1uEBxBW1wo66QvZX8lWO5mWXpl4%2B%2BXGMGwSNvcniUIcbbGDYVa6uZdKEVcBCxeph6pZqQ1JbcYoUjv%2BFkhClLOm0ZkyMOT06cz0%2B1Y5dTrgNgFo6pU8ZCZCX%2B5Jp16guEvuc3NDAkSFhW%2FdpiPgTr5ZixNR1XIb6J8NxhlY6WuGNsBskwypyHRO0kOGwmtBfkSiNBCBx7BIVOJ1DCka5%2B939nIcB28tR6yn0N4VllJ129xTRM6Dv3ADDEK%2F3x6i570%2FlCmcTwBt0CETA3oAFVhEYKdxSiBywa5R5gHxsaGSZEAGCAxbktrVnVWGNEJInj43sXFpSUsFhTnyLyAomBdTWDGHHc%2Bu%2FFSLMZr1VpOCn6iW5tA1%2F0jeB79EDhu%2FcThEt2M3m%2Bb0zfJ6L2m0mgFKtGxD8%2B2qNHLaqwlem15B44U3LzzShxhGHlEOYl2ywFForsG7QKh3fWXXDePdn%2B%2FmnxjDXPd1RPLvAu5IAePPBGumxkGu1sAFysD6eMdRaXZsoXuQcNjBlDT0lev3BtuMbI3j6dFD8bjjObmIksBz9FQXceKWXSia8pAL4zqLkT66gPR6YzFKvZoXcDVWKO8TGyb4qIL%2BfnL7NaWGydjOu1tCRVuzPwkWq2Uazwd0blGU3%2FDk42d4CWhH2MQZjaYrGs7Z%2BmGihgGf0btE51ax7nZRyW4cd1fh2011Mrk5Adoin7%2FaeqBsW3Y3aJ9FsN7uVlJEBZqwCiyNFb%2FwwXN1w7gSgh8vUhNWvXmkRVRRgtKnfXR%2Fod2FeenVQlI5N3fDNTsOiimMM1wWOInOWLZo027XNpr3T3uGETGz62z7J16xDpCEKRYZku5ZeOUCO8rBH%2B%2FuWvWnMORbEf9Z%2F0gWVm9p%2BfX5H9K%2BrjTmi7VKLljxfJByePW6PxZwfar086q546wx7PNaviv1U6XZKVZBYL3xBe9dzaLAITMMQNseCBf5SADsjn4rbuUTA3oAFVhEYyyztMI7nBAk03Gn3Uo8H0q3O3609VKb8bKTYRrNsjexQ4lYbNz3zbqnElHUUT68JCHWHZFFkUb1yWclN3fWgrrHxWzI3AFUPo7EVu3ScFeYYi5cWy6JyqVuq5DPKq7hyroLxsNDFmLS4NXf0xLbSvApDBWck8YLYMOHedHQEXhJayZ8T3rZkdngqqc%2FVzQauo64H8XUYSB9fI%2F%2BYI2wSXeIVhhs8ios2UmBCNhW06tsGb7VhHFlka37zkVlpGfjrwWm7d5aRT%2BpOk5TcOLdPOjRUkC2WwTodSRSh1K67pEPzU1MIYThOtBQ4yUYfKgujmDtn%2BdMiQ76%2B3pa2ldLkeALPbnhYXbgrZKcI9ho43YTz%2FB8kKs4TNl6CxYE1ee5L7jnjSlugKbYJb%2FfS9JdhdklnRq2InCNYTFmgJ9kyEWgJBYYvu5GiVeVGPat8eJ02VBbcgDlmdbk26CJ8VtS9rXaGKK799FkX12F37cG6%2Bf%2F1tj1IMDva0QY2OqGsrwQCU6gLhyaw6Y7ESGWOX4%2BRolOoC4cmsOmO6I%2Fi4fQfBYjbpet9rGwK0z4yWYE7uHpU3M2c6LAj0xp4zOmsuKk7iR5Um3MBzRQdCxaS%2BJt6E%2B%2FvvfcjnmDzOBCQaxqoaxbWki7w0YqcuCJ1%2Fpkp%2BGY9xmMZNHx3XStW8BRBLfB%2B0XBZzqAg2A4fMwDGtJqvm7rjK6%2F899i5BoR1UJSOTd3wzeRo5LsFklJE5p0524nAzGWx8VsyNwBVDzpmt3gzt3UKQbdowj0vxf4s%2BZzhdJbo3jz2dhTCCO6hEkwSwC0yLjGdo95s2Mc8O6O%2BakrF2tpF1CluwJEbWka81n2XEpCNBKAwFK3vAjHNpiPpjK4rxtlAh2lMUCeLvw%3D%3D&mm_sceneid=2_0_114526413_0&a=xxc%3Dad_ct%26pvid%3D10086988-11ed-4259-a63f-c4cc32e41f8a%26scm%3D1007.40986.467924.0%26skuId%3D6231988251440%26mi_id%3D0000Xt8v8una91xhWkCmjGVfCuSqzCzla6-oMH43TwxsNGw%26utparam%3D%2525257B%25252522item_ctr%25252522%2525253A0.008792%2525252C%25252522x_object_type%25252522%2525253A%25252522p4p_item%25252522%2525252C%25252522matchType%25252522%2525253A%25252522k2%25252522%2525252C%25252522item_price%25252522%2525253A%25252522835%25252522%2525252C%25252522item_cvr%25252522%2525253A0.002388%2525252C%25252522umpCalled%25252522%2525253Atrue%2525252C%25252522pc_scene%25252522%2525253A%2525252220001%25252522%2525252C%25252522userId%25252522%2525253A1057197692%2525252C%25252522ab_info%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522tpp_buckets%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522aplus_abtest%25252522%2525253A%252525226e7836c388b5ca44fe48b2f5981d57d4%25252522%2525252C%25252522isLogin%25252522%2525253Atrue%2525252C%25252522abid%25252522%2525253A%25252522528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%25252522%2525252C%25252522pc_pvid%25252522%2525253A%2525252210086988-11ed-4259-a63f-c4cc32e41f8a%25252522%2525252C%25252522isWeekLogin%25252522%2525253Afalse%2525252C%25252522rn%25252522%2525253A6%2525252C%25252522item_ecpm%25252522%2525253A0.013803%2525252C%25252522ump_price%25252522%2525253A%25252522835%25252522%2525252C%25252522isXClose%25252522%2525253Afalse%2525252C%25252522x_object_id%25252522%2525253A1043680198090%2525257D%26&id=1043680198090
+          - generic [ref=f12e784]: 北欧白蜡木实木沙发组合现代简约
+          - generic [ref=f12e786]:
+            - generic [ref=f12e787]: 超级立减25%
+            - generic [ref=f12e788]: 满51减50
+            - generic [ref=f12e789]: 包邮
+          - generic [ref=f12e790]:
+            - generic [ref=f12e791]: ¥
+            - generic [ref=f12e792]: "835"
+            - generic [ref=f12e793]: 100+人购买
+            - generic [ref=f12e794]: 同款
+        - link "耐克官方正品男鞋夏季2026新款小麦色简版空军一号休闲运动板鞋 超级立减15% 包邮 ¥ 429 500+人购买 同款" [ref=f12e802] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=805880484712&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=6131788000687&mi_id=0000IGzIDB5T-wA5WLY9mRaTMNE5hH0XZJB9NfK4j7-VGUI&utparam=%7B%22item_ctr%22%3A0.11204203963279724%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22pool_dm%22%2C%22item_price%22%3A%22429%22%2C%22item_cvr%22%3A0.0007978209177963436%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.0823112428188324%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%22cded1a8e6eb3f62826213bfaf45f30a8%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A24.7810307735708%2C%22rn%22%3A7%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%22429%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A805880484712%7D&
+          - generic [ref=f12e805]: 耐克官方正品男鞋夏季2026新款小麦色简版空军一号休闲运动板鞋
+          - generic [ref=f12e809]:
+            - generic [ref=f12e810]: 超级立减15%
+            - generic [ref=f12e811]: 包邮
+          - generic [ref=f12e812]:
+            - generic [ref=f12e813]: ¥
+            - generic [ref=f12e814]: "429"
+            - generic [ref=f12e815]: 500+人购买
+            - generic [ref=f12e816]: 同款
+        - link "sci中文核心期刊辅导加急投稿中高级评职称发文章表EI会议ssci ¥ 100 200+人购买 同款" [ref=f12e824] [cursor=pointer]:
+          - /url: https://click.mz.simba.taobao.com/necpm?eadt=296&p=&s=1852210437&k=2766&e=nNQZN2ohHNyrGgCUjY9Y8DdrKfxHRmE%2BWOf3AAj0SjAqmBtB6UdTgZu0D%2FzWzCVziNikJC2BWdsUKKRCXqXxeL7kucuB0kn0xridosbeLn8HUT91LHjkxG0ekoFYjtv6oVETfhQykT9miHLuhaSs6N8g%2B7XUsI0c2kHuj8Mm9egPalH%2F8sMbAqgd18Z7zDJK1z4nbd%2FOJsv%2BGLbAXALlRFfbQ%2BczTjbCHo%2BOQq62P9GZzL%2FdJMrKAXpo%2BrPpysnb6o87Wp3D7rj%2FSiVRfFADNIYEpftlb1%2BV5sAi0dJivWBXd02Vsd%2BCMHB%2Ba5bQZd5wft%2FWSqeQZ9MP78NbcyrCU6fsgjHqR902p4ZR71w307Ftc6utN4Vu1d2oxW90J%2BYJMXpZX0KLmo4eGNXXK3u%2B6A1gWUDrB%2FduJ2sDZIWTZcC6wl0xEgRdzt1I%2Ff167yhMakmgCn3xupXAqiWAYluixXbhMp%2FP8OaEPT6pva4DrRDp2B%2B3UMagvxs3jMqpG2nFVTBA04CRM9fZ7oidhZ3yKk093CtYUeKWyh%2FQDYfD0W%2FUswZRU1TMvv%2FjKOF2gmT4EMjExjvYE%2Bj9kgl4gpAEhzQYaHYn%2BetUEvnr0adbTNc1WzjUkZtGxzkgHZc5voMUZscfUxc%2FBga70qM11rCdJcg6i%2BWAvn%2Fpwd2%2F9i0NBWedIr1XrjuEnnp1gVQijRoewwqO9AjruKqMQRKiUGnxKGtb8vrTSCByZrNajb512Ob%2FEsrjxqkK16PHDv9yL9zQIyOUI8ie6blrcHIawjr8JEWFD3u5%2FQXLNyUfTspLiVRDUiC88tMSicYpGpssmKgaBtOMaL1Gu91F3U4gaTXy3qtz%2FnTsFCFNs5L5HR1Z1uEBxBW1wo66QvZX8lWO5mWXpl4%2B%2BXGMGwSNvcniUIcbbGDYVa6uZdKEVcBCxeph6pZqQ1JbcYoUjv%2BFkhClLOm0ZkyMOT06cz0%2B1Y5dTrgNgFo6pU8ZCZCX%2B5Jp16guEvuc3NDAkSFhW82bFjT3qv%2FVcB1bl4HiZqqYSuepHwGRHqdG%2FWmiia6L%2Fttw9U%2BgyFo%2Fq0sbc1M2WqnIUsICBI1ESQtNkvrEK32Z%2Fcb4GO5Ynt7gI1cEojR4znyGH%2BCqby5M6Eb4jNOS3p7exWkuEOBlLGS9VTV2HfLsifg0p2CuvolOsLFggt1oZgsZFswlXjgxqhcURajexp4laKG3lUz1LY7rglnDx4vxSyv%2F9hqWIaUxV71gTY9bkflSoB1%2FD1vesfSYS%2Fh8GmZYoRyhcZixoRK2%2F52kCOP5Pk1khp%2FfrL8L8I6WQgmHbwcbJZUgy9w83q3%2FE8zi8kV283pV2wmixHYz0smYP4O%2BXZDKmzs0uX7EflzWO3VepqRCVjiyyuVhyogSzIipHlNXP3OhHROadeD4%2BEgDf1%2F91EMQDJYS64CwgBfuoBTe%2F0PUeLppWd1xuSuloEnQR%2B6CMLUDDOomrIcDEXL%2B%2BOEXFq2AvE%2FbFKYmhcuFE1xZFLIWGhAQZnCv1cOp6wK1i%2BK7FyoiM5uHLT4nfsLksHMX2JTGb2k0REmj%2B7M2x421hLB0Uy17Gq5a1P%2BBsEezh8TF3DWbI%2Fji9LBTbcvJQyUyXPq3iTztpZlbvCGE4baARLoS1T83uXAMOCiSTfUw0oi9n8DpQdeIpyuORYvFClEUshYaEBBmcNc%2BVRDvs72feqjNDnax99%2BMzeFMMpilF3YYypZVDAyexH%2FWf9IFlZuxkUUcWXv3z6yohcYGCIe3ll45QI7ysEd8QVnTymLNOAag7qXtxjbHX%2BcGcpoyvuj1SqSkYxRXMcEt1rDYPuO3ToWeiTyOlzRIuX0uceW3dS0JYgbCCt5mu2banqWf%2BWjdCXtoIpynZw8Fq%2FcRmP9F85bkwHAGKdEt2fLULU50JOs%2BOxHdBBFLs3SVH1mcxIuCGtwcjKibB%2B7SylTlzgz90N3Gi%2FlxuK%2BzdBVCnZddlSoviYT3HXhaMC7%2FiQA8B%2B0M7dGdIMcKp3l%2FSe8OLWaIT7SlejQm7l8d%2B1lOPYqZbCTTk5e4CPib99KiaidQG4wGoO6l7cY2xxbWq2JoF2%2Fk8OrV1ONpFOu4U0CGPVA%2FQ10lIOjeyQZh5KIJjoFA1Hjn353OxVAqY%2FNordg4qwYGpxScGxeKpOspAfMXJXeRC8mlxetoOM4A2BIdmGgODJDmOCAKB4Qh2WjNfQEgt29N5UgnQtDXk7xnq06MS6J2VP35JkLt8zw9lpOV3TjeYf2EfJ1Et32dFeNSdmACVA0NVvfDkyK776z7l%2BQm%2Bz42nshVPx6dBMViF%2FTkHqpuLZW5EyNpASwavhU9Ho8o2IrOqwj04LqNAo5LMANo%2Fdr8bBSU4vmI%2B7peIIZNG219vBrGTV%2BF24%2BXWgcYulyeI1Xs7xJbV1H8iuo%2F12kdjWt26Cq5gv0AA81A%2BFbPlBdgYUsiMS9Ke7cWXbBMmliSga7caLcaSwS8vJwjjDAfC%2BdUQV9JP25KSkmikmDuJGWPzndQkJlhnfhk%2Fg9KhVopati3lMbV5SuKuOBKBWy757PGV%2FCXs7liCMKRmT7M3OvGD%2BBLlAI26PQmeQTrCIXWw0eXYNHHsiq%2Fyn3jeGsjWH8OC9NBt3JZQkKlvDfulSheL0ig8549dNTKsZkawR7Hua0z1rAZAj5RUcn0sFNty8lDJTJc%2BreJPO2lmVu8IYThtoDswDjd3st92rWqyspQLLtUgpGCbnFi3eKkt2kXM9k1mFX9nZJjHJGqqE%2Fe9IX1%2FmU%3D&mm_sceneid=2_0_7967056216_0&a=xxc%3Dad_ct%26pvid%3D10086988-11ed-4259-a63f-c4cc32e41f8a%26scm%3D1007.40986.467924.0%26mi_id%3D0000SNC4VA-Lqt82r_HG5ovOq5Zg_1PQw74HbmPi5SlisLU%26utparam%3D%2525257B%25252522item_ctr%25252522%2525253A0.002698%2525252C%25252522x_object_type%25252522%2525253A%25252522p4p_item%25252522%2525252C%25252522matchType%25252522%2525253A%25252522k2%25252522%2525252C%25252522item_price%25252522%2525253A%25252522100%25252522%2525252C%25252522item_cvr%25252522%2525253A0.024817%2525252C%25252522umpCalled%25252522%2525253Atrue%2525252C%25252522pc_scene%25252522%2525253A%2525252220001%25252522%2525252C%25252522userId%25252522%2525253A1057197692%2525252C%25252522ab_info%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522tpp_buckets%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522aplus_abtest%25252522%2525253A%25252522043ab55732d2894679a4d4f6676199a4%25252522%2525252C%25252522isLogin%25252522%2525253Atrue%2525252C%25252522abid%25252522%2525253A%25252522528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%25252522%2525252C%25252522pc_pvid%25252522%2525253A%2525252210086988-11ed-4259-a63f-c4cc32e41f8a%25252522%2525252C%25252522isWeekLogin%25252522%2525253Afalse%2525252C%25252522rn%25252522%2525253A8%2525252C%25252522item_ecpm%25252522%2525253A0.009443%2525252C%25252522ump_price%25252522%2525253A%25252522100%25252522%2525252C%25252522isXClose%25252522%2525253Afalse%2525252C%25252522x_object_id%25252522%2525253A1070698576428%2525257D%26&id=1070698576428
+          - generic [ref=f12e827]: sci中文核心期刊辅导加急投稿中高级评职称发文章表EI会议ssci
+          - generic [ref=f12e832]:
+            - generic [ref=f12e833]: ¥
+            - generic [ref=f12e834]: "100"
+            - generic [ref=f12e835]: 200+人购买
+            - generic [ref=f12e836]: 同款
+        - link "2024新款Apple/苹果Mac Mini M4 M4Pro 迷你小主机国行 ¥ 5050 72人购买 同款" [ref=f12e844] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=709109535287&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=5644365748430&mi_id=00005DirJP5Xl2IbgQcyrpEtLQGrfRvyURu4ZHTchjMNz64&utparam=%7B%22item_ctr%22%3A0.2602497339248657%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22nann_base%22%2C%22item_price%22%3A%225050%22%2C%22item_cvr%22%3A0.00011052820627810434%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.07982391119003296%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%22c76db49f882e48dfd58f92ddfb1092fc%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A23.95891302517887%2C%22rn%22%3A9%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%225050%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A709109535287%7D&
+          - generic [ref=f12e847]: 2024新款Apple/苹果Mac Mini M4 M4Pro 迷你小主机国行
+          - generic [ref=f12e850]:
+            - generic [ref=f12e851]: ¥
+            - generic [ref=f12e852]: "5050"
+            - generic [ref=f12e853]: 72人购买
+            - generic [ref=f12e854]: 同款
+        - link "Apple/苹果妙控键盘3代ipad无线蓝牙magic keyboard iPad/Mac键盘 ¥ 339 53人购买 同款" [ref=f12e862] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=1000260569074&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=6201809871996&mi_id=0000hGhmSlgecYqD4cBYa1uoL_0c-yuMP1Ine-6wuySITJ4&utparam=%7B%22item_ctr%22%3A0.08683997392654419%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22disc_dm_pvlist%22%2C%22item_price%22%3A%22339%22%2C%22item_cvr%22%3A0.0010650107869878411%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.07563915848731995%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%22d309355a1975f6e5425355eac7c9c714%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A22.8074970442401%2C%22rn%22%3A10%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%22339%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A1000260569074%7D&
+          - generic [ref=f12e865]: Apple/苹果妙控键盘3代ipad无线蓝牙magic keyboard iPad/Mac键盘
+          - generic [ref=f12e868]:
+            - generic [ref=f12e869]: ¥
+            - generic [ref=f12e870]: "339"
+            - generic [ref=f12e871]: 53人购买
+            - generic [ref=f12e872]: 同款
+        - link "刷卡积分兑换计件机IC卡计时机 超级立减10% 退货宝 包邮 ¥ 180 18人购买 同款" [ref=f12e880] [cursor=pointer]:
+          - /url: https://click.mz.simba.taobao.com/necpm?eadt=319&p=&s=1852210437&k=2734&e=iqNoTEOcqnarGgCUjY9Y8DdrKfxHRmE%2BWOf3AAj0SjAqmBtB6UdTgZu0D%2FzWzCVz6V5DeG7Iq1iq2z1Hy5aiCJ%2BTBxnlYs0%2Fm1bJFMM%2FbPQHUT91LHjkxG0ekoFYjtv6oVETfhQykT9miHLuhaSs6N8g%2B7XUsI0c2kHuj8Mm9egPalH%2F8sMbAqgd18Z7zDJK1z4nbd%2FOJsv%2BGLbAXALlRFfbQ%2BczTjbCHo%2BOQq62P9GZzL%2FdJMrKAXpo%2BrPpysnb6o87Wp3D7rj%2FSiVRfFADNIYEpftlb1%2BV5sAi0dJivWBXd02Vsd%2BCMHB%2Ba5bQZd5wft%2FWSqeQZ9MP78NbcyrCU6fsgjHqR902p4ZR71w307Ftc6utN4Vu1d2oxW90J%2BYJMXpZX0KLmo4eGNXXK3u%2B6A1gWUDrB%2FduJ2sDZIWTZcC6wl0xEgRdzt1I%2Ff167yhMakmgCn3xupXAqiWAYluixXbhMp%2FP8OaEPT6pva4DrRDp2B%2B3UMagvxs3jMqpG2nFVTBA04CRM9fZ7oidhZ3yKk093CtYUeKWyh%2FQDYfD0W%2FUswZRU1TMvv%2FjKOF2gmT4EMjExjvYE%2Bj9kgl4gpAEhzQYaHYn%2BetUEvnr0adbTNc1WzjUkZtGxzkgHZc5voMUZscfUxc%2FBga70qM11rCdJcg6i%2BWAvn%2Fpwd2%2F9i0NBWedIr1XrjuEnnp1gVQijRoewwqO9AjruKqMQRKiUGnxKGtb8vrTSCByZrNajb512Ob%2FEsrjxqkK16PHDv9yL9zQIyOUI8ie6blrcHIawjr8JEWFD3u5%2FQXLNyUfTspLiVRDUiC88tMSicYpGpssmKgaBtOMaL1Gu91F3U4gaTXy3qtz%2FnTsFCFNs5L5HR1Z1uEBxBW1wo66QvZX8lWO5mWXpl4%2B%2BXGMGwSNvcniUIcbbGDYVa6uZdKEVcBCxeph6pZqQ1JbcYoUjv%2BFkhClLOm0ZkyMOT06cz0%2B1Y5dTrgNgFo6pU8ZCZCX%2B5Jp16guEvuc3NDAkSFhW7Bfq4uo12cn04FCRzDi%2FMD1o%2FYyEC1rdFQT1vqfP8GN0u4IfGy5KQaoWwn8GBiFgKBAtDSmBCkSG3fxPXLRuSAzu%2FTJcUgfuQBWSyKFo2JAasEllAhDH4u%2FYMYZdK4%2FR4S3QlGASIOrVUpy6kwmssV5gHxsaGSZEOjrFtrpgrxds6M05qazmTzg%2Bitx0Hwg1MznometCgBnsW9TQxnxPa32%2FMzTgwISByW5tA1%2F0jeB79EDhu%2FcThGuhmkp9arrYW0JEhgp2G7prlI2a3gkCvIzbW9t42gXB03LzzShxhGHlEOYl2ywFFo8QTUVEIHvbnXDePdn%2B%2Fmn7opS9irmcnOtpPAa%2BwOpERMfd6WCKgWMp1updNWH3bHwbeVXXemk6HkdF%2BDU9fo56WW0%2FHaNJjwPXl4dBbt%2B4u6CMLUDDOomoD0emMxSr2aF3A1VijvExsm%2BKiC%2Fn5y%2BzWlhsnYzrtYihcUnbttGBPUNovNknk6K3bpMc9Zq5KpdvG%2FRJfkL1704o3OqtJ%2F3lMUiuB8p%2FrumvGr%2Fo9grhCnnLBmHFCOXg8Y7NEaVMpHTgUJHMOL8wPWj9jIQLWt01lRE4zcSy0%2BUQTHKfce1tzsh%2FHQEdFGs2%2BbnQ2FqfkopwqCQGOa37Djwxfli0P%2BKsIMViMod5aCj1fyniaw9BfC066pkw6NICAJsXABQIkZfoP7x8QCBiJUJJ%2BjATVqynu1ViLVeQUJ6KF3KPb31sk6m%2F3gggm6DxoORGcKZt2Bw%2FwOGsZ6CMNDitPPfRcS%2BcsTzRoDQK1iUQVvMHpGzkeql82BjtE94dvNDw%2BTB%2BJBI1EwrcYYBqRuSQNl4E7BB65CJ3JPyZQOxL38Gdp1nFQHG%2FKFvoMhZgCbKdVTdOTqx8VsyNwBVD6OxFbt0nBXmPAedpjrOGumfv6MEaiGZwinCoJAY5rfsY9p18yk106tj6lbo6LPAB%2BBlQX4mXLvU%2B8uvG7doGgJ1%2F3GwTrUpz9jiJajdOTWb8LiqItOYxKEBAzhG6ArWl64vGMPXBHMHmmXHJQbfxCd6%2B8EgBQcNi47sdXVBSCXnW%2B3QhbZ0LfttDB%2FDPm9R%2FxJnM0g0od5nOXOxswVUrOVqcPT9bnDJuXeC1Yigsr0k5xBHJhmy9vz2295N0VMSvwQpsxVYbGXYkO9sjQC18itqXpUwbC82IOsL9xytE580Y%2Be0kCauUSugWKzmzvPVrjAbwPiWGDIu8ClHSACrXflKj3w0YW6pYQL1dhdnRZRU7gggCbnzMm7MlTyKsgxuVcqg8I0mkKUM6RZgLECpvnLS%2BrHSkKGv4gdegaQqnpKs3FVfR8nQDVI%2Fs4eEqAKFfh2S7Rt2p1xOXjA2ceZCT4u3Wa%2FhbKtoctf3gnxxpEogP4eCb62OwoGfNrTKBHmpXNzNnOiwI9MaeMzprLipO4keVJtzAc0UHQsWkvibehPvftUmqONJCF4QkGsaqGsW1pIu8NGKnLgidf6ZKfhmPcZjGTR8d10rVvAUQS3wftFwWc6gINgOHzMAxrSar5u64yuv%2FPfYuQaEF3Fn0P5JZ85eLlnOT7At%2FtRDFuq%2F6djw2VCzBB4byfFkUZp3CulR3QRLp9B2vSdUlTZBy960Zjf5NSjvrvEJRAgfAu5Bg736F%2FzCK%2FlOU0TV90fCWWNRWsxPYrDlLAsavr6rGPYYG0MAanKEyo7x3Hrqkb4VEGfFOJKpXlP6RYY%3D&mm_sceneid=0_0_9390667959_0&a=xxc%3Dad_ct%26pvid%3D10086988-11ed-4259-a63f-c4cc32e41f8a%26scm%3D1007.40986.467924.0%26skuId%3D5938253116776%26mi_id%3D00007rD1AvzrD9piKSCnBzvzO_UTFajfetNLNVubEghrLsM%26utparam%3D%2525257B%25252522item_ctr%25252522%2525253A0.004137%2525252C%25252522x_object_type%25252522%2525253A%25252522p4p_item%25252522%2525252C%25252522matchType%25252522%2525253A%25252522k2%25252522%2525252C%25252522item_price%25252522%2525253A%25252522180%25252522%2525252C%25252522item_cvr%25252522%2525253A0.008154%2525252C%25252522umpCalled%25252522%2525253Atrue%2525252C%25252522pc_scene%25252522%2525253A%2525252220001%25252522%2525252C%25252522userId%25252522%2525253A1057197692%2525252C%25252522ab_info%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522tpp_buckets%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522aplus_abtest%25252522%2525253A%25252522d921c1fb12dae25fc5eafafbdc5fca65%25252522%2525252C%25252522isLogin%25252522%2525253Atrue%2525252C%25252522abid%25252522%2525253A%25252522528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%25252522%2525252C%25252522pc_pvid%25252522%2525253A%2525252210086988-11ed-4259-a63f-c4cc32e41f8a%25252522%2525252C%25252522isWeekLogin%25252522%2525253Afalse%2525252C%25252522rn%25252522%2525253A11%2525252C%25252522item_ecpm%25252522%2525253A0.007282%2525252C%25252522ump_price%25252522%2525253A%25252522180%25252522%2525252C%25252522isXClose%25252522%2525253Afalse%2525252C%25252522x_object_id%25252522%2525253A980006255283%2525257D%26&id=980006255283
+          - generic [ref=f12e883]: 刷卡积分兑换计件机IC卡计时机
+          - generic [ref=f12e887]:
+            - generic [ref=f12e888]: 超级立减10%
+            - generic [ref=f12e889]: 退货宝
+            - generic [ref=f12e890]: 包邮
+          - generic [ref=f12e891]:
+            - generic [ref=f12e892]: ¥
+            - generic [ref=f12e893]: "180"
+            - generic [ref=f12e894]: 18人购买
+            - generic [ref=f12e895]: 同款
+        - link "19 21雷凌运动版前通散热中网 退货宝 包邮 ¥ 135 57人购买 同款" [ref=f12e903] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=649849322730&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=5667752943817&mi_id=0000hdzDmElF15dzuH6kyKOyfEtgISge7oJBz0B5tF8BATg&utparam=%7B%22item_ctr%22%3A0.09736159443855286%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22nann_base%22%2C%22item_price%22%3A%22135%22%2C%22item_cvr%22%3A0.0069575863890349865%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.06276223063468933%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%22c518f374c5abdcf9073c969b8c3f649b%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A19.582757126136%2C%22rn%22%3A12%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%22135%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A649849322730%7D&
+          - generic [ref=f12e906]: 19 21雷凌运动版前通散热中网
+          - generic [ref=f12e908]:
+            - generic [ref=f12e909]: 退货宝
+            - generic [ref=f12e910]: 包邮
+          - generic [ref=f12e911]:
+            - generic [ref=f12e912]: ¥
+            - generic [ref=f12e913]: "135"
+            - generic [ref=f12e914]: 57人购买
+            - generic [ref=f12e915]: 同款
+        - link "公证驾照翻译户口出生学历成绩委托结婚证亲属关系无犯罪海牙认证 ¥ 100 500+人购买 同款" [ref=f12e923] [cursor=pointer]:
+          - /url: https://click.mz.simba.taobao.com/necpm?eadt=296&p=&s=1852210437&k=2754&e=c%2F24yB82%2FKmrGgCUjY9Y8DdrKfxHRmE%2BWOf3AAj0SjAqmBtB6UdTgZu0D%2FzWzCVzGlGUsMJGJzPbUPogCIzKIKV9GhYgCGmdHXKOcMsd7OkHUT91LHjkxG0ekoFYjtv6oVETfhQykT9miHLuhaSs6N8g%2B7XUsI0c2kHuj8Mm9egPalH%2F8sMbAqgd18Z7zDJK1z4nbd%2FOJsv%2BGLbAXALlRFfbQ%2BczTjbCHo%2BOQq62P9GZzL%2FdJMrKAXpo%2BrPpysnb6o87Wp3D7rj%2FSiVRfFADNIYEpftlb1%2BV5sAi0dJivWBXd02Vsd%2BCMHB%2Ba5bQZd5wft%2FWSqeQZ9MP78NbcyrCU6fsgjHqR902p4ZR71w307Ftc6utN4Vu1d2oxW90J%2BYJMXpZX0KLmo4eGNXXK3u%2B6A1gWUDrB%2FduJ2sDZIWTZcC6wl0xEgRdzt1I%2Ff167yhMakmgCn3xupXAqiWAYluixXbhMp%2FP8OaEPT6pva4DrRDp2B%2B3UMagvxs3jMqpG2nFVTBA04CRM9fZ7oidhZ3yKk093CtYUeKWyh%2FQDYfD0W%2FUswZRU1TMvv%2FjKOF2gmT4EMjExjvYE%2Bj9kgl4gpAEhzQYaHYn%2BetUEvnr0adbTNc1WzjUkZtGxzkgHZc5voMUZscfUxc%2FBga70qM11rCdJcg6i%2BWAvn%2Fpwd2%2F9i0NBWedIr1XrjuEnnp1gVQijRoewwqO9AjruKqMQRKiUGnxKGtb8vrTSCByZrNajb512Ob%2FEsrjxqkK16PHDv9yL9zQIyOUI8ie6blrcHIawjr8JEWFD3u5%2FQXLNyUfTspLiVRDUiC88tMSicYpGpssmKgaBtOMaL1Gu91F3U4gaTXy3qtz%2FnTsFCFNs5L5HR1Z1uEBxBW1wo66QvZX8lWO5mWXpl4%2B%2BXGMGwSNvcniUIcbbGDYVa6uZdKEVcBCxeph6pZqQ1JbcYoUjv%2BFkhClLOm0ZkyMOT06cz0%2B1Y5dTrgNgFo6pU8ZCZCX%2B5Jp16guEvuc3NDAkSFhW70%2BjovVye6RkMkGW6BEZoGscgHUpqG7dT%2FNU90bHZbcP6tLG3NTNlqpyFLCAgSNRKGScUvnm%2BOwiV0je2UDyyk%2Fb98M9onxpMFUD4zDdQV8yTSOg%2FVI9Sl1r%2FGleXhM6n4C6cFioToBRRTS667CXvx5gHxsaGSZEOjrFtrpgrxds6M05qazmTzg%2Bitx0Hwg1MznometCgBnJ5snHkUkoWQ80DZqfOI5qCW5tA1%2F0jeB79EDhu%2FcThEe3ZSSyI6f0xMDAaCCUzCr%2Fh4p9tV%2BsE8zbW9t42gXB03LzzShxhGHlEOYl2ywFForsG7QKh3fWXXDePdn%2B%2FmnsnXNtCZHPQPGKAtdCz6BHUy4g6%2BADMCdjJ%2FlyKcf3nlTVz9zoR0Tms%2Bndb6sQp55vHd0gMqUjWPbOPyMzIdtC1Qy76p8I%2FKLhkUIoNHSMYVD%2Fpy4%2FlVq67SdECBRgVxm30HuzcwMi3nKyvIVYpNe5rsZ%2B43sUMTZl9nwGv4pceuTcmZuvDeVXM1fdaiwyMQ8zUJqyGEDZCLARMwJP8oXCh3dktEinLn1%2FqUvH5mMY%2FQShMGmNES0DiKS93oKeFEUU2mnoh1GBVwb9cptR8EKRSEEwGRMMIdvdlGbBphyI8x7v%2FnliMjt4s2cVR6yE%2BNef%2Bw7D%2BSbcYWI5yfeiV%2FhRU5nc3pbeLmgoLvaN1UlQf3EoBrLbkFHFGHmEFrAmsypidRVKl85KtYUTWn%2FfqtcgKWyY70zyMBo5M4fESlS9TDcAr426gn9Cxhz%2F%2FJu2qpzmkPSGhKSmoulj8Q7UUfY6vQC6r5v2aGUjRgtbmXLw4%2BPx5QtDpq8t27KhkxcjQvFLzgCNV%2FEJUjkNDZgg6L2zHQvj8UdpgLdac%2FcI4tDjrRXeh3rELeDWiC%2BjTMt%2B96gU%2BHgOrswDGcKIhFoI0rj8M%2B7AO0RfcDXW6ctqPQz%2F7TzXX3HFGC5UPmcZJ5Y71i8PNA2anziOajWdnadX36UL5%2Ba73lbNWV%2Fdn5mgz3qx70YsZKIdPX5yFoYxzxHdpiD1hHEwthZ4h1R04Q5uASyY%2BTOHxEpUvUw0bwLCoPkR0t1Px57%2FbbVFjzDyepixsQNn9ZsnU34aBBXWgFgHoYc9yy4xmVjWMTV4VOhDMZOCW%2FSzawWKzSxPPX%2F%2FlafFR8dkMkGW6BEZoG0wcaKCjvq7wRTxNH4Ds%2FjOfYg9kfcaxFEYVcy7kchs5w0V3%2FHFCJHhp%2FbRsBPvWnfniaEqeK%2FXo7vsDG%2BenNrhCkbzTb7zuJWrYNimkbjTpDprJVgU6JjWw%2FATElSVxfRidraxwEQIO6RRRYOWi5MtkH89HXc%2Bq6CUFpUaTxpLjr5SO5QZ%2Byy%2BvMGQ01QqoZ5ULBGSsWWkQ%2FhfvvNB6G3SCOKRxsjPixnlKBhcoQwqt1GOz%2Blo5hLt97xyYs1VqzmM1DeDnY2NqB4zj4goQBBn8CyTzmvuvNEqjJBmjYj7lxjLQPmR7rfFD0ip9Qk7e7lUe92MPoRyP%2FFk53PTGvuniTeKK%2BaE%2Fprnzxp1iBYVu9HMSZ7T9qn3N5ztAKUVoKVKleCzszsGMHL7ErFlsO2YNHHsiq%2Fyn3jeGsjWH8OC9NBt3JZQkKlvDfulSheL0ig8549dNTKsZkawR7Hua0zX6wivyEuO9Z3JIknuh7JKDmaKobxCc7dO%2Fvi8FSG09O1qsrKUCy7VJ7DlMMTvOPuOMkoRu%2FOaONV%2FZ2SYxyRqqhP3vSF9f5l&mm_sceneid=2_0_6455859853_0&a=xxc%3Dad_ct%26pvid%3D10086988-11ed-4259-a63f-c4cc32e41f8a%26scm%3D1007.40986.467924.0%26skuId%3D6064376191400%26mi_id%3D0000THNs0tfWj0hW-Dt_XCnR89Za_R6or77Q6Vtxta3fU4k%26utparam%3D%2525257B%25252522item_ctr%25252522%2525253A0.001956%2525252C%25252522x_object_type%25252522%2525253A%25252522p4p_item%25252522%2525252C%25252522matchType%25252522%2525253A%25252522k2%25252522%2525252C%25252522item_price%25252522%2525253A%25252522100%25252522%2525252C%25252522item_cvr%25252522%2525253A0.011464%2525252C%25252522umpCalled%25252522%2525253Atrue%2525252C%25252522pc_scene%25252522%2525253A%2525252220001%25252522%2525252C%25252522userId%25252522%2525253A1057197692%2525252C%25252522ab_info%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522tpp_buckets%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522aplus_abtest%25252522%2525253A%252525222724d2b67fbb2dfed3199c5a7d9feebc%25252522%2525252C%25252522isLogin%25252522%2525253Atrue%2525252C%25252522abid%25252522%2525253A%25252522528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%25252522%2525252C%25252522pc_pvid%25252522%2525253A%2525252210086988-11ed-4259-a63f-c4cc32e41f8a%25252522%2525252C%25252522isWeekLogin%25252522%2525253Afalse%2525252C%25252522rn%25252522%2525253A13%2525252C%25252522item_ecpm%25252522%2525253A0.007666%2525252C%25252522ump_price%25252522%2525253A%25252522100%25252522%2525252C%25252522isXClose%25252522%2525253Afalse%2525252C%25252522x_object_id%25252522%2525253A963397640910%2525257D%26&id=963397640910
+          - generic [ref=f12e926]: 公证驾照翻译户口出生学历成绩委托结婚证亲属关系无犯罪海牙认证
+          - generic [ref=f12e931]:
+            - generic [ref=f12e932]: ¥
+            - generic [ref=f12e933]: "100"
+            - generic [ref=f12e934]: 500+人购买
+            - generic [ref=f12e935]: 同款
+        - link "4060【品牌补贴】联想拯救者R7000PY9000Y7000游戏笔记本电脑小新 满1999减1099 退货宝 包邮 ¥ 2801 12人购买 同款" [ref=f12e943] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=996333466302&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=6143525003049&mi_id=0000zbTELKYUozGNI6NtPZyF9P2I2MW4I3t3S76V1o4Dzug&utparam=%7B%22item_ctr%22%3A0.12466731667518616%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22nann_base%22%2C%22item_price%22%3A%222801%22%2C%22item_cvr%22%3A0.00025311222998425364%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.08678507804870605%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%2222d437c183803532d79fe0e813150c84%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A26.0630659221691%2C%22rn%22%3A14%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%222801%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A996333466302%7D&
+          - generic [ref=f12e946]: 4060【品牌补贴】联想拯救者R7000PY9000Y7000游戏笔记本电脑小新
+          - generic [ref=f12e948]:
+            - generic [ref=f12e949]: 满1999减1099
+            - generic [ref=f12e950]: 退货宝
+            - generic [ref=f12e951]: 包邮
+          - generic [ref=f12e952]:
+            - generic [ref=f12e953]: ¥
+            - generic [ref=f12e954]: "2801"
+            - generic [ref=f12e955]: 12人购买
+            - generic [ref=f12e956]: 同款
+        - link "亦合文化证书纸多种厚度多种可选 退货宝 包邮 ¥ 10.78 1000+人购买 同款" [ref=f12e964] [cursor=pointer]:
+          - /url: https://click.mz.simba.taobao.com/necpm?eadt=296&p=&s=1852210437&k=2766&e=KqeB2tMD2FyrGgCUjY9Y8DdrKfxHRmE%2BWOf3AAj0SjAqmBtB6UdTgZu0D%2FzWzCVz6V5DeG7Iq1jUs70%2FN9Y8aIU7dqUi5H5O4dkllppfzDkHUT91LHjkxG0ekoFYjtv6oVETfhQykT9miHLuhaSs6N8g%2B7XUsI0c2kHuj8Mm9egPalH%2F8sMbAqgd18Z7zDJK1z4nbd%2FOJsv%2BGLbAXALlRFfbQ%2BczTjbCHo%2BOQq62P9GZzL%2FdJMrKAXpo%2BrPpysnb6o87Wp3D7rj%2FSiVRfFADNIYEpftlb1%2BV5sAi0dJivWBXd02Vsd%2BCMHB%2Ba5bQZd5wft%2FWSqeQZ9MP78NbcyrCU6fsgjHqR902p4ZR71w307Ftc6utN4Vu1d2oxW90J%2BYJMXpZX0KLmo4eGNXXK3u%2B6A1gWUDrB%2FduJ2sDZIWTZcC6wl0xEgRdzt1I%2Ff167yhMakmgCn3xupXAqiWAYluixXbhMp%2FP8OaEPT6pva4DrRDp2B%2B3UMagvxs3jMqpG2nFVTBA04CRM9fZ7oidhZ3yKk093CtYUeKWyh%2FQDYfD0W%2FUswZRU1TMvv%2FjKOF2gmT4EMjExjvYE%2Bj9kgl4gpAEhzQYaHYn%2BetUEvnr0adbTNc1WzjUkZtGxzkgHZc5voMUZscfUxc%2FBga70qM11rCdJcg6i%2BWAvn%2Fpwd2%2F9i0NBWedIr1XrjuEnnp1gVQijRoewwqO9AjruKqMQRKiUGnxKGtb8vrTSCByZrNajb512Ob%2FEsrjxqkK16PHDv9yL9zQIyOUI8ie6blrcHIawjr8JEWFD3u5%2FQXLNyUfTspLiVRDUiC88tMSicYpGpssmKgaBtOMaL1Gu91F3U4gaTXy3qtz%2FnTsFCFNs5L5HR1Z1uEBxBW1wo66QvZX8lWO5mWXpl4%2B%2BXGMGwSNvcniUIcbbGDYVa6uZdKEVcBCxeph6pZqQ1JbcYoUjv%2BFkhClLOm0ZkyMOT06cz0%2B1Y5dTrgNgFo6pU8ZCZCX%2B5Jp16guEvuc3NDAkSFhW7s2bvuUDGxnCAsJlN88zaLfF6ZOcHJMTVVd6fkIvdERaq9Ik1xDRtwAr9fdo5%2Fiet7%2B7BN%2FQF9OTl3oatX6fxjR3uKGmqUrW6iv3S%2FaFSDO8BDD%2F4RAuUzLP9tfCY43gF1HRVY0ww9fzhINYgrtOvPCnuWDBN%2FXMHmAfGxoZJkQAYIDFuS2tWdVYY0QkiePjexcWlJSwWFOfIvICiYF1Na72wxKhPzlz4Kkdu10iitEfFChUBzJ7Qrvf8jaGFo5W%2FYFGSG0HJnkV%2BgIXIuJidak9QD0g60iZEN6dqnDuoP0udKIzZlPnjKQXI5so%2BeRO5DpRXzkEqatgPdPqXzl%2BkxASZ%2FfgHGrWF2i64vS6hhXpl9nUESBx6mKZ6JUEcgyZK9vQWaGAZawYcqIEsyIqR5TVz9zoR0Tmlt1NeTggZyHb0OgLm7t419upov%2BxQ6lov9D1Hi6aVndcbkrpaBJ0EfugjC1AwzqJqyHAxFy%2FvjhFxatgLxP2xQiM2Kxlt1Qf%2B9aMaVGr9574oyqwrqIVdmE%2BOrPloijnUSA%2BzlVys5rKAjpSBnDnrVmn3leLXJ4%2FvACicLOWzzCg5Pds486BDd0a79QOD3uYdVTy%2BFyj3wvwf%2Fx%2FtwFSjuTj6%2F%2FAMxYNkdNB%2FJ3fnch6xOW8e0%2Bdksr1PtJSZvNMb6JaZAicXhpx2G3vKV%2BFYBVkDFfU%2BKf3WY6rxjvagIPsIMViMod5aCcIsUvr%2FKvV57tVYi1XkFCzsBR%2F3ClmqAIAmxcAFAiRl%2Bg%2FvHxAIGIGPkKNJYXtWVQzDc%2BYdiLPqWPxDtRR9jq7bAmV2eqT6uNGC1uZcvDj%2BKUAjt%2Bhxeo2VKf5%2FVJzJE6wnIKRmRRVALCgkstKYH%2B%2BvkO90ISSneHIrVsEj5TZ6DK87mp19EPxfiE%2FTMIE6dCbFvPGXKlks5TP6Glj%2FSi4hLOpK8jUaiph8ShAgVtneuY5OQGP5zvpJhYhZkLUXRBRcMnIqDeDwpDBWck8YLYgheIe7iLUvOJYnmV5KOOYUhexi32l0gJnv7XnGxI2MmS0OYTDCtxaI2kil2JY7PnMjuv%2BlJGuDwGb7VhHFlka37zkVlpGfjrwWm7d5aRT%2Bo%2BIpAiBqH%2FSjRUkC2WwTodghnhsz40NK%2F6C1znywggLxQ4yUYfKguj0mc7iE0xEHP3jdLawEvvoWIfyoz34VbVpyMJKX0tG4bS%2BvNTkawhBxnpRR3u9aBbFLkFIS1K0nSgWjLiFxCy8s3HPhzLwIDYTBywLYSJC5maRpvoWmAyIDRmng5e7kVg35Tf0G2QvVJV%2B5i5nsM8ai0am30%2BEvlKcw4SLVIGd2ss6k9ey6ZIGykWO0yjGClfDQNcnuCb9yflzuBTKHmac%2B8tg9Fj6gKBzUWjla383aS7nYuL617MhAogdzIddybwPJSBfvHkdgBYFS0FwucTKOG%2BwmYcnZxSs54%2Bf7H7GVyJbSamLKdG%2FZD2tfbtLmJLaq3sgHwfJo%2ByF0CLT6tsMi%2FfIbE5D7sr%2F%2FCg03AhGQx7sts16mARZ5m6ajKIDHMNSQKN%2BZ%2FwEjI80HB5%2FPqSoF2i64vS6hhXgz76jmsd1P3g2D0ZMOmNzwH%2F98Ix0uCjsWFwez2bclbbdsSmNOtvvHAObY%2B0vW8KK2uc73b3stsICwmU3zzNot8Xpk5wckxNVV3p%2BQi90REfBQueGGJQNMxPYrDlLAsas4yCpqFWP%2BtfILs7qwJKDqFYPWjIMW0rOJKpXlP6RYY%3D&mm_sceneid=2_0_105784364_0&a=xxc%3Dad_ct%26pvid%3D10086988-11ed-4259-a63f-c4cc32e41f8a%26scm%3D1007.40986.467924.0%26skuId%3D5979642485028%26mi_id%3D00006mPrHpT3dugA2SqDC6gp2Wl1lMklKIoL_yEHKrPab0c%26utparam%3D%2525257B%25252522item_ctr%25252522%2525253A0.002659%2525252C%25252522x_object_type%25252522%2525253A%25252522p4p_item%25252522%2525252C%25252522matchType%25252522%2525253A%25252522k2%25252522%2525252C%25252522item_price%25252522%2525253A%2525252210.78%25252522%2525252C%25252522item_cvr%25252522%2525253A0.025877%2525252C%25252522umpCalled%25252522%2525253Atrue%2525252C%25252522pc_scene%25252522%2525253A%2525252220001%25252522%2525252C%25252522userId%25252522%2525253A1057197692%2525252C%25252522ab_info%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522tpp_buckets%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522aplus_abtest%25252522%2525253A%25252522102197d7dc2fd9d33f725b20e2e11a48%25252522%2525252C%25252522isLogin%25252522%2525253Atrue%2525252C%25252522abid%25252522%2525253A%25252522528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%25252522%2525252C%25252522pc_pvid%25252522%2525253A%2525252210086988-11ed-4259-a63f-c4cc32e41f8a%25252522%2525252C%25252522isWeekLogin%25252522%2525253Afalse%2525252C%25252522rn%25252522%2525253A15%2525252C%25252522item_ecpm%25252522%2525253A0.006701%2525252C%25252522ump_price%25252522%2525253A%2525252210.78%25252522%2525252C%25252522isXClose%25252522%2525253Afalse%2525252C%25252522x_object_id%25252522%2525253A742590689021%2525257D%26&id=742590689021
+          - generic [ref=f12e967]: 亦合文化证书纸多种厚度多种可选
+          - generic [ref=f12e969]:
+            - generic [ref=f12e970]: 退货宝
+            - generic [ref=f12e971]: 包邮
+          - generic [ref=f12e972]:
+            - generic [ref=f12e973]: ¥
+            - generic [ref=f12e974]: "10.78"
+            - generic [ref=f12e975]: 1000+人购买
+            - generic [ref=f12e976]: 同款
+        - link "iPhone 17e苹果17e 全原装苹果17E直播学生双卡全网通5G手机 满700减100 退货宝 包邮 ¥ 2299 93人购买 同款" [ref=f12e984] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=1066947198919&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=6115846608520&mi_id=00000NsjsqP_LGfH5jGV65oxWgAbeaZ6ZFOpHeUqqmEQmpU&utparam=%7B%22item_ctr%22%3A0.19584259390830994%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22nann_base%22%2C%22item_price%22%3A%222299%22%2C%22item_cvr%22%3A0.0001263017620658502%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.08874869346618652%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%22486b41b0b48ae55e562c2c7524e6f0d8%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A26.6382559814641%2C%22rn%22%3A16%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%222299%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A1066947198919%7D&
+          - generic [ref=f12e987]: iPhone 17e苹果17e 全原装苹果17E直播学生双卡全网通5G手机
+          - generic [ref=f12e989]:
+            - generic [ref=f12e990]: 满700减100
+            - generic [ref=f12e991]: 退货宝
+            - generic [ref=f12e992]: 包邮
+          - generic [ref=f12e993]:
+            - generic [ref=f12e994]: ¥
+            - generic [ref=f12e995]: "2299"
+            - generic [ref=f12e996]: 93人购买
+            - generic [ref=f12e997]: 同款
+        - link "当贝智能鱼缸干湿分离双过滤系统 入选内置过滤鱼缸热销榜 ¥ 569.24 500+人购买 同款" [ref=f12e1005] [cursor=pointer]:
+          - /url: https://click.mz.simba.taobao.com/necpm?eadt=319&p=&s=1852210437&k=2734&e=AV7TFlBq5C2rGgCUjY9Y8DdrKfxHRmE%2BWOf3AAj0SjAqmBtB6UdTgZu0D%2FzWzCVz6V5DeG7Iq1ji5Sdp0MNpJYes41XpRRv%2Bm1bJFMM%2FbPQHUT91LHjkxG0ekoFYjtv6oVETfhQykT9miHLuhaSs6N8g%2B7XUsI0c2kHuj8Mm9egPalH%2F8sMbAqgd18Z7zDJK1z4nbd%2FOJsv%2BGLbAXALlRFfbQ%2BczTjbCHo%2BOQq62P9GZzL%2FdJMrKAXpo%2BrPpysnb6o87Wp3D7rj%2FSiVRfFADNIYEpftlb1%2BV5sAi0dJivWBXd02Vsd%2BCMHB%2Ba5bQZd5wft%2FWSqeQZ9MP78NbcyrCU6fsgjHqR902p4ZR71w307Ftc6utN4Vu1d2oxW90J%2BYJMXpZX0KLmo4eGNXXK3u%2B6A1gWUDrB%2FduJ2sDZIWTZcC6wl0xEgRdzt1I%2Ff167yhMakmgCn3xupXAqiWAYluixXbhMp%2FP8OaEPT6pva4DrRDp2B%2B3UMagvxs3jMqpG2nFVTBA04CRM9fZ7oidhZ3yKk093CtYUeKWyh%2FQDYfD0W%2FUswZRU1TMvv%2FjKOF2gmT4EMjExjvYE%2Bj9kgl4gpAEhzQYaHYn%2BetUEvnr0adbTNc1WzjUkZtGxzkgHZc5voMUZscfUxc%2FBga70qM11rCdJcg6i%2BWAvn%2Fpwd2%2F9i0NBWedIr1XrjuEnnp1gVQijRoewwqO9AjruKqMQRKiUGnxKGtb8vrTSCByZrNajb512Ob%2FEsrjxqkK16PHDv9yL9zQIyOUI8ie6blrcHIawjr8JEWFD3u5%2FQXLNyUfTspLiVRDUiC88tMSicYpGpssmKgaBtOMaL1Gu91F3U4gaTXy3qtz%2FnTsFCFNs5L5HR1Z1uEBxBW1wo66QvZX8lWO5mWXpl4%2B%2BXGMGwSNvcniUIcbbGDYVa6uZdKEVcBCxeph6pZqQ1JbcYoUjv%2BFkhClLOm0ZkyMOT06cz0%2B1Y5dTrgNgFo6pU8ZCZCX%2B5Jp16guEvuc3NDAkSFhW%2FOj2gie1koJoF8uA9fvYIu2XGynqllzdb4ZeaTx0%2B4f%2FVMWquVNc7jWI%2FjZeDZ5InnNQ088w3hdVxo9G0A4pvoRc2kL5IdF47Bri5UO4F9ulZ1OiUJrrYjKPCBr%2F97xQNmNMODEpymtDIfgHzEdDXhT0CQJJpGi%2BQvFPvKZHGc9dKikEaPwnt17TIwa6AnnZcqHM%2FtDSeDFKSHFVVzZsY5E6agEXfcDggx9jnb2%2F1kDoMhk0S2ZHme2avBT5PuOVRxolaDrQMzXyaDb1bTCdKw4OcZBAhUy2IPuiyNG%2BOMAAiZtypDbJ4TzQ8Omw%2FhEvsIEF6LThkXMifRaZ5dkiog5HJTW5cHCFfx0ErJU4sVzkFwJJzFk2k1BVf2A%2F6bDLM%2FQ9WSlHuhiAch4DTq6poJRhJm6qbmAfH1Mgiq5EIJjhkUIoNHSMYWIlD5y98%2BLMDjqRo1ZqQU2ICOBnzRZ21bqFCI0i1GVFuE%2FfcFoBGCFYIzXLGB0goaJtZAst%2Bq%2BoC48ocW7x0%2FM8KfXw49HLJzhumjZSZi8TdKmSKalAP9Y3oV42BT3UJhYF6sUvE4%2BuAV%2F5RibgrUeOzzpgLOnQMQUeYw8vrOnsWhnUdLRJFBJZRLsQsusYUpHq%2Fjs26oA9ikhxVVc2bGOF%2FpoDyjh85F6qM0OdrH334zN4UwymKUXdhjKllUMDJ7Ef9Z%2F0gWVm7GRRRxZe%2FfPrKiFxgYIh7eWXjlAjvKwR3xBWdPKYs04l%2FETko1Grwh9ivqpCP4En9N1%2BtKlTYGyT4JlDO6GXIpVJcfFCA3AU5nM3ytGDuVks0ju9%2FSZRNwC2FxYe%2BE53rzQHdPn1dt%2FjLB9OtBVOfHzK4oTDXAtctxQ7A3Q4eS98e86uKPOWQXjfT1Yo2A%2BtFJsDaGOxAaoiWhlZ5fa01KFSitOs%2BZdJkOyDOtpPkHzQnTb91gKLs4wLv%2BJADwH7cbfdtBFXNLPXEm871zZC%2BUv784w%2FOWk8zA2P287CBFcjmaDlVcFQ36cith22gQhnJfxE5KNRq8IN2qOigA5Hlzw6tXU42kU67hTQIY9UD9DRm7WQURofJzkogmOgUDUeE1oLfsCogxoPROb7js8xH%2BnFJwbF4qk64aXxiu2u%2Fx%2Ff%2FcLf3KO7nHmOCAKB4Qh2WjNfQEgt29N0%2Bi4lrJ1%2F8Iby4MxDdHWkyzaMiwGqHOWqpdfCzr%2BkFQcZSZltrfkbNbtTEs6y2ysbl1uPveNxjyFI%2FUPIZWtydk85njU36%2FIzEbF2WrFpPIMy65tDlwzwmYXJWlYltRi%2FRnEwvSXIMHukUUWDlouTLZB%2FPR13PquglBaVGk8aS50SsPwVCUo9GNalF4kf2%2FDh%2BguU%2FPY90DUZRhN39B%2FAixvaZsaN3oJ3OGIF80kbFe2z%2BIDSF9Ap6hFMBrRagIyFvbnty5r3ly0uVwATth%2BjgvIFk%2BXsozpo89rhdOHPBEQkGsaqGsW1pIu8NGKnLgidf6ZKfhmPcZjGTR8d10rVvAUQS3wftFwWc6gINgOHzMAxrSar5u64yuv%2FPfYuQaE8HAys4LMY3ySqOuAvaqFEwDgorn5%2FolBg4F0%2FbF9TjT560MyQGI12CkVxfQKHel62fZt1YDjjzeJ9Fpnl2SKiC%2BR4dybOo945ndds%2FoNPFJcbTEUrOTp7t7c5xf2kzPMVqxDVLe564WDgVuYJCopYvo7jZZ7PweqQ2HqBqp770A%3D&mm_sceneid=0_0_10207169903_0&a=xxc%3Dad_ct%26pvid%3D10086988-11ed-4259-a63f-c4cc32e41f8a%26scm%3D1007.40986.467924.0%26skuId%3D6129806156691%26mi_id%3D0000rojNmZmxuIGN2oT4XG3q_pYJEgWPY0Mvh55vTOHXXHY%26utparam%3D%2525257B%25252522item_ctr%25252522%2525253A0.006212%2525252C%25252522x_object_type%25252522%2525253A%25252522p4p_item%25252522%2525252C%25252522matchType%25252522%2525253A%25252522k2%25252522%2525252C%25252522item_price%25252522%2525253A%25252522569.24%25252522%2525252C%25252522item_cvr%25252522%2525253A0.003991%2525252C%25252522umpCalled%25252522%2525253Atrue%2525252C%25252522pc_scene%25252522%2525253A%2525252220001%25252522%2525252C%25252522userId%25252522%2525253A1057197692%2525252C%25252522ab_info%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522tpp_buckets%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522aplus_abtest%25252522%2525253A%252525225b236c355fb39250b8c130f8037506fc%25252522%2525252C%25252522isLogin%25252522%2525253Atrue%2525252C%25252522abid%25252522%2525253A%25252522528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%25252522%2525252C%25252522pc_pvid%25252522%2525253A%2525252210086988-11ed-4259-a63f-c4cc32e41f8a%25252522%2525252C%25252522isWeekLogin%25252522%2525253Afalse%2525252C%25252522rn%25252522%2525253A17%2525252C%25252522item_ecpm%25252522%2525253A0.005839%2525252C%25252522ump_price%25252522%2525253A%25252522569.24%25252522%2525252C%25252522isXClose%25252522%2525253Afalse%2525252C%25252522x_object_id%25252522%2525253A847240641987%2525257D%26&id=847240641987
+          - generic [ref=f12e1008]: 当贝智能鱼缸干湿分离双过滤系统
+          - generic [ref=f12e1012]: 入选内置过滤鱼缸热销榜
+          - generic [ref=f12e1014]:
+            - generic [ref=f12e1015]: ¥
+            - generic [ref=f12e1016]: "569.24"
+            - generic [ref=f12e1017]: 500+人购买
+            - generic [ref=f12e1018]: 同款
+        - generic [ref=f12e1023]:
+          - generic [ref=f12e1024] [cursor=pointer]
+          - generic [ref=f12e1025]: 您对本次推荐是否满意？
+          - generic [ref=f12e1027]:
+            - generic [ref=f12e1028] [cursor=pointer]: 非常满意
+            - generic [ref=f12e1032] [cursor=pointer]: 比较满意
+            - generic [ref=f12e1036] [cursor=pointer]: 一般无感
+            - generic [ref=f12e1040] [cursor=pointer]: 不太满意
+            - generic [ref=f12e1045] [cursor=pointer]: 非常不满
+          - generic:
+            - button "下载"
+            - button "选品"
+            - button "搜图"
+        - link "新款金刚网隐形折叠带锁纱门 ¥ 174.44 46人购买 同款" [ref=f12e1053] [cursor=pointer]:
+          - /url: https://click.mz.simba.taobao.com/necpm?eadt=296&p=&s=1852210437&k=2734&e=Vz384ITyRcKrGgCUjY9Y8DdrKfxHRmE%2BWOf3AAj0SjAqmBtB6UdTgZu0D%2FzWzCVz6V5DeG7Iq1heF6kmlQxTNeB7HMsHW%2BMljmnzEjeya1oHUT91LHjkxG0ekoFYjtv6oVETfhQykT9miHLuhaSs6N8g%2B7XUsI0c2kHuj8Mm9egPalH%2F8sMbAqgd18Z7zDJK1z4nbd%2FOJsv%2BGLbAXALlRFfbQ%2BczTjbCHo%2BOQq62P9GZzL%2FdJMrKAXpo%2BrPpysnb6o87Wp3D7rj%2FSiVRfFADNIYEpftlb1%2BV5sAi0dJivWBXd02Vsd%2BCMHB%2Ba5bQZd5wft%2FWSqeQZ9MP78NbcyrCU6fsgjHqR902p4ZR71w307Ftc6utN4Vu1d2oxW90J%2BYJMXpZX0KLmo4eGNXXK3u%2B6A1gWUDrB%2FduJ2sDZIWTZcC6wl0xEgRdzt1I%2Ff167yhMakmgCn3xupXAqiWAYluixXbhMp%2FP8OaEPT6pva4DrRDp2B%2B3UMagvxs3jMqpG2nFVTBA04CRM9fZ7oidhZ3yKk093CtYUeKWyh%2FQDYfD0W%2FUswZRU1TMvv%2FjKOF2gmT4EMjExjvYE%2Bj9kgl4gpAEhzQYaHYn%2BetUEvnr0adbTNc1WzjUkZtGxzkgHZc5voMUZscfUxc%2FBga70qM11rCdJcg6i%2BWAvn%2Fpwd2%2F9i0NBWedIr1XrjuEnnp1gVQijRoewwqO9AjruKqMQRKiUGnxKGtb8vrTSCByZrNajb512Ob%2FEsrjxqkK16PHDv9yL9zQIyOUI8ie6blrcHIawjr8JEWFD3u5%2FQXLNyUfTspLiVRDUiC88tMSicYpGpssmKgaBtOMaL1Gu91F3U4gaTXy3qtz%2FnTsFCFNs5L5HR1Z1uEBxBW1wo66QvZX8lWO5mWXpl4%2B%2BXGMGwSNvcniUIcbbGDYVa6uZdKEVcBCxeph6pZqQ1JbcYoUjv%2BFkhClLOm0ZkyMOT06cz0%2B1Y5dTrgNgFo6pU8ZCZCX%2B5Jp16guEvuc3NDAkSFhW4QnV42dIRSFIigG%2Bh7%2BLEb%2B9JOe5V%2FM14bQ5rsERG0%2Br1DJmOoANZqHeCRIU1lyzigTi%2B9PN7Ddhm7eKThPlOEzpapBioKdOHV17hjpBicV6E5kvfydtpwqVKLFndvt5pjTSdPuD3fFWpodqoBcEIFSPkhFpauLAolOsLFggt1o7FxaUlLBYU7gStVe0ibRfnSopBGj8J7de0yMGugJ52V4mjLdZj6YaUJgGpfmPKFnbvlv4kzeP0EMfY529v9ZA9DPHAq2R4GH1UdsQOR31oKXNvZ5EjVWTTNtb23jaBcHTcvPNKHGEYeUQ5iXbLAUWiuwbtAqHd9ZdcN492f7%2BafuilL2KuZyc5lM23VdmcWoEfoyIKysd7RZGlowsZkUYxdm9DSxaokgk1DnQ26wU9zbOPyMzIdtC1Qy76p8I%2FKLhkUIoNHSMYVD%2Fpy4%2FlVq67SdECBRgVxm30HuzcwMi3m7B7R92upP8chJvhvsVV30g1tYA6kLCq6TcmZuvDeVXM1fdaiwyMQ8zUJqyGEDZCLARMwJP8oXCh3dktEinLn1%2FqUvH5mMY%2FTN64aGB5x5q4g9GQfLYZiY%2FBxtM85mMWe28SLEGFvV9EKbet5GNrtcIQTAZEwwh292UZsGmHIjzPwa%2BQ9MvsQRCjb1aq2%2F0HB4DYb8N%2BadYIjnJ96JX%2BFFTmdzelt4uaCgu9o3VSVB%2FcSgGstuQUcUYeYQWsCazKmJ1FUqXzkq1hRNaf9%2Bq1yApbJjvTPIwGihCgw%2FfcQoZoASeGvqqcy227oPQMEXyUNlUVMlGlL1ElIAOyOfitu50cPch3%2BQNYIEkMI2w4i1meQ0NmCDovbMdC%2BPxR2mAt1pz9wji0OOtFd6HesQt4NaIL6NMy373qCzuZ6WwTC2KAcTPdT4EYuXqAX6xXhLm93N32H9I%2BDv4mT7lFfnqI9kFf1Mr9OEOadDdPNufM4JHDAu%2F4kAPAftVwTWpmDVOZnqK7SZrn6psy%2FvzjD85aTzHVpSiTmHCMSskjEh8MpXeBClQ5hj5%2FiO0cPch3%2BQNYJB%2FvGg7T9rOvDq1dTjaRTruFNAhj1QP0NdJSDo3skGYeSiCY6BQNR4E0RpkraHVuYWn8EswH4mt6cUnBsXiqTrtK5Lx8wdlb6PGNko3suscbwoW1MKI%2Fim5jggCgeEIdlozX0BILdvTTtbzgxFSCjnCsmBknUs3Qr25dzJGUt6p7nKoPsAXY7r1Pmj60SBFL4CsFx3f4c%2BaWfUdGv6low05UY9q3x4nTZUFtyAOWZ1ufBTtmfkfteedoYorv30WRfXYXftwbr5%2F%2FW2PUgwO9rRBjY6oayvBAIHXP8oJnaGvwEiMC6vEfJoB1z%2FKCZ2hr%2Flx1iawDS0FuMmvpgZur6ko9A8vEQppITczZzosCPTGnjM6ay4qTuJHlSbcwHNFB0LFpL4m3oT72XfMyOi%2FFDZEJBrGqhrFtaSLvDRipy4InX%2BmSn4Zj3GYxk0fHddK1bwFEEt8H7RcFnOoCDYDh8zAMa0mq%2BbuuMrr%2Fz32LkGhOQGwhcH7yPRN5x2gEvUZjnUQxbqv%2BnY8NlQswQeG8nxbQiJkBcunLsES6fQdr0nVJU2QcvetGY3TCMptd75dx%2BBqN45aRPE0i39gh%2Bnz%2FzYxbafHTAy96spj1llMUC9%2BNQpbsCRG1pGbYDmTU1XM6KmdJpxTvYS9KYj6YyuK8bZQIdpTFAni78%3D&mm_sceneid=2_0_98916289_0&a=xxc%3Dad_ct%26pvid%3D10086988-11ed-4259-a63f-c4cc32e41f8a%26scm%3D1007.40986.467924.0%26skuId%3D5904204671378%26mi_id%3D0000BQfAjp12s3okRA4XiKkUodjAAgMELmIeQ6_btpZnf3o%26utparam%3D%2525257B%25252522item_ctr%25252522%2525253A0.002356%2525252C%25252522x_object_type%25252522%2525253A%25252522p4p_item%25252522%2525252C%25252522matchType%25252522%2525253A%25252522k2%25252522%2525252C%25252522item_price%25252522%2525253A%25252522174.44%25252522%2525252C%25252522item_cvr%25252522%2525253A0.006906%2525252C%25252522umpCalled%25252522%2525253Atrue%2525252C%25252522pc_scene%25252522%2525253A%2525252220001%25252522%2525252C%25252522userId%25252522%2525253A1057197692%2525252C%25252522ab_info%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522tpp_buckets%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522aplus_abtest%25252522%2525253A%252525222365fdb6a7a6371ba74b36c9716c0ca9%25252522%2525252C%25252522isLogin%25252522%2525253Atrue%2525252C%25252522abid%25252522%2525253A%25252522528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%25252522%2525252C%25252522pc_pvid%25252522%2525253A%2525252210086988-11ed-4259-a63f-c4cc32e41f8a%25252522%2525252C%25252522isWeekLogin%25252522%2525253Afalse%2525252C%25252522rn%25252522%2525253A19%2525252C%25252522item_ecpm%25252522%2525253A0.005349%2525252C%25252522ump_price%25252522%2525253A%25252522174.44%25252522%2525252C%25252522isXClose%25252522%2525253Afalse%2525252C%25252522x_object_id%25252522%2525253A890225650314%2525257D%26&id=890225650314
+          - generic [ref=f12e1056]: 新款金刚网隐形折叠带锁纱门
+          - generic [ref=f12e1059]:
+            - generic [ref=f12e1060]: ¥
+            - generic [ref=f12e1061]: "174.44"
+            - generic [ref=f12e1062]: 46人购买
+            - generic [ref=f12e1063]: 同款
+        - link "【已售1w+】小型电脑桌 入选办公桌好价榜 ¥ 137.57 500+人购买 同款" [ref=f12e1071] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=1000958838185&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=6154392950427&mi_id=0000mFxbb-1Xq5VtVBFsur15Sp5svCaqpN1A208II5W_pFg&utparam=%7B%22item_ctr%22%3A0.023512691259384155%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22nann_base%22%2C%22item_price%22%3A%22137.57%22%2C%22item_cvr%22%3A0.0003406561154406518%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.06446406245231628%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%222a01dd743eb3057ee04eaed827926e8a%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A19.3749411788937%2C%22rn%22%3A18%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%22137.57%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A1000958838185%7D&
+          - generic [ref=f12e1074]: 【已售1w+】小型电脑桌
+          - generic [ref=f12e1078]: 入选办公桌好价榜
+          - generic [ref=f12e1080]:
+            - generic [ref=f12e1081]: ¥
+            - generic [ref=f12e1082]: "137.57"
+            - generic [ref=f12e1083]: 500+人购买
+            - generic [ref=f12e1084]: 同款
+        - link "免吊顶反光灯槽洗墙灯设计师推荐 条形洗墙灯回购榜·第7名 ¥ 22.5 1000+人购买 同款" [ref=f12e1092] [cursor=pointer]:
+          - /url: https://click.mz.simba.taobao.com/necpm?eadt=319&p=&s=1852210437&k=2746&e=1ELsIPKnOYqrGgCUjY9Y8DdrKfxHRmE%2BWOf3AAj0SjAqmBtB6UdTgZu0D%2FzWzCVz6V5DeG7Iq1iNXMS1RN1SyLsEIZp4go9Ym1bJFMM%2FbPQHUT91LHjkxG0ekoFYjtv6oVETfhQykT9miHLuhaSs6N8g%2B7XUsI0c2kHuj8Mm9egPalH%2F8sMbAqgd18Z7zDJK1z4nbd%2FOJsv%2BGLbAXALlRFfbQ%2BczTjbCHo%2BOQq62P9GZzL%2FdJMrKAXpo%2BrPpysnb6o87Wp3D7rj%2FSiVRfFADNIYEpftlb1%2BV5sAi0dJivWBXd02Vsd%2BCMHB%2Ba5bQZd5wft%2FWSqeQZ9MP78NbcyrCU6fsgjHqR902p4ZR71w307Ftc6utN4Vu1d2oxW90J%2BYJMXpZX0KLmo4eGNXXK3u%2B6A1gWUDrB%2FduJ2sDZIWTZcC6wl0xEgRdzt1I%2Ff167yhMakmgCn3xupXAqiWAYluixXbhMp%2FP8OaEPT6pva4DrRDp2B%2B3UMagvxs3jMqpG2nFVTBA04CRM9fZ7oidhZ3yKk093CtYUeKWyh%2FQDYfD0W%2FUswZRU1TMvv%2FjKOF2gmT4EMjExjvYE%2Bj9kgl4gpAEhzQYaHYn%2BetUEvnr0adbTNc1WzjUkZtGxzkgHZc5voMUZscfUxc%2FBga70qM11rCdJcg6i%2BWAvn%2Fpwd2%2F9i0NBWedIr1XrjuEnnp1gVQijRoewwqO9AjruKqMQRKiUGnxKGtb8vrTSCByZrNajb512Ob%2FEsrjxqkK16PHDv9yL9zQIyOUI8ie6blrcHIawjr8JEWFD3u5%2FQXLNyUfTspLiVRDUiC88tMSicYpGpssmKgaBtOMaL1Gu91F3U4gaTXy3qtz%2FnTsFCFNs5L5HR1Z1uEBxBW1wo66QvZX8lWO5mWXpl4%2B%2BXGMGwSNvcniUIcbbGDYVa6uZdKEVcBCxeph6pZqQ1JbcYoUjv%2BFkhClLOm0ZkyMOT06cz0%2B1Y5dTrgNgFo6pU8ZCZCX%2B5Jp16guEvuc3NDAkSFhWwcKNevgopvMej7vagInbwqvBtMlltRamDbJ8af90ur%2BJ%2FiWvzQfsu1luShFkaiiB8BN%2FInr0fZY8GpihF%2BtGMZaFCuEETLUed2RNwrLPQXdsooaw%2F6qO0Q2dSkz0vniOifINcFLt7Ms0iwsW3pfX0SJTrCxYILdaGYLGRbMJV44MaoXFEWo3saeJWiht5VM9S2O64JZw8eLPQ0fkRlq%2F%2FFNT9bFYF66FUfVCg%2FpgmaHzEnIZoTzIHkN4inElqMJUBNdxkmuz2G1gN5qAzpE2L0zbW9t42gXB03LzzShxhGHlEOYl2ywFFo8QTUVEIHvbnXDePdn%2B%2FmnGUNUv2w8FQBDGLb8S9GI11vB4cBeUWAMp1updNWH3bHwbeVXXemk6OYBLnobiJCu6WW0%2FHaNJjwPXl4dBbt%2B4u6CMLUDDOomoD0emMxSr2aF3A1VijvExsm%2BKiC%2Fn5y%2BzWlhsnYzrtavAMoFW1LD6ANqa1jN1Q4l3bpMc9Zq5KpdvG%2FRJfkL1704o3OqtJ%2F3lMUiuB8p%2FrumvGr%2Fo9grhCnnLBmHFCOXueHv6KB32pF6Pu9qAidvCq8G0yWW1FqYgJAjHbHs22CUQTHKfce1tzsh%2FHQEdFGstI6igQpxmTB6q7J27Priqw%2F%2FdV0ZKfuWsIMViMod5aCj1fyniaw9BfC066pkw6NICAJsXABQIkZfoP7x8QCBiJUJJ%2BjATVqynu1ViLVeQUJ6KF3KPb31spNuZ3w%2BX9gPf8kbGL0kxwDvzDl3m9lOBHWPjoSYEHeJcsTzRoDQK1juQYS4WvFAI60fFlKJu6iudvNDw%2BTB%2BJBI1EwrcYYBqRuSQNl4E7BB65CJ3JPyZQOxL38Gdp1nFQHG%2FKFvoMhZgCbKdVTdOTqx8VsyNwBVD95zwggzQ3qD6gws5Rn9y%2FxJFQ%2BXAegmQnqrsnbs%2BuKr%2Bg2i5Qhd1M1j6lbo6LPAB7YAaHEGPQblQxrCanM5lBSTaYsOspd2EeL5asIJiAXFoPq3uST9PkGTA7mswDUXMz%2BKqghQMq%2BjmmXHJQbfxCd6%2B8EgBQcNi47sdXVBSCXnW%2B3QhbZ0LfttDB%2FDPm9R%2F07eloi67r5lNSrt16hmsktqcPT9bnDJucbcbrWoZwLSEyinJ24%2FkRz2295N0VMSv2NAIAITvKuvLoi5lKuVKjIoPm%2FJMnsPzrrRAP8vl4Nr%2FGL7TRfwqLq41iOm7L36JLS0qkbLHpdHW1He5%2B8%2BBz7Su6RPoOlYplZp2gYRu92%2F5UY9q3x4nTZUFtyAOWZ1uZWZf566Ta%2BldoYorv30WRfXYXftwbr5%2F%2FW2PUgwO9rRBjY6oayvBAL60CLJbmoruhHDdbY83FkDBgyQOp81zVs4MR4dKWIJjMy3GGHvUGXpgFWpdeM4al9cfPBpJS23fyfTbaVYgPW%2FW2fX7Z%2BwwQmjQnILvbMbc7lyAtwOIUF4X2TtKCO2hCpNUfYp3IDW5%2F5CR5moSdjN5RdCcusXGurGt62sPA1bPCfb1SivD3QfGHiFqM8Iq9V0fCYqIK56qzahX6Y%2B5KbWWSBjaD8FLYn%2F%2B6xuEO1pf2t7G085vVsrfDW0TJ%2FFRnJJlAcaIs3j57oSCV8NIyyM7hjJ8%2BqqitlFCkzssBsQlUCbdGRckN1LNMy5I1fpgrNO3paIuu6%2BZd35hJcNmgRKl90cBtGOLt8UBvlcyT3kfsE0AuSlWazL3kLirEbUR54noFVUaPPnSA%3D%3D&mm_sceneid=0_0_3314356536_0&a=xxc%3Dad_ct%26pvid%3D10086988-11ed-4259-a63f-c4cc32e41f8a%26scm%3D1007.40986.467924.0%26skuId%3D5574913821197%26mi_id%3D0000STxKmpVW_zAQICrCljlYkCpTdTmZi_uxPmw_ECGnTX8%26utparam%3D%2525257B%25252522item_ctr%25252522%2525253A0.002378%2525252C%25252522x_object_type%25252522%2525253A%25252522p4p_item%25252522%2525252C%25252522matchType%25252522%2525253A%25252522k2%25252522%2525252C%25252522item_price%25252522%2525253A%2525252222.5%25252522%2525252C%25252522item_cvr%25252522%2525253A0.016084%2525252C%25252522umpCalled%25252522%2525253Atrue%2525252C%25252522pc_scene%25252522%2525253A%2525252220001%25252522%2525252C%25252522userId%25252522%2525253A1057197692%2525252C%25252522ab_info%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522tpp_buckets%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522aplus_abtest%25252522%2525253A%25252522ca8f1fdc69515bae6acfefcbde929cf7%25252522%2525252C%25252522isLogin%25252522%2525253Atrue%2525252C%25252522abid%25252522%2525253A%25252522528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%25252522%2525252C%25252522pc_pvid%25252522%2525253A%2525252210086988-11ed-4259-a63f-c4cc32e41f8a%25252522%2525252C%25252522isWeekLogin%25252522%2525253Afalse%2525252C%25252522rn%25252522%2525253A21%2525252C%25252522item_ecpm%25252522%2525253A0.00359%2525252C%25252522ump_price%25252522%2525253A%2525252222.5%25252522%2525252C%25252522isXClose%25252522%2525253Afalse%2525252C%25252522x_object_id%25252522%2525253A684239344604%2525257D%26&id=684239344604
+          - generic [ref=f12e1095]: 免吊顶反光灯槽洗墙灯设计师推荐
+          - generic [ref=f12e1099]: 条形洗墙灯回购榜·第7名
+          - generic [ref=f12e1101]:
+            - generic [ref=f12e1102]: ¥
+            - generic [ref=f12e1103]: "22.5"
+            - generic [ref=f12e1104]: 1000+人购买
+            - generic [ref=f12e1105]: 同款
+        - link "新款生态硅保护壳适用于苹果 超级立减20% 包邮 ¥ 58 200+人购买 同款" [ref=f12e1113] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=833158469601&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=6233767258925&mi_id=00004u3Kmt2pcP0nisj3VZyABFwI61mM4eVevUZhr2Pqzfw&utparam=%7B%22item_ctr%22%3A0.13840913772583008%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22disc_dm_pvlist%22%2C%22item_price%22%3A%2258%22%2C%22item_cvr%22%3A0.0012643940281122923%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.05956330895423889%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%22d2a2128eb3a90210cfeb6127039f133c%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A18.0021496606424%2C%22rn%22%3A20%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%2258%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A833158469601%7D&
+          - generic [ref=f12e1116]: 新款生态硅保护壳适用于苹果
+          - generic [ref=f12e1120]:
+            - generic [ref=f12e1121]: 超级立减20%
+            - generic [ref=f12e1122]: 包邮
+          - generic [ref=f12e1123]:
+            - generic [ref=f12e1124]: ¥
+            - generic [ref=f12e1125]: "58"
+            - generic [ref=f12e1126]: 200+人购买
+            - generic [ref=f12e1127]: 同款
+        - link "驾驶证 包邮 ¥ 228 1人购买 同款" [ref=f12e1135] [cursor=pointer]:
+          - /url: https://click.mz.simba.taobao.com/necpm?eadt=347&p=&s=1852210437&k=2754&e=lzmMdBdihkarGgCUjY9Y8DdrKfxHRmE%2BWOf3AAj0SjAqmBtB6UdTgZu0D%2FzWzCVz6V5DeG7Iq1h%2FICpDXCqCMVfmjnT91dWp1BDcErbVpzYHUT91LHjkxG0ekoFYjtv6oVETfhQykT9miHLuhaSs6N8g%2B7XUsI0c2kHuj8Mm9egPalH%2F8sMbAqgd18Z7zDJK1z4nbd%2FOJsv%2BGLbAXALlRFfbQ%2BczTjbCHo%2BOQq62P9GZzL%2FdJMrKAXpo%2BrPpysnb6o87Wp3D7rj%2FSiVRfFADNIYEpftlb1%2BV5sAi0dJivWBXd02Vsd%2BCMHB%2Ba5bQZd5wft%2FWSqeQZ9MP78NbcyrCU6fsgjHqR902p4ZR71w307Ftc6utN4Vu1d2oxW90J%2BYJMXpZX0KLmo4eGNXXK3u%2B6A1gWUDrB%2FduJ2sDZIWTZcC6wl0xEgRdzt1I%2Ff167yhMakmgCn3xupXAqiWAYluixXbhMp%2FP8OaEPT6pva4DrRDp2B%2B3UMagvxs3jMqpG2nFVTBA04CRM9fZ7oidhZ3yKk093CtYUeKWyh%2FQDYfD0W%2FUswZRU1TMvv%2FjKOF2gmT4EMjExjvYE%2Bj9kgl4gpAEhzQYaHYn%2BetUEvnr0adbTNc1WzjUkZtGxzkgHZc5voMUZscfUxc%2FBga70qM11rCdJcg6i%2BWAvn%2Fpwd2%2F9i0NBWedIr1XrjuEnnp1gVQijRoewwqO9AjruKqMQRKiUGnxKGtb8vrTSCByZrNajb512Ob%2FEsrjxqkK16PHDv9yL9zQIyOUI8ie6blrcHIawjr8JEWFD3u5%2FQXLNyUfTspLiVRDUiC88tMSicYpGpssmKgaBtOMaL1Gu91F3U4gaTXy3qtz%2FnTsFCFNs5L5HR1Z1uEBxBW1wo66QvZX8lWO5mWXpl4%2B%2BXGMGwSNvcniUIcbbGDYVa6uZdKEVcBCxeph6pZqQ1JbcYoUjv%2BFkhClLOm0ZkyMOT06cz0%2B1Y5dTrgNgFo6pU8ZCZCX%2B5Jp16guEvuc3NDAkSFhW%2FOj2gie1koJ5hJNUhiMVlgiUkDRRjMceokGdxdJ44ZO8iuJchV72%2BRf%2BJnbzQmRbnnb%2BjKLxZ5i5TOeCFexKe7K4PmaJI0YifnqPVlFq6T%2By1WMNoOfJSnnMf2HzZr2aGmSPlpQmpMv0w8ViL3DwRY1%2FL5BgFGbB%2B7pGWZNbrXo15KeRt9SjKACS3MTMOPVE1kX3Fo4%2B6hYBz2eNKXdGWdneTpzx7i8iFPEFkrswVOG0NNSE1zuZ9vxOFkFXdvpqhInBnYug%2FyKu%2BOa7LquVGO7GaAj2kuWXQAbVCXp%2BW0pfLvhhpJ%2F8bNamBpo91%2B2hA8eY%2B6mo64gAEV2viXEfawO6iK%2B9aRmv6SRugII0cORo2SDevYD7UkMhHlsWX5QxVkaWjCxmRRjwmR%2F57utb6l8Q9N20QwFZ8KrrHoY0YyLfSoWjozjOMrMgGSSV565PSg9Dsy%2B5M1PqDoMOZbRibYyKtBa9a3sdBg5MsUBrJXJ7du5PjGw4WmeyKuGwiNH6om1kCy36r6gLjyhxbvHT8zwp9fDj0csnOG6aNlJmLxN0qZIpqUA%2F1jehXjYFPdQmM10XbHcrRo2FocwfJHAtYd4ukhI1SPzHfq6S95QNXpjaGdR0tEkUEllEuxCy6xhSl8vDEAcLord7du5PjGw4WkkL2BIq%2FkNjYjnJ96JX%2BFFTmdzelt4uaCgu9o3VSVB%2FcSgGstuQUcUYeYQWsCazKmJ1FUqXzkq1hRNaf9%2Bq1yApbJjvTPIwGhVXal7awTneF5kEoG%2BUd3BOW1gW8yw0WtuWtcSyQNdxAnk4fnCnNfpVfV3JMAne61npvowMxpIyTTcafdSjwfSlgx%2F4iysFNNspNhGs2yN7FDiVhs3PfNuqcSUdRRPrwkJwdT4C2f0qxX87giJueyF2VCzBB4byfHP6zdoiA0E4vPq1ChGTYcC%2FYYFeIGca8f56j1ZRauk%2FrUeSj%2Bc9mkGY%2BpW6OizwAcwD5q8tUPr739gidLhqUv1pUCON%2FaYg0WUBeDsV6imHMUPlGsFTJTaH3mX4mDP6yPPMb5DvvIHBZplxyUG38QnevvBIAUHDYuO7HV1QUgl51vt0IW2dC37bQwfwz5vUf94ukhI1SPzHS8LOPDzc1xianD0%2FW5wybl0DbM1DE%2FowUtrcJoRRqY2As9ueFhduCtfIr6GrjJoGJndlWjuF4y%2BDTzS96bVFap3fjuWB%2FPouGjqJaQEQuMaSeNUWz4skiJo6Rc%2F5%2BJGHhjx%2Ffj7IRGsVBbcgDlmdbnncHf1yqxc5G2Mm1sreOclPE%2BM0bToh1L6PFdxOCBwZ9fhuyBJPi11LOpPXsumSBspFjtMoxgpXw0DXJ7gm%2Fcnfi%2BkaIGI%2FShaecdHTM67gYo9ICTQI4i2R1rbf0V0laDFbgV8hDfDmT5Y9o9%2BdrV8%2FhULju8KKJdTaKc9XJZUHZTG1eUrirjgjpiFqRbUcHx5GjdSBJuIFl9JP25KSkmikmDuJGWPzndQkJlhnfhk%2Fg9KhVopati3lMbV5SuKuOBKBWy757PGV%2FCXs7liCMKRmT7M3OvGD%2BAvrIVJvuK1xImruoL5PuPAYNHHsiq%2Fyn3jeGsjWH8OC5218BgE%2FiCjvDfulSheL0hrMYwI9hTw7amIoYWP8W4NPjMcFqbEdjoWhzB8kcC1h3i6SEjVI%2FMdjg9WJaGI%2F2yX3RwG0Y4u3xQhqaCwvitHg4FbmCQqKWIN20sQDwu%2F%2BUNh6gaqe%2B9A&mm_sceneid=0_0_10298958175_0&a=xxc%3Dad_ct%26pvid%3D10086988-11ed-4259-a63f-c4cc32e41f8a%26scm%3D1007.40986.467924.0%26mi_id%3D0000lo7BRS-mMq4YknrAx3eG_oL1cQwbXBLFJ_icPrWLYaY%26utparam%3D%2525257B%25252522item_ctr%25252522%2525253A0.003091%2525252C%25252522x_object_type%25252522%2525253A%25252522p4p_item%25252522%2525252C%25252522matchType%25252522%2525253A%25252522k2%25252522%2525252C%25252522item_price%25252522%2525253A%25252522228%25252522%2525252C%25252522item_cvr%25252522%2525253A0.007251%2525252C%25252522umpCalled%25252522%2525253Atrue%2525252C%25252522pc_scene%25252522%2525253A%2525252220001%25252522%2525252C%25252522userId%25252522%2525253A1057197692%2525252C%25252522ab_info%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522tpp_buckets%25252522%2525253A%2525252230986%25252523467924%252525230_30986%25252523528214%2525252358507_30986%25252523527805%2525252358418_30986%25252523537217%2525252360408_30986%25252523521582%2525252357267_30986%25252523545597%2525252358189_30986%25252523533297%2525252359487_30986%25252523528931%2525252357910_30986%25252523530923%2525252359037_30986%25252523532805%2525252359017_30986%25252523528109%2525252358485_30986%25252523545020%2525252362063_30986%25252523549605%2525252360469_30986%25252523546628%2525252362403_30986%25252523537987%2525252360586_30986%25252523547837%2525252362654_30986%25252523538037%2525252360595%25252522%2525252C%25252522aplus_abtest%25252522%2525253A%2525252211e0215233f07ec7a985a3e15e880024%25252522%2525252C%25252522isLogin%25252522%2525253Atrue%2525252C%25252522abid%25252522%2525253A%25252522528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%25252522%2525252C%25252522pc_pvid%25252522%2525253A%2525252210086988-11ed-4259-a63f-c4cc32e41f8a%25252522%2525252C%25252522isWeekLogin%25252522%2525253Afalse%2525252C%25252522rn%25252522%2525253A23%2525252C%25252522item_ecpm%25252522%2525253A0.003462%2525252C%25252522ump_price%25252522%2525253A%25252522228%25252522%2525252C%25252522isXClose%25252522%2525253Afalse%2525252C%25252522x_object_id%25252522%2525253A1034911665574%2525257D%26&id=1034911665574
+          - generic [ref=f12e1138]: 驾驶证
+          - generic [ref=f12e1140]: 包邮
+          - generic [ref=f12e1142]:
+            - generic [ref=f12e1143]: ¥
+            - generic [ref=f12e1144]: "228"
+            - generic [ref=f12e1145]: 1人购买
+            - generic [ref=f12e1146]: 同款
+        - link "美易支Mac mini M4桌下收纳支架 满30减6 退货宝 包邮 ¥ 27.32 100+人购买 同款" [ref=f12e1154] [cursor=pointer]:
+          - /url: //item.taobao.com/item.htm?id=859806640472&xxc=home_recommend&scm=1007.40986.467924.0&pvid=10086988-11ed-4259-a63f-c4cc32e41f8a&skuId=5779974592023&mi_id=0000Xf49oJ6FIri82b2aX3hk5Nrx7eo8SYsn2m1-mUMyYp0&utparam=%7B%22item_ctr%22%3A0.024133890867233276%2C%22x_object_type%22%3A%22item%22%2C%22matchType%22%3A%22disc_dm_interest%22%2C%22item_price%22%3A%2227.32%22%2C%22item_cvr%22%3A0.0010403471533209085%2C%22umpCalled%22%3Atrue%2C%22pc_ctr%22%3A0.0595964677631855%2C%22pc_scene%22%3A%2220001%22%2C%22userId%22%3A1057197692%2C%22ab_info%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22tpp_buckets%22%3A%2230986%23467924%230_30986%23528214%2358507_30986%23527805%2358418_30986%23537217%2360408_30986%23521582%2357267_30986%23545597%2358189_30986%23533297%2359487_30986%23528931%2357910_30986%23530923%2359037_30986%23532805%2359017_30986%23528109%2358485_30986%23545020%2362063_30986%23549605%2360469_30986%23546628%2362403_30986%23537987%2360586_30986%23547837%2362654_30986%23538037%2360595%22%2C%22aplus_abtest%22%3A%2232323fbad34b3f4fcffccef9d183e545%22%2C%22isLogin%22%3Atrue%2C%22abid%22%3A%22528214_527805_537217_521582_545597_533297_528931_530923_532805_528109_545020_549605_546628_537987_547837_538037%22%2C%22pc_pvid%22%3A%2210086988-11ed-4259-a63f-c4cc32e41f8a%22%2C%22isWeekLogin%22%3Afalse%2C%22pc_alg_score%22%3A17.9882973410655%2C%22rn%22%3A22%2C%22item_ecpm%22%3A0%2C%22ump_price%22%3A%2227.32%22%2C%22isXClose%22%3Afalse%2C%22x_object_id%22%3A859806640472%7D&
+          - generic [ref=f12e1157]: 美易支Mac mini M4桌下收纳支架
+          - generic [ref=f12e1159]:
+            - generic [ref=f12e1160]: 满30减6
+            - generic [ref=f12e1161]: 退货宝
+            - generic [ref=f12e1162]: 包邮
+          - generic [ref=f12e1163]:
+            - generic [ref=f12e1164]: ¥
+            - generic [ref=f12e1165]: "27.32"
+            - generic [ref=f12e1166]: 100+人购买
+            - generic [ref=f12e1167]: 同款
+  - generic [ref=f12e1173]:
+    - paragraph [ref=f12e1174]:
+      - strong [ref=f12e1175]: Taobao | 淘宝
+    - paragraph [ref=f12e1176]:
+      - text: 淘宝网是
+      - link "阿里巴巴" [ref=f12e1177] [cursor=pointer]:
+        - /url: https://www.alibaba.com/
+      - text: 集团旗下的国际化网络购物平台，
+      - link "淘宝网" [ref=f12e1178] [cursor=pointer]:
+        - /url: https://www.taobao.com
+      - text: 为消费者提供互动化、个性化的购物体验。消费者能够从
+      - link "天猫" [ref=f12e1179] [cursor=pointer]:
+        - /url: https://www.tmall.com/
+      - text: 品牌旗舰店、
+      - link "淘宝直播" [ref=f12e1180] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/zhibo_599/
+      - text: 间实物展示、
+      - link "网红" [ref=f12e1181] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/wanghong_598/
+      - text: 主播
+      - link "评论" [ref=f12e1182] [cursor=pointer]:
+        - /url: https://pingjia.taobao.com/
+      - text: 区真实的买家秀获取相关度高的
+      - link "商品" [ref=f12e1183] [cursor=pointer]:
+        - /url: https://mgoods.taobao.com/
+      - text: 信息，也能通过
+      - link "淘宝百科" [ref=f12e1184] [cursor=pointer]:
+        - /url: https://bk.taobao.com/
+      - text: 学习
+      - link "生活知识" [ref=f12e1185] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/
+      - text: ，畅享美好
+      - link "购物生活" [ref=f12e1186] [cursor=pointer]:
+        - /url: https://goods.taobao.com/
+      - text: 。
+    - paragraph [ref=f12e1187]:
+      - link "淘宝网页" [ref=f12e1188] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/taobaowangye_180/
+      - text: 通过提供多样化的
+      - link "男装" [ref=f12e1189] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/taobaonanzhuang_425/
+      - link "空调" [ref=f12e1190] [cursor=pointer]:
+        - /url: https://pingjia.taobao.com/category-kongdiao_3724
+      - link "女鞋" [ref=f12e1191] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/taobaonvxie_408/
+      - text: 等
+      - link "企业品牌" [ref=f12e1192] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/qiyebaikecitiao_21105
+      - text: 商品和服务，为消费者提供各类
+      - link "newbalance" [ref=f12e1193] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/newbalance_36/
+      - text: 、
+      - link "高尔夫手套" [ref=f12e1194] [cursor=pointer]:
+        - /url: https://pingjia.taobao.com/category-gaoerfushoutao_688
+      - text: 、
+      - link "adidas" [ref=f12e1195] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/adidas_50/
+      - text: 、
+      - link "nike" [ref=f12e1196] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/nike_27/
+      - text: 等
+      - link "运动鞋" [ref=f12e1197] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/yundongxie/
+      - text: 与
+      - link "篮球鞋" [ref=f12e1198] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/lanqiuxie_5/
+      - text: 购物体验。其中
+      - link "oppo" [ref=f12e1199] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/oppo_279/
+      - text: 、
+      - link "vivo" [ref=f12e1200] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/vivo_291
+      - text: 、
+      - link "电脑" [ref=f12e1201] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/diannao_251/
+      - text: 、
+      - link "按摩椅" [ref=f12e1202] [cursor=pointer]:
+        - /url: https://pingjia.taobao.com/category-anmoyi_280
+      - text: 、
+      - link "iphone17" [ref=f12e1203] [cursor=pointer]:
+        - /url: https://shuma.taobao.com/topic/iphone17_1547/
+      - link "手机" [ref=f12e1204] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/shouji_250/
+      - text: 等
+      - link "热门商品" [ref=f12e1205] [cursor=pointer]:
+        - /url: https://guangtao.taobao.com/
+      - text: 更是赢得了用户口碑和良好的
+      - link "评价" [ref=f12e1206] [cursor=pointer]:
+        - /url: https://pingjia.taobao.com/
+      - text: 。在满足了广大消费者的不同需求，同时也为
+      - link "淘宝卖家" [ref=f12e1207] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/taobaoshangjia_438/
+      - text: 和
+      - link "淘宝店铺" [ref=f12e1208] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/taobaodianpu_399/
+      - text: 提供了一个广阔的
+      - link "商品" [ref=f12e1209] [cursor=pointer]:
+        - /url: https://pcdetail.taobao.com/
+      - text: 销售渠道。
+    - paragraph [ref=f12e1210]:
+      - link "手机淘宝" [ref=f12e1211] [cursor=pointer]:
+        - /url: https://bk.taobao.com/k/shoujitaobao_430/
+      - text: 不定期推出各种活动，并在
+      - link "服装" [ref=f12e1212] [cursor=pointer]:
+        - /url: https://clothing.taobao.com/
+      - text: 、
+      - link "美妆" [ref=f12e1213] [cursor=pointer]:
+        - /url: https://beaut.taobao.com/
+      - text: 、
+      - link "数码" [ref=f12e1214] [cursor=pointer]:
+        - /url: https://shuma.taobao.com/
+      - text: 、
+      - link "游戏" [ref=f12e1215] [cursor=pointer]:
+        - /url: https://tvgame.taobao.com/
+      - text: 等行业为您进行定制化推荐，提供担保交易(先收货后付款)等安全交易保障服务，并由商家提供退货承诺、破损补寄来保障消费者权益，也可以通过
+      - link "淘宝客户端" [ref=f12e1216] [cursor=pointer]:
+        - /url: https://pc.taobao.com/
+      - text: 安心购物的同时还能畅享
+      - link "Tao" [ref=f12e1217] [cursor=pointer]:
+        - /url: https://jp.tao.co/
+      - text: 商城的
+      - link "购物乐趣" [ref=f12e1218] [cursor=pointer]:
+        - /url: https://jianghu.taobao.com/topicId/123402
+      - text: 。
+    - paragraph [ref=f12e1219]:
+      - text: 除了购物以外，淘宝网贴心的为您提供了
+      - link "产品翻译" [ref=f12e1220] [cursor=pointer]:
+        - /url: https://fanyi.taobao.com/
+      - text: /
+      - link "阅读" [ref=f12e1221] [cursor=pointer]:
+        - /url: https://jhbook.taobao.com/
+      - text: /
+      - link "DingTalk" [ref=f12e1222] [cursor=pointer]:
+        - /url: https://www.dingtalk.jp/
+      - text: 等生活娱乐工具，让你购物娱乐两不误！淘宝网不仅是您的购物平台，更是您的生活好伙伴！
+  - generic [ref=f12e1225]:
+    - generic [ref=f12e1226]:
+      - generic [ref=f12e1227]: 百亿补贴红包
+      - generic [ref=f12e1228]:
+        - generic [ref=f12e1229]:
+          - generic [ref=f12e1230]: ￥
+          - generic [ref=f12e1231]: "3"
+        - generic [ref=f12e1232]: 满5可用
+      - generic [ref=f12e1233]:
+        - generic "有效期至 2026-09-05 17:00:48" [ref=f12e1234]
+        - link "开心收下" [ref=f12e1235] [cursor=pointer]:
+          - /url: https://pages-fast.m.taobao.com/wow/z/tbhome/tb-m2pc/bybt-redpacket-ah1924
+    - generic [ref=f12e1237] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=f12e1239]:
+        - tab "" [ref=f12e1241] [cursor=pointer]
+        - generic [ref=f12e1244]:
+          - tab "" [ref=f12e1246] [cursor=pointer]
+          - tab [ref=f12e1250] [cursor=pointer]
+      - generic:
+        - generic:
+          - generic: 
+          - text:  
+  - generic [ref=f12e1256]:
+    - link [ref=f12e1258] [cursor=pointer]:
+      - /url: https://pc.taobao.com?channel=shouye
+    - generic [ref=f12e1260] [cursor=pointer]: "56"
+    - link "32" [ref=f12e1265] [cursor=pointer]:
+      - /url: //cart.taobao.com
+    - link [ref=f12e1269] [cursor=pointer]:
+      - /url: https://rulechannel.taobao.com/?%2FruleHOR=#/ruleHOR
+    - link [ref=f12e1272] [cursor=pointer]:
+      - /url: //consumerservice.taobao.com/online-help
+    - generic [ref=f12e1274] [cursor=pointer]

@@ -1,0 +1,1043 @@
+- generic [ref=f20e1]:
+  - link "欢迎进入 我的淘宝,盲人用户使用操作智能引导，请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。":
+    - /url: javascript:void(0)
+  - generic [ref=f20e3]:
+    - list [ref=f20e4]:
+      - listitem [ref=f20e5]:
+        - generic [ref=f20e6]:
+          - generic:
+            - link "tb1262003_2012" [ref=f20e7] [cursor=pointer]:
+              - /url: //i.taobao.com/my_itaobao?ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+            - generic [ref=f20e8]: 
+      - listitem [ref=f20e10]:
+        - link "网页无障碍" [ref=f20e12] [cursor=pointer]:
+          - /url: javascript:void(0)
+      - listitem [ref=f20e14]:
+        - generic [ref=f20e15]:
+          - generic [ref=f20e16]: Language
+          - generic [ref=f20e17]: 
+    - list [ref=f20e19]:
+      - listitem [ref=f20e20]:
+        - link "淘宝网首页" [ref=f20e23] [cursor=pointer]:
+          - /url: //www.taobao.com/
+      - listitem [ref=f20e24]:
+        - link "已买到的宝贝" [ref=f20e26] [cursor=pointer]:
+          - /url: //buyertrade.taobao.com/trade/itemlist/list_bought_items.htm
+      - listitem [ref=f20e28]:
+        - generic [ref=f20e29]:
+          - link "我的淘宝" [ref=f20e30] [cursor=pointer]:
+            - /url: //i.taobao.com/my_itaobao
+          - generic [ref=f20e32]: 
+      - listitem [ref=f20e34]:
+        - link " 购物车 31" [ref=f20e36] [cursor=pointer]:
+          - /url: //cart.taobao.com/cart.htm?from=mini&ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739
+          - generic [ref=f20e37]: 
+          - generic [ref=f20e38]: 购物车
+          - generic [ref=f20e39]: "31"
+      - listitem [ref=f20e40]:
+        - generic [ref=f20e41]:
+          - link " 收藏夹" [ref=f20e42] [cursor=pointer]:
+            - /url: //i.taobao.com/my_itaobao/itao-tool/collect
+            - generic [ref=f20e43]: 
+            - generic [ref=f20e44]: 收藏夹
+          - generic [ref=f20e45]: 
+      - listitem [ref=f20e47]:
+        - generic [ref=f20e48]:
+          - link "免费开店" [ref=f20e49] [cursor=pointer]:
+            - /url: //ishop.taobao.com/openshop/tb_open_shop_landing.htm?source=tbweb1st
+          - generic [ref=f20e51]: 
+      - listitem [ref=f20e53]:
+        - generic [ref=f20e54]:
+          - link "千牛卖家中心" [ref=f20e55] [cursor=pointer]:
+            - /url: //myseller.taobao.com/home.htm/QnworkbenchHome/
+          - generic [ref=f20e57]: 
+      - listitem [ref=f20e59]:
+        - generic [ref=f20e60]:
+          - link "帮助中心" [ref=f20e61] [cursor=pointer]:
+            - /url: https://consumerservice.taobao.com
+          - generic [ref=f20e63]: 
+  - generic [ref=f20e66]:
+    - generic [ref=f20e70]:
+      - generic [ref=f20e71] [cursor=pointer]: 我的淘宝
+      - search [ref=f20e74]:
+        - generic [ref=f20e75]:
+          - button "搜索" [ref=f20e76] [cursor=pointer]
+          - textbox "请输入搜索文字" [active] [ref=f20e78]: 阳台置物架
+    - generic [ref=f20e81]:
+      - complementary [ref=f20e82]:
+        - listbox [ref=f20e84]:
+          - option "我的淘宝" [ref=f20e85] [cursor=pointer]
+          - option [ref=f20e89] [cursor=pointer]:
+            - link "我的购物车" [ref=f20e92]:
+              - /url: https://cart.taobao.com/cart.htm?spm=a1z02.1.leftnav.cart
+          - option "我的订单 " [ref=f20e93]:
+            - listitem [ref=f20e94] [cursor=pointer]:
+              - generic [ref=f20e95]:
+                - generic [ref=f20e96]: 我的订单
+                - generic [ref=f20e97]: 
+            - listbox [ref=f20e98]:
+              - option [ref=f20e99] [cursor=pointer]:
+                - link "已买到的宝贝" [ref=f20e102]:
+                  - /url: https://buyertrade.taobao.com/trade/itemlist/list_bought_items.htm?spm=a1z02.1.leftnav.boughtitems
+              - option [ref=f20e103] [cursor=pointer]:
+                - link "我的拍卖" [ref=f20e106]:
+                  - /url: https://item-paimai.taobao.com/my_auction/bidding.html?spm=a1z02.1.leftnav.myauction
+              - option [ref=f20e107] [cursor=pointer]:
+                - link "官方集运" [ref=f20e110]:
+                  - /url: https://pcs.i56.taobao.com/user/consolidation/consolidated_goods.htm?from=mytaobaomenu&spm=a1z02.1.leftnav.consolidationgoods
+          - option "我的卡券包" [ref=f20e111] [cursor=pointer]
+          - option "宝贝收藏有降价" [ref=f20e115] [cursor=pointer]
+          - option "关注店铺2家上新" [ref=f20e119] [cursor=pointer]
+          - option "我的足迹" [ref=f20e123] [cursor=pointer]
+          - option "购买过的店铺" [ref=f20e127] [cursor=pointer]
+          - option "我的发票 " [ref=f20e131]:
+            - listitem [ref=f20e132] [cursor=pointer]:
+              - generic [ref=f20e133]:
+                - generic [ref=f20e134]: 我的发票
+                - generic [ref=f20e135]: 
+            - listbox [ref=f20e136]:
+              - option "全部发票" [ref=f20e137] [cursor=pointer]
+          - option [ref=f20e141] [cursor=pointer]:
+            - link "评价管理" [ref=f20e144]:
+              - /url: https://rate.taobao.com/myRate.htm?spm=a1z02.1.leftnav.myRate
+          - option "退款维权 " [ref=f20e145]:
+            - listitem [ref=f20e146] [cursor=pointer]:
+              - generic [ref=f20e147]:
+                - generic [ref=f20e148]: 退款维权
+                - generic [ref=f20e149]: 
+          - option "账户设置 " [ref=f20e150]:
+            - listitem [ref=f20e151] [cursor=pointer]:
+              - generic [ref=f20e152]:
+                - generic [ref=f20e153]: 账户设置
+                - generic [ref=f20e154]: 
+          - option "企业工具 " [ref=f20e155]:
+            - listitem [ref=f20e156] [cursor=pointer]:
+              - generic [ref=f20e157]:
+                - generic [ref=f20e158]: 企业工具
+                - generic [ref=f20e159]: 
+            - listbox [ref=f20e160]:
+              - option "我的报价单" [ref=f20e161] [cursor=pointer]
+              - option "先采后付" [ref=f20e165] [cursor=pointer]
+              - option "我的合同" [ref=f20e169] [cursor=pointer]
+              - option "采购报表" [ref=f20e173] [cursor=pointer]
+      - generic [ref=f20e183]:
+        - generic [ref=f20e185]:
+          - generic [ref=f20e186]:
+            - generic [ref=f20e187] [cursor=pointer]: 编辑资料
+            - generic [ref=f20e190]:
+              - generic "ahafeizhou" [ref=f20e192] [cursor=pointer]
+              - generic [ref=f20e193]:
+                - generic "tb1262003_2012" [ref=f20e194]
+                - generic [ref=f20e195] [cursor=pointer]: 收货地址
+              - generic "领金币购物抵钱花，100金币抵1元" [ref=f20e198] [cursor=pointer]
+          - generic [ref=f20e199]:
+            - generic [ref=f20e200]:
+              - generic [ref=f20e201] [cursor=pointer]:
+                - generic [ref=f20e202]: 红包
+                - generic [ref=f20e203]: "33"
+                - generic [ref=f20e204]: 元
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=f20e205] [cursor=pointer]:
+                - generic [ref=f20e206]: 优惠券
+                - generic [ref=f20e207]: "1"
+                - generic [ref=f20e208]: 张
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=f20e209] [cursor=pointer]:
+                - generic [ref=f20e210]: 淘金币抵
+                - generic [ref=f20e211]: "7.6"
+                - generic [ref=f20e212]: 元
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+                - paragraph [ref=f20e213]
+            - link "3元红包待使用 仅剩23小时 去使用" [ref=f20e221] [cursor=pointer]:
+              - /url: https://pages-fast.m.taobao.com/wow/z/tbhome/tb-m2pc/bybt-redpacket-ah1924
+              - generic [ref=f20e224]:
+                - generic [ref=f20e225]:
+                  - text: 3元
+                  - generic [ref=f20e226]: 红包待使用
+                - generic [ref=f20e227]: 仅剩23小时
+              - generic [ref=f20e228]: 去使用
+        - generic [ref=f20e229]:
+          - generic [ref=f20e231]:
+            - generic [ref=f20e232]:
+              - paragraph [ref=f20e233] [cursor=pointer]: 我的订单
+              - generic [ref=f20e234]: 
+            - generic [ref=f20e235]:
+              - generic [ref=f20e236] [cursor=pointer]:
+                - paragraph [ref=f20e237]: "0"
+                - paragraph [ref=f20e238]: 待付款
+              - generic [ref=f20e239] [cursor=pointer]:
+                - paragraph [ref=f20e240]: "0"
+                - paragraph [ref=f20e241]: 待发货
+              - generic [ref=f20e242] [cursor=pointer]:
+                - paragraph [ref=f20e243]: "0"
+                - paragraph [ref=f20e244]: 待收货
+              - generic [ref=f20e245] [cursor=pointer]:
+                - paragraph [ref=f20e246]: "0"
+                - paragraph [ref=f20e247]: 待评价
+              - generic [ref=f20e248] [cursor=pointer]:
+                - paragraph [ref=f20e249]: "0"
+                - paragraph [ref=f20e250]: 退款/售后
+            - generic [ref=f20e251]:
+              - paragraph [ref=f20e252]: 当前暂无物流信息更新
+              - paragraph [ref=f20e253] [cursor=pointer]:
+                - text: 查看全部订单
+                - generic [ref=f20e254]: 
+          - generic [ref=f20e255]:
+            - generic [ref=f20e257]:
+              - generic [ref=f20e258]:
+                - paragraph [ref=f20e259] [cursor=pointer]: 我的收藏
+                - generic [ref=f20e260]: 
+              - generic [ref=f20e265]:
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?id=623911049204&upStreamPrice=118000&mi_id=0000EfjXkDO_JhWzujPe1gpDMT3Ior2c7I7lwlXVhzkK9Ao
+                      - generic: 忠诚卫士丰田无线carplay凯美瑞亚洲龙卡罗拉雷凌荣放模块usb盒子
+                      - generic: 7851人收藏
+                - link "油漆铁门翻新旧大门改色古铜色金属金粉玫瑰金青香槟金仿喷铜金色 油漆铁门翻新旧大门改色古铜色金属金粉玫瑰金青香槟金仿喷铜金色 收藏后降￥0.69" [ref=f20e827] [cursor=pointer]:
+                  - /url: //item.taobao.com/item.htm?id=695990941557&upStreamPrice=6831&mi_id=0000C1mIapMhOyfHdjyEAq3jHvrXE-7rZkoLURQr4IGwBXI
+                  - img "油漆铁门翻新旧大门改色古铜色金属金粉玫瑰金青香槟金仿喷铜金色" [ref=f20e829]
+                  - generic [ref=f20e830]: 油漆铁门翻新旧大门改色古铜色金属金粉玫瑰金青香槟金仿喷铜金色
+                  - generic [ref=f20e831]: 收藏后降￥0.69
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?id=606458457280&upStreamPrice=13139&mi_id=0000p_U1hJ6abnBZFucfAkN4xdf0ngNhI-tcrARi9OtR-E8
+                      - generic: 颈椎牵引器家用劲椎病医疗脖子托颈医用颈托仪护颈矫正器颈部治疗
+                      - generic: 淘金币抵1.61元
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?id=616436799384&upStreamPrice=31800&mi_id=0000yH37GIj0YWSSYHkI4HbcTMJSOwbqsAqj89IfQe7yLfU
+                      - generic: 儿童电动玩具小汽车四轮可坐人充电遥控手推杆宝宝男女孩1到3岁5
+                      - generic: 6809人收藏
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?id=566378815214&upStreamPrice=42000&mi_id=0000Fqnx8-TzuK10d0ZqbVOsb1EEMnwoyouIMG3USjycluc
+                      - generic: 304不锈钢水塔储水桶蓄水罐立式卧式楼顶太阳能大容量水箱加厚
+                      - generic: 9148人收藏
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?id=623911049204&upStreamPrice=118000&mi_id=0000EfjXkDO_JhWzujPe1gpDMT3Ior2c7I7lwlXVhzkK9Ao
+                      - generic: 忠诚卫士丰田无线carplay凯美瑞亚洲龙卡罗拉雷凌荣放模块usb盒子
+                      - generic: 7851人收藏
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?id=695990941557&upStreamPrice=6831&mi_id=0000C1mIapMhOyfHdjyEAq3jHvrXE-7rZkoLURQr4IGwBXI
+                      - generic: 油漆铁门翻新旧大门改色古铜色金属金粉玫瑰金青香槟金仿喷铜金色
+                      - generic: 收藏后降￥0.69
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?id=606458457280&upStreamPrice=13139&mi_id=0000p_U1hJ6abnBZFucfAkN4xdf0ngNhI-tcrARi9OtR-E8
+                      - generic: 颈椎牵引器家用劲椎病医疗脖子托颈医用颈托仪护颈矫正器颈部治疗
+                      - generic: 淘金币抵1.61元
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?id=616436799384&upStreamPrice=31800&mi_id=0000yH37GIj0YWSSYHkI4HbcTMJSOwbqsAqj89IfQe7yLfU
+                      - generic: 儿童电动玩具小汽车四轮可坐人充电遥控手推杆宝宝男女孩1到3岁5
+                      - generic: 6809人收藏
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?id=566378815214&upStreamPrice=42000&mi_id=0000Fqnx8-TzuK10d0ZqbVOsb1EEMnwoyouIMG3USjycluc
+                      - generic: 304不锈钢水塔储水桶蓄水罐立式卧式楼顶太阳能大容量水箱加厚
+                      - generic: 9148人收藏
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?id=623911049204&upStreamPrice=118000&mi_id=0000EfjXkDO_JhWzujPe1gpDMT3Ior2c7I7lwlXVhzkK9Ao
+                      - generic: 忠诚卫士丰田无线carplay凯美瑞亚洲龙卡罗拉雷凌荣放模块usb盒子
+                      - generic: 7851人收藏
+            - generic [ref=f20e274]:
+              - generic [ref=f20e275]:
+                - paragraph [ref=f20e276] [cursor=pointer]: 我的足迹
+                - generic [ref=f20e277]: 
+              - generic [ref=f20e282]:
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=45800&scm=1007.13982.82927.0&id=882583316506&last_time=1781493044&mi_id=0000xIGDciY2d3JbkS1Ljh9hgpohK1vSqA13ZUHPMIfTFDM
+                      - generic: 【史努比联名】图拉斯三合一随心充3C认证充电宝器可上飞机2026新款快充适用苹果18移动电源Pro自带线插头Max
+                      - generic: ￥458
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=255900&scm=1007.13982.82927.0&id=852709805363&last_time=1788180994&mi_id=0000YCqpO3JxVKfGAW0iFbIUBQjvXbdPz80p9N22RNl0V7k
+                      - generic: 2024新款Apple/苹果Mac Mini M4 迷你小主机二手台式微型电脑设计
+                      - generic: ￥2559
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=780&scm=1007.13982.82927.0&id=609128998581&last_time=1785660650&mi_id=0000ccYUznUcYFmsmTZAfVQREOcqkMRB3uBr_KJcsIatuoU
+                      - generic: 儿童自行车刹车把手童车刹把小孩易刹闸把手刹宝宝车刹车手柄配件
+                      - generic: ￥7.8
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=150000&scm=1007.13982.82927.0&id=786228720569&last_time=1785133668&mi_id=0000wlKHJahIACohok4-uEXwVPKF1HCX5GaWku25kcfdkdE
+                      - generic: 2024新款Apple/苹果 Mac mini M2 芯片苹果电脑台式迷你主机显卡
+                      - generic: ￥1500
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=339000&scm=1007.13982.82927.0&id=746055557208&last_time=1785133649&mi_id=0000cSCXnkGoJvWL4ZliA9145xJRB0yhxC_CCzcWk76Ag8o
+                      - generic: Apple苹果Mac mini迷你主机电脑M1独显台式macmini小主机M2微型M4
+                      - generic: ￥3390
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?scm=1007.13982.82927.0&id=848566645881&last_time=1785133587&mi_id=0000b3SGVKNPElhXEcrtEp4iPh6qS3zBj3cjyMPs1PKtADQ
+                      - generic: Apple/苹果 Mac mini Apple M4 芯片 10 核中央处理器 10 核图形处理器 16GB 统一内存 256GB 固态硬盘
+                      - generic: ￥5999.0
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=61600&scm=1007.13982.82927.0&id=842803222458&last_time=1783827589&mi_id=0000murPP57rIfdnzB-nB4a64Mtxs0Gdt-DRlvN5BDgpd0c
+                      - generic: 白蜡木实木沙发客厅组合大小户型现代简约原木风高箱储物布艺沙发
+                      - generic: ￥616
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=235&scm=1007.13982.82927.0&id=39476974840&last_time=1783688945&mi_id=0000X4NtIeNINnGIJ6qyI-l4Z6UvTX7I7cGfhfN1WgOUAbk
+                      - generic: 船型开关船形圆形翘板电源开关按钮2脚3红绿白黑开孔20mm6A 250V
+                      - generic: ￥2.35
+                - link "白蜡木实木沙发客厅组合大小户型现代简约原木风高箱储物布艺沙发 白蜡木实木沙发客厅组合大小户型现代简约原木风高箱储物布艺沙发 ￥616" [ref=f20e834] [cursor=pointer]:
+                  - /url: //item.taobao.com/item.htm?upStreamPrice=61600&scm=1007.13982.82927.0&id=842803222458&last_time=1783054690&mi_id=0000murPP57rIfdnzB-nB4a64Mtxs0Gdt-DRlvN5BDgpd0c
+                  - img "白蜡木实木沙发客厅组合大小户型现代简约原木风高箱储物布艺沙发" [ref=f20e836]
+                  - generic [ref=f20e837]: 白蜡木实木沙发客厅组合大小户型现代简约原木风高箱储物布艺沙发
+                  - generic [ref=f20e838]: ￥616
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=79400&scm=1007.13982.82927.0&id=692184842735&last_time=1783054483&mi_id=0000MVmeRnXQ5bQz3E9yMpiFMZjZXv5jHJJhAv4AJ9GJwiY
+                      - generic: 华南家具冬夏两用实木储物柜沙发北欧小户型客厅轻奢简约沙发组合
+                      - generic: ￥794
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=79400&scm=1007.13982.82927.0&id=692184842735&last_time=1782737849&mi_id=0000MVmeRnXQ5bQz3E9yMpiFMZjZXv5jHJJhAv4AJ9GJwiY
+                      - generic: 华南家具冬夏两用实木储物柜沙发北欧小户型客厅轻奢简约沙发组合
+                      - generic: ￥794
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=187500&scm=1007.13982.82927.0&id=575267767524&last_time=1782650331&mi_id=0000zcKXal-IGSBGKqC2kQ3Ws7pZamy7dndq41IXa0LtLSU
+                      - generic: 源氏木语实木沙发新中式三人沙发小户型简约现代客厅家用布艺沙发
+                      - generic: ￥1875
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=83500&scm=1007.13982.82927.0&id=1043680198090&last_time=1782649464&mi_id=0000E9dZt-MpoL7bSfGCHEVsfMCh6fFK80Y5yKwvGfYl4TI
+                      - generic: 北欧白蜡木实木沙发组合现代简约小户型高箱储物直排沙发冬夏两用
+                      - generic: ￥835
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=45800&scm=1007.13982.82927.0&id=882583316506&last_time=1781493044&mi_id=0000xIGDciY2d3JbkS1Ljh9hgpohK1vSqA13ZUHPMIfTFDM
+                      - generic: 【史努比联名】图拉斯三合一随心充3C认证充电宝器可上飞机2026新款快充适用苹果18移动电源Pro自带线插头Max
+                      - generic: ￥458
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=255900&scm=1007.13982.82927.0&id=852709805363&last_time=1788180994&mi_id=0000YCqpO3JxVKfGAW0iFbIUBQjvXbdPz80p9N22RNl0V7k
+                      - generic: 2024新款Apple/苹果Mac Mini M4 迷你小主机二手台式微型电脑设计
+                      - generic: ￥2559
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=780&scm=1007.13982.82927.0&id=609128998581&last_time=1785660650&mi_id=0000ccYUznUcYFmsmTZAfVQREOcqkMRB3uBr_KJcsIatuoU
+                      - generic: 儿童自行车刹车把手童车刹把小孩易刹闸把手刹宝宝车刹车手柄配件
+                      - generic: ￥7.8
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=150000&scm=1007.13982.82927.0&id=786228720569&last_time=1785133668&mi_id=0000wlKHJahIACohok4-uEXwVPKF1HCX5GaWku25kcfdkdE
+                      - generic: 2024新款Apple/苹果 Mac mini M2 芯片苹果电脑台式迷你主机显卡
+                      - generic: ￥1500
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=339000&scm=1007.13982.82927.0&id=746055557208&last_time=1785133649&mi_id=0000cSCXnkGoJvWL4ZliA9145xJRB0yhxC_CCzcWk76Ag8o
+                      - generic: Apple苹果Mac mini迷你主机电脑M1独显台式macmini小主机M2微型M4
+                      - generic: ￥3390
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?scm=1007.13982.82927.0&id=848566645881&last_time=1785133587&mi_id=0000b3SGVKNPElhXEcrtEp4iPh6qS3zBj3cjyMPs1PKtADQ
+                      - generic: Apple/苹果 Mac mini Apple M4 芯片 10 核中央处理器 10 核图形处理器 16GB 统一内存 256GB 固态硬盘
+                      - generic: ￥5999.0
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=61600&scm=1007.13982.82927.0&id=842803222458&last_time=1783827589&mi_id=0000murPP57rIfdnzB-nB4a64Mtxs0Gdt-DRlvN5BDgpd0c
+                      - generic: 白蜡木实木沙发客厅组合大小户型现代简约原木风高箱储物布艺沙发
+                      - generic: ￥616
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=235&scm=1007.13982.82927.0&id=39476974840&last_time=1783688945&mi_id=0000X4NtIeNINnGIJ6qyI-l4Z6UvTX7I7cGfhfN1WgOUAbk
+                      - generic: 船型开关船形圆形翘板电源开关按钮2脚3红绿白黑开孔20mm6A 250V
+                      - generic: ￥2.35
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=61600&scm=1007.13982.82927.0&id=842803222458&last_time=1783054690&mi_id=0000murPP57rIfdnzB-nB4a64Mtxs0Gdt-DRlvN5BDgpd0c
+                      - generic: 白蜡木实木沙发客厅组合大小户型现代简约原木风高箱储物布艺沙发
+                      - generic: ￥616
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=79400&scm=1007.13982.82927.0&id=692184842735&last_time=1783054483&mi_id=0000MVmeRnXQ5bQz3E9yMpiFMZjZXv5jHJJhAv4AJ9GJwiY
+                      - generic: 华南家具冬夏两用实木储物柜沙发北欧小户型客厅轻奢简约沙发组合
+                      - generic: ￥794
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=79400&scm=1007.13982.82927.0&id=692184842735&last_time=1782737849&mi_id=0000MVmeRnXQ5bQz3E9yMpiFMZjZXv5jHJJhAv4AJ9GJwiY
+                      - generic: 华南家具冬夏两用实木储物柜沙发北欧小户型客厅轻奢简约沙发组合
+                      - generic: ￥794
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=187500&scm=1007.13982.82927.0&id=575267767524&last_time=1782650331&mi_id=0000zcKXal-IGSBGKqC2kQ3Ws7pZamy7dndq41IXa0LtLSU
+                      - generic: 源氏木语实木沙发新中式三人沙发小户型简约现代客厅家用布艺沙发
+                      - generic: ￥1875
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=83500&scm=1007.13982.82927.0&id=1043680198090&last_time=1782649464&mi_id=0000E9dZt-MpoL7bSfGCHEVsfMCh6fFK80Y5yKwvGfYl4TI
+                      - generic: 北欧白蜡木实木沙发组合现代简约小户型高箱储物直排沙发冬夏两用
+                      - generic: ￥835
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: //item.taobao.com/item.htm?upStreamPrice=45800&scm=1007.13982.82927.0&id=882583316506&last_time=1781493044&mi_id=0000xIGDciY2d3JbkS1Ljh9hgpohK1vSqA13ZUHPMIfTFDM
+                      - generic: 【史努比联名】图拉斯三合一随心充3C认证充电宝器可上飞机2026新款快充适用苹果18移动电源Pro自带线插头Max
+                      - generic: ￥458
+            - generic [ref=f20e291]:
+              - generic [ref=f20e292]:
+                - paragraph [ref=f20e293] [cursor=pointer]: 购物车
+                - generic [ref=f20e294]: 
+              - generic [ref=f20e299]:
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=680272778252&from=cart&skuId=5142677238588&mi_id=0000gMqLgjDXGFZczxZDS5XEy4GhfVC1XAQ9LOzd5e-e7dM
+                      - generic: 四脚雨棚摆摊户外帐篷围布挡风商用款专用遮雨棚四角太阳大伞伸缩
+                      - generic: ￥496
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=842803222458&from=cart&skuId=6175710970069&upStreamPrice=370360&mi_id=0000jvbnAMh-cJ4htr1f_JcpQHtUUMy9ZB0P4PiBYNz06sU
+                      - generic: 白蜡木实木沙发客厅组合大小户型现代简约原木风高箱储物布艺沙发
+                      - generic: ￥4593.6
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=692184842735&from=cart&skuId=4914189384299&upStreamPrice=203100&mi_id=0000bSmhI01tszTm5n6fbt0WQxxTsUBHFdZTH1ADq2o7rIU
+                      - generic: 华南家具冬夏两用实木储物柜沙发北欧小户型客厅轻奢简约沙发组合
+                      - generic: ￥2031
+                - link "床边柜床尾柜窄夹缝柜置物柜收纳柜长条柜缝隙墙边柜矮柜定制柜子 床边柜床尾柜窄夹缝柜置物柜收纳柜长条柜缝隙墙边柜矮柜定制柜子 ￥248" [ref=f20e841] [cursor=pointer]:
+                  - /url: https://item.taobao.com/item.htm?id=843782505211&from=cart&skuId=5787126006847&upStreamPrice=20056&mi_id=0000jOLErdKk3oQ18cFOJZdKTy_CO3IFnB9713Ubb74TEeg
+                  - img "床边柜床尾柜窄夹缝柜置物柜收纳柜长条柜缝隙墙边柜矮柜定制柜子" [ref=f20e843]
+                  - generic [ref=f20e844]: 床边柜床尾柜窄夹缝柜置物柜收纳柜长条柜缝隙墙边柜矮柜定制柜子
+                  - generic [ref=f20e845]: ￥248
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=973660228201&from=cart&skuId=6069565021845&upStreamPrice=6133&mi_id=00003U8IU7LDlWb3Aqs0uhnayc58v1EagpJzCC02ycuYO_4
+                      - generic: 幼儿园简易儿童衣帽架落地卧室家用挂衣架衣服架子迷你小型晾衣架
+                      - generic: ￥99
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=965879716922&from=cart&skuId=6072700647495&upStreamPrice=6760&mi_id=00000hlTOkA7tehadYwZQteD5YqSR_k8kM5PuXka889VqYU
+                      - generic: 飘窗升降晒衣架窗台晾衣架家用衣柜婴儿衣物被子小阳台折叠挂衣架
+                      - generic: ￥88
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=886474437563&from=cart&skuId=6032187060938&upStreamPrice=19150&mi_id=000041cVDcvuKykFDPG6FVK1J8Rv6agt9zyVA8T9xw98dYU
+                      - generic: 拼接床加宽床边拼接神器大人可睡实木带护栏儿童床婴儿床拼接大床
+                      - generic: ￥246.5
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=999832897272&from=cart&skuId=6150480443035&upStreamPrice=880&mi_id=0000UynldvAQ12RDwC07Vt6fi9nGjs7LzU5tE2mcAmkfwdg
+                      - generic: Q版走路带轮子动物立体气球狗卡通儿童生日装饰场景布置户外摆摊
+                      - generic: ￥12.71
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=731926282106&from=cart&skuId=5938321573380&upStreamPrice=1990&mi_id=0000oYW8d80C1LaNgmUnMfphKvA6PMK6WykxX1gkyQj8xN0
+                      - generic: 山姆儿童相机打印纸镭射不干胶彩色可粘贴纸科物酷迪士尼冰雪奇缘拍立得相纸高清彩印安全透明57*25mm热敏纸
+                      - generic: ￥39.9
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=828694131611&from=cart&skuId=5729730635154&upStreamPrice=1200&mi_id=0000R8HltPF2bIoQST6JvpUFr8RyXEqhXzLGLDhT2TEW95o
+                      - generic: 柜子遮挡帘厨房杂物遮丑帘衣橱柜无门置物架防尘帘免打孔滑轨布帘
+                      - generic: ￥13
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=828694131611&from=cart&skuId=5559230560834&upStreamPrice=2200&mi_id=0000R8HltPF2bIoQST6JvpUFr8RyXEqhXzLGLDhT2TEW95o
+                      - generic: 柜子遮挡帘厨房杂物遮丑帘衣橱柜无门置物架防尘帘免打孔滑轨布帘
+                      - generic: ￥23
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=828694131611&from=cart&skuId=5559230560823&upStreamPrice=2200&mi_id=0000R8HltPF2bIoQST6JvpUFr8RyXEqhXzLGLDhT2TEW95o
+                      - generic: 柜子遮挡帘厨房杂物遮丑帘衣橱柜无门置物架防尘帘免打孔滑轨布帘
+                      - generic: ￥23
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=916015718742&from=cart&skuId=5785149873596&upStreamPrice=68440&mi_id=0000fJlBcsd1ovP2NDzHbG2rf-C0F_tiG3vaQgUsoIVIm4c
+                      - generic: 全实木床头柜置物架书架一体窄款夹缝床边柜卧室小柜子25超窄储物
+                      - generic: ￥858
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=774768580819&from=cart&skuId=5298747668294&upStreamPrice=13800&mi_id=0000nYM1KpXLplPhxS7k9_rW8d8cj6m6XEK0PWApRp5fv64
+                      - generic: 适用于小米IH电饭煲3升4L内胆米家微压压力IH电饭锅3L4升内锅配件
+                      - generic: ￥163
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=893647376900&from=cart&skuId=6175594927525&mi_id=0000U1v-Fr8V9700U_CPW1wMk2_6VG63bwtOVJtePboFsUs
+                      - generic: 实木床头柜靠墙窄柜子床尾缝隙柜长条床边柜榻榻米夹缝储物柜置物
+                      - generic: ￥601
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=899551191857&from=cart&skuId=6023818398029&mi_id=0000BkStMtRI8CZ_9x0S_1qGKyQ2qt9WA_OK9RZSzGNNDzM
+                      - generic: 床头柜家用卧室2026新款小型奶油风轻奢高级床边置物收纳储物柜子
+                      - generic: ￥793
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=894736070978&from=cart&skuId=5746493757181&mi_id=00005WRSjljJ5Kn-IhjVubkdkerdbozdJ-0xYo1mXpLCu5M
+                      - generic: 全友家居家奶油风小型储物柜用卧室床边简约置物柜床头柜国家补贴
+                      - generic: ￥9999
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=680272778252&from=cart&skuId=5142677238595&mi_id=0000gMqLgjDXGFZczxZDS5XEy4GhfVC1XAQ9LOzd5e-e7dM
+                      - generic: 四脚雨棚摆摊户外帐篷围布挡风商用款专用遮雨棚四角太阳大伞伸缩
+                      - generic: ￥496
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=680272778252&from=cart&skuId=5142677238588&mi_id=0000gMqLgjDXGFZczxZDS5XEy4GhfVC1XAQ9LOzd5e-e7dM
+                      - generic: 四脚雨棚摆摊户外帐篷围布挡风商用款专用遮雨棚四角太阳大伞伸缩
+                      - generic: ￥496
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=842803222458&from=cart&skuId=6175710970069&upStreamPrice=370360&mi_id=0000jvbnAMh-cJ4htr1f_JcpQHtUUMy9ZB0P4PiBYNz06sU
+                      - generic: 白蜡木实木沙发客厅组合大小户型现代简约原木风高箱储物布艺沙发
+                      - generic: ￥4593.6
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=692184842735&from=cart&skuId=4914189384299&upStreamPrice=203100&mi_id=0000bSmhI01tszTm5n6fbt0WQxxTsUBHFdZTH1ADq2o7rIU
+                      - generic: 华南家具冬夏两用实木储物柜沙发北欧小户型客厅轻奢简约沙发组合
+                      - generic: ￥2031
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=843782505211&from=cart&skuId=5787126006847&upStreamPrice=20056&mi_id=0000jOLErdKk3oQ18cFOJZdKTy_CO3IFnB9713Ubb74TEeg
+                      - generic: 床边柜床尾柜窄夹缝柜置物柜收纳柜长条柜缝隙墙边柜矮柜定制柜子
+                      - generic: ￥248
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=973660228201&from=cart&skuId=6069565021845&upStreamPrice=6133&mi_id=00003U8IU7LDlWb3Aqs0uhnayc58v1EagpJzCC02ycuYO_4
+                      - generic: 幼儿园简易儿童衣帽架落地卧室家用挂衣架衣服架子迷你小型晾衣架
+                      - generic: ￥99
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=965879716922&from=cart&skuId=6072700647495&upStreamPrice=6760&mi_id=00000hlTOkA7tehadYwZQteD5YqSR_k8kM5PuXka889VqYU
+                      - generic: 飘窗升降晒衣架窗台晾衣架家用衣柜婴儿衣物被子小阳台折叠挂衣架
+                      - generic: ￥88
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=886474437563&from=cart&skuId=6032187060938&upStreamPrice=19150&mi_id=000041cVDcvuKykFDPG6FVK1J8Rv6agt9zyVA8T9xw98dYU
+                      - generic: 拼接床加宽床边拼接神器大人可睡实木带护栏儿童床婴儿床拼接大床
+                      - generic: ￥246.5
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=999832897272&from=cart&skuId=6150480443035&upStreamPrice=880&mi_id=0000UynldvAQ12RDwC07Vt6fi9nGjs7LzU5tE2mcAmkfwdg
+                      - generic: Q版走路带轮子动物立体气球狗卡通儿童生日装饰场景布置户外摆摊
+                      - generic: ￥12.71
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=731926282106&from=cart&skuId=5938321573380&upStreamPrice=1990&mi_id=0000oYW8d80C1LaNgmUnMfphKvA6PMK6WykxX1gkyQj8xN0
+                      - generic: 山姆儿童相机打印纸镭射不干胶彩色可粘贴纸科物酷迪士尼冰雪奇缘拍立得相纸高清彩印安全透明57*25mm热敏纸
+                      - generic: ￥39.9
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=828694131611&from=cart&skuId=5729730635154&upStreamPrice=1200&mi_id=0000R8HltPF2bIoQST6JvpUFr8RyXEqhXzLGLDhT2TEW95o
+                      - generic: 柜子遮挡帘厨房杂物遮丑帘衣橱柜无门置物架防尘帘免打孔滑轨布帘
+                      - generic: ￥13
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=828694131611&from=cart&skuId=5559230560834&upStreamPrice=2200&mi_id=0000R8HltPF2bIoQST6JvpUFr8RyXEqhXzLGLDhT2TEW95o
+                      - generic: 柜子遮挡帘厨房杂物遮丑帘衣橱柜无门置物架防尘帘免打孔滑轨布帘
+                      - generic: ￥23
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=828694131611&from=cart&skuId=5559230560823&upStreamPrice=2200&mi_id=0000R8HltPF2bIoQST6JvpUFr8RyXEqhXzLGLDhT2TEW95o
+                      - generic: 柜子遮挡帘厨房杂物遮丑帘衣橱柜无门置物架防尘帘免打孔滑轨布帘
+                      - generic: ￥23
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=916015718742&from=cart&skuId=5785149873596&upStreamPrice=68440&mi_id=0000fJlBcsd1ovP2NDzHbG2rf-C0F_tiG3vaQgUsoIVIm4c
+                      - generic: 全实木床头柜置物架书架一体窄款夹缝床边柜卧室小柜子25超窄储物
+                      - generic: ￥858
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=774768580819&from=cart&skuId=5298747668294&upStreamPrice=13800&mi_id=0000nYM1KpXLplPhxS7k9_rW8d8cj6m6XEK0PWApRp5fv64
+                      - generic: 适用于小米IH电饭煲3升4L内胆米家微压压力IH电饭锅3L4升内锅配件
+                      - generic: ￥163
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=893647376900&from=cart&skuId=6175594927525&mi_id=0000U1v-Fr8V9700U_CPW1wMk2_6VG63bwtOVJtePboFsUs
+                      - generic: 实木床头柜靠墙窄柜子床尾缝隙柜长条床边柜榻榻米夹缝储物柜置物
+                      - generic: ￥601
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=899551191857&from=cart&skuId=6023818398029&mi_id=0000BkStMtRI8CZ_9x0S_1qGKyQ2qt9WA_OK9RZSzGNNDzM
+                      - generic: 床头柜家用卧室2026新款小型奶油风轻奢高级床边置物收纳储物柜子
+                      - generic: ￥793
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=894736070978&from=cart&skuId=5746493757181&mi_id=00005WRSjljJ5Kn-IhjVubkdkerdbozdJ-0xYo1mXpLCu5M
+                      - generic: 全友家居家奶油风小型储物柜用卧室床边简约置物柜床头柜国家补贴
+                      - generic: ￥9999
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=680272778252&from=cart&skuId=5142677238595&mi_id=0000gMqLgjDXGFZczxZDS5XEy4GhfVC1XAQ9LOzd5e-e7dM
+                      - generic: 四脚雨棚摆摊户外帐篷围布挡风商用款专用遮雨棚四角太阳大伞伸缩
+                      - generic: ￥496
+                - generic [aria-hidden]:
+                  - generic:
+                    - link:
+                      - /url: https://item.taobao.com/item.htm?id=680272778252&from=cart&skuId=5142677238588&mi_id=0000gMqLgjDXGFZczxZDS5XEy4GhfVC1XAQ9LOzd5e-e7dM
+                      - generic: 四脚雨棚摆摊户外帐篷围布挡风商用款专用遮雨棚四角太阳大伞伸缩
+                      - generic: ￥496
+        - generic [ref=f20e308]:
+          - generic [ref=f20e309]:
+            - img "常买常逛" [ref=f20e311]
+            - generic [ref=f20e312]: 常买常逛
+            - generic [ref=f20e313]: 推荐常看商品
+            - generic [ref=f20e314] [cursor=pointer]: 不感兴趣
+          - generic [ref=f20e315]:
+            - generic [ref=f20e316]:
+              - generic [ref=f20e317]:
+                - link "删除 ¥2559 最近浏览" [ref=f20e318] [cursor=pointer]:
+                  - /url: //item.taobao.com/item.htm?id=852709805363&xxc=home_recommend&scm=1007.55993.466417.0&pvid=9d7d4c62-2852-43fe-ab22-f29fb0d16843&skuId=6078619855564&mi_id=0000WmnLU-W0hty6UxJ8VuoNpx65GLoNezZTFTSc01L4gss
+                  - generic [ref=f20e321]:
+                    - img "删除"
+                  - generic [ref=f20e322]:
+                    - generic [ref=f20e323]: ¥2559
+                    - generic [ref=f20e326]: 最近浏览
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=f20e328]:
+                - link "删除 ¥2.01 热销爆款" [ref=f20e329] [cursor=pointer]:
+                  - /url: //item.taobao.com/item.htm?id=1075220805368&xxc=home_recommend&scm=1007.55993.466417.0&pvid=9d7d4c62-2852-43fe-ab22-f29fb0d16843&skuId=6292809095755&mi_id=0000x3T8VEP_7DfHufTrVn4qdOvwv0YEvIgEx_FrOWCB9mE
+                  - generic [ref=f20e332]:
+                    - img "删除"
+                  - generic [ref=f20e333]:
+                    - generic [ref=f20e334]: ¥2.01
+                    - generic [ref=f20e337]: 热销爆款
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=f20e339]:
+                - link "删除 ¥1 热销爆款" [ref=f20e340] [cursor=pointer]:
+                  - /url: //item.taobao.com/item.htm?id=766090521870&xxc=home_recommend&scm=1007.55993.466417.0&pvid=9d7d4c62-2852-43fe-ab22-f29fb0d16843&mi_id=0000WKjWAJCgVx9CMekDNmOv-1RDGNA9UfOnf1dxEaUYsow
+                  - generic [ref=f20e343]:
+                    - img "删除"
+                  - generic [ref=f20e344]:
+                    - generic [ref=f20e345]: ¥1
+                    - generic [ref=f20e348]: 热销爆款
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=f20e350]:
+                - link "删除 ¥2.01 热销爆款" [ref=f20e351] [cursor=pointer]:
+                  - /url: //item.taobao.com/item.htm?id=1011183974271&xxc=home_recommend&scm=1007.55993.466417.0&pvid=9d7d4c62-2852-43fe-ab22-f29fb0d16843&skuId=6012861564254&mi_id=0000aZfRyTDpZ4eChSTgrcXCc_zAZ7oWrN90NAodLzdkbjQ
+                  - generic [ref=f20e354]:
+                    - img "删除"
+                  - generic [ref=f20e355]:
+                    - generic [ref=f20e356]: ¥2.01
+                    - generic [ref=f20e359]: 热销爆款
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=f20e361]:
+                - link "删除 ¥23.9 热销爆款" [ref=f20e362] [cursor=pointer]:
+                  - /url: //item.taobao.com/item.htm?id=673171147790&xxc=home_recommend&scm=1007.55993.466417.0&pvid=9d7d4c62-2852-43fe-ab22-f29fb0d16843&skuId=4845057537148&mi_id=0000RYowb3XZhBT6LXA5drrP8rwKxRCwsncmcKUwJH-h0wk
+                  - generic [ref=f20e365]:
+                    - img "删除"
+                  - generic [ref=f20e366]:
+                    - generic [ref=f20e367]: ¥23.9
+                    - generic [ref=f20e370]: 热销爆款
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=f20e372]:
+                - link "删除 ¥26.8 热销爆款" [ref=f20e373] [cursor=pointer]:
+                  - /url: //item.taobao.com/item.htm?id=724209280945&xxc=home_recommend&scm=1007.55993.466417.0&pvid=9d7d4c62-2852-43fe-ab22-f29fb0d16843&skuId=6270706075376&mi_id=0000Q-FHT-aTl8SiC0GEV9H_z6JWdoC31PCM9PDrLH6VibY
+                  - generic [ref=f20e376]:
+                    - img "删除"
+                  - generic [ref=f20e377]:
+                    - generic [ref=f20e378]: ¥26.8
+                    - generic [ref=f20e381]: 热销爆款
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=f20e383]:
+                - link "删除 ¥1.51 热销爆款" [ref=f20e384] [cursor=pointer]:
+                  - /url: //item.taobao.com/item.htm?id=1077429957595&xxc=home_recommend&scm=1007.55993.466417.0&pvid=9d7d4c62-2852-43fe-ab22-f29fb0d16843&skuId=6293044854767&mi_id=0000_QW1NIGg0nTubyBY5IwUps1JHSwzz8rV5xduzV-2dkI
+                  - generic [ref=f20e387]:
+                    - img "删除"
+                  - generic [ref=f20e388]:
+                    - generic [ref=f20e389]: ¥1.51
+                    - generic [ref=f20e392]: 热销爆款
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=f20e394]:
+                - link "删除 ¥13.9 热销爆款" [ref=f20e395] [cursor=pointer]:
+                  - /url: //item.taobao.com/item.htm?id=1078204219810&xxc=home_recommend&scm=1007.55993.466417.0&pvid=9d7d4c62-2852-43fe-ab22-f29fb0d16843&skuId=6296619086373&mi_id=00009MHCRisAUdvB03l90dh-QJUByi6p0xaKITsMU5cyTX8
+                  - generic [ref=f20e398]:
+                    - img "删除"
+                  - generic [ref=f20e399]:
+                    - generic [ref=f20e400]: ¥13.9
+                    - generic [ref=f20e403]: 热销爆款
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=f20e405]:
+                - link "删除 ¥9.59 热销爆款" [ref=f20e406] [cursor=pointer]:
+                  - /url: //item.taobao.com/item.htm?id=1070979650596&xxc=home_recommend&scm=1007.55993.466417.0&pvid=9d7d4c62-2852-43fe-ab22-f29fb0d16843&skuId=6291247759971&mi_id=0000VKjayta4DKaTyhmNM0hLZG9h4xWJ4je8Xs2ouNU-y6A
+                  - generic [ref=f20e409]:
+                    - img "删除"
+                  - generic [ref=f20e410]:
+                    - generic [ref=f20e411]: ¥9.59
+                    - generic [ref=f20e414]: 热销爆款
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+              - generic [ref=f20e416]:
+                - link "删除 ¥6.68 热销爆款" [ref=f20e417] [cursor=pointer]:
+                  - /url: //item.taobao.com/item.htm?id=1075744953552&xxc=home_recommend&scm=1007.55993.466417.0&pvid=9d7d4c62-2852-43fe-ab22-f29fb0d16843&skuId=6126014024554&mi_id=0000dO0KX_kfoQdKZiBtrLiG9Wfno7Ex2zMFM8xgvH-JKPc
+                  - generic [ref=f20e420]:
+                    - img "删除"
+                  - generic [ref=f20e421]:
+                    - generic [ref=f20e422]: ¥6.68
+                    - generic [ref=f20e425]: 热销爆款
+                - generic:
+                  - button "下载"
+                  - button "选品"
+                  - button "搜图"
+            - generic [ref=f20e428] [cursor=pointer]:
+              - img "right"
+        - generic [ref=f20e431]:
+          - generic [ref=f20e432]: 猜你喜欢
+          - generic [ref=f20e433]:
+            - link "2024新款Apple/苹果Mac Mini M4 迷你小主机二手台式微型电脑设计 退货宝 包邮 ¥ 2559 200+人购买" [ref=f20e436] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=852709805363&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6078619855564&mi_id=0000Lmyb7p-rs_UlYCD0HsU5lHCs9LdADv5K4nTOzG-EMCg&utparam=%7B%22item_ctr%22%3A0.6279327869415283%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%222559%22%2C%22item_cvr%22%3A0.00014093518257141113%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22c882027d1fb1f6926e7f0e97a70d0228%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A852709805363%7D&
+              - generic [ref=f20e439]: 2024新款Apple/苹果Mac Mini M4 迷你小主机二手台式微型电脑设计
+              - generic [ref=f20e441]:
+                - generic [ref=f20e442]: 退货宝
+                - generic [ref=f20e443]: 包邮
+              - generic [ref=f20e444]:
+                - generic [ref=f20e445]: ¥
+                - generic [ref=f20e446]: "2559"
+                - generic [ref=f20e447]: 200+人购买
+            - link "全新适配vivopad6pro岚鸟平板保护套官方保护壳 多种支撑智能休眠唤醒 现货发 包邮 ¥ 59.9 6人购买" [ref=f20e450] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=1074072264775&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6122414760523&mi_id=0000TJym2elrnO4pOeEgf7joj_arTmhXc_To3Uju6CLbc3o&utparam=%7B%22item_ctr%22%3A0.18928280472755432%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%2259.9%22%2C%22item_cvr%22%3A0.008644163608551025%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22bdc04bb68c219ea64723f54dc6535b79%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A1074072264775%7D&
+              - generic [ref=f20e453]: 全新适配vivopad6pro岚鸟平板保护套官方保护壳 多种支撑智能休眠唤醒 现货发
+              - generic [ref=f20e455]: 包邮
+              - generic [ref=f20e457]:
+                - generic [ref=f20e458]: ¥
+                - generic [ref=f20e459]: "59.9"
+                - generic [ref=f20e460]: 6人购买
+            - link "salomon萨洛蒙城市户外运动时尚潮流中性款休闲运动鞋XT-EVO 退货宝 包邮 ¥ 1398" [ref=f20e463] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=1076049252868&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6128232085387&mi_id=0000kkm-hbaV4_Wz4ck_3t__G1NGqsWE17b2dQa9mPWTUW4&utparam=%7B%22item_ctr%22%3A0.13386404514312744%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%221398%22%2C%22item_cvr%22%3A0.000616610050201416%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%2224a285d11920f8fc0bccb2965511c000%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A1076049252868%7D&
+              - generic [ref=f20e466]: salomon萨洛蒙城市户外运动时尚潮流中性款休闲运动鞋XT-EVO
+              - generic [ref=f20e470]:
+                - generic [ref=f20e471]: 退货宝
+                - generic [ref=f20e472]: 包邮
+              - generic [ref=f20e473]:
+                - generic [ref=f20e474]: ¥
+                - generic [ref=f20e475]: "1398"
+            - link "吉的堡儿童卫衣秋冬白堡服装订制纯棉幼儿园老师校服橘色裤子印字 已抵0.69元 包邮 ¥ 32.21 1000+人购买" [ref=f20e478] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=1000042547118&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6073255568642&mi_id=0000WN48F2acV5Ehi3W3gc-MfS8lz7oV3loRz9zpXORDtXc&utparam=%7B%22item_ctr%22%3A0.12826812267303467%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%2232.21%22%2C%22item_cvr%22%3A0.0298730731010437%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22f7bcfb2b3d12073680b1d55789e1c3f7%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A1000042547118%7D&
+              - generic [ref=f20e481]: 吉的堡儿童卫衣秋冬白堡服装订制纯棉幼儿园老师校服橘色裤子印字
+              - generic [ref=f20e483]:
+                - generic [ref=f20e484]: 已抵0.69元
+                - generic [ref=f20e485]: 包邮
+              - generic [ref=f20e486]:
+                - generic [ref=f20e487]: ¥
+                - generic [ref=f20e488]: "32.21"
+                - generic [ref=f20e489]: 1000+人购买
+            - link "Apple/苹果Mac Mini M4芯片 二手小主机迷你台式办公设计剪辑电脑 退货宝 包邮 ¥ 2799 73人购买" [ref=f20e492] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=981919320736&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6105079023435&mi_id=0000BCY7kJHo6tdj6wL1JfFY_en7K5ChYxWOUYDfkHpZnzc&utparam=%7B%22item_ctr%22%3A0.37442442774772644%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%222799%22%2C%22item_cvr%22%3A0.00007545948028564453%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%220c7115e368bc4800ddad7654431caf84%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A981919320736%7D&
+              - generic [ref=f20e495]: Apple/苹果Mac Mini M4芯片 二手小主机迷你台式办公设计剪辑电脑
+              - generic [ref=f20e497]:
+                - generic [ref=f20e498]: 退货宝
+                - generic [ref=f20e499]: 包邮
+              - generic [ref=f20e500]:
+                - generic [ref=f20e501]: ¥
+                - generic [ref=f20e502]: "2799"
+                - generic [ref=f20e503]: 73人购买
+            - link "百乐教师节礼物P500果汁笔老师用批改作业学生划重点红笔组合套装 退货宝 包邮 ¥ 24.65 14人购买" [ref=f20e506] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=1074005534870&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6294427486829&mi_id=0000etL9EYVL0kW5kD-BmAs9qiQsRpiOYr6SjEijF4fMNBU&utparam=%7B%22item_ctr%22%3A0.05882364511489868%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%2224.65%22%2C%22item_cvr%22%3A0.02498781681060791%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22d40e11f5f3dcfaf575511ec5caabaad0%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A1074005534870%7D&
+              - generic [ref=f20e509]: 百乐教师节礼物P500果汁笔老师用批改作业学生划重点红笔组合套装
+              - generic [ref=f20e511]:
+                - generic [ref=f20e512]: 退货宝
+                - generic [ref=f20e513]: 包邮
+              - generic [ref=f20e514]:
+                - generic [ref=f20e515]: ¥
+                - generic [ref=f20e516]: "24.65"
+                - generic [ref=f20e517]: 14人购买
+            - link "公熊家具储物实木沙发新款客厅新中式沙发小户型组合三人直排沙发 实木储物沙发热销榜·第8名 ¥ 629 200+人购买" [ref=f20e520] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=919516576193&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&umpChannel=bybtqdyh&u_channel=bybtqdyh&skuId=5956086607489&mi_id=0000hmJaZM4KZkApl_rRyhWs8YwTpqIO-QGNtFaiHGB4Ao4&utparam=%7B%22item_ctr%22%3A0.05752059817314148%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%22629%22%2C%22item_cvr%22%3A0.0009110569953918457%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22854d35ca41f601e23defe01c75f379c8%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A919516576193%7D&
+              - generic [ref=f20e523]: 公熊家具储物实木沙发新款客厅新中式沙发小户型组合三人直排沙发
+              - generic [ref=f20e527]: 实木储物沙发热销榜·第8名
+              - generic [ref=f20e529]:
+                - generic [ref=f20e530]: ¥
+                - generic [ref=f20e531]: "629"
+                - generic [ref=f20e532]: 200+人购买
+            - link "雅培全安素900g全营养配方食品麦香味蛋白粉中老年奶粉 退货宝 包邮 ¥ 249 1000+人购买" [ref=f20e535] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=945061225941&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=5849536833992&mi_id=0000mdJjHbncC4A2OwgjGTIEzc-WDxts4JOZOV12C96hIr4&utparam=%7B%22item_ctr%22%3A0.04582139849662781%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%22249%22%2C%22item_cvr%22%3A0.013070821762084961%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%223077ce9c3d4b39fc677673f6be426103%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A945061225941%7D&
+              - generic [ref=f20e538]: 雅培全安素900g全营养配方食品麦香味蛋白粉中老年奶粉
+              - generic [ref=f20e540]:
+                - generic [ref=f20e541]: 退货宝
+                - generic [ref=f20e542]: 包邮
+              - generic [ref=f20e543]:
+                - generic [ref=f20e544]: ¥
+                - generic [ref=f20e545]: "249"
+                - generic [ref=f20e546]: 1000+人购买
+            - link "24新款苹果主机mac mini M4/M2/M1 家用办公 迷你游戏机 台式电脑 退货宝 包邮 ¥ 1298.6 31人购买" [ref=f20e549] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=524336859684&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6114941172419&mi_id=0000pDqEfDeqdM-vXHqgEbmFIo7GZMunrqTzTLezEg0HQo8&utparam=%7B%22item_ctr%22%3A0.36480027437210083%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%221298.6%22%2C%22item_cvr%22%3A0.000206679105758667%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22de95db093ac9c7d28462d7e21c3048fb%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A524336859684%7D&
+              - generic [ref=f20e552]: 24新款苹果主机mac mini M4/M2/M1 家用办公 迷你游戏机 台式电脑
+              - generic [ref=f20e554]:
+                - generic [ref=f20e555]: 退货宝
+                - generic [ref=f20e556]: 包邮
+              - generic [ref=f20e557]:
+                - generic [ref=f20e558]: ¥
+                - generic [ref=f20e559]: "1298.6"
+                - generic [ref=f20e560]: 31人购买
+            - link "木纹门框包边贴门套自粘踢脚线木门破损修复窗框遮丑修补贴纸仿木 我买过3次的宝贝 ¥ 9.9 1万+人购买" [ref=f20e563] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=636499024506&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=5333239886317&mi_id=0000HB9U8XB5blgYdNy832vZlVbEU-34sNwkpjKSYgKuHV4&utparam=%7B%22item_ctr%22%3A0.024505198001861572%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%229.9%22%2C%22item_cvr%22%3A0.18271702527999878%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%227927fc0f6edce4a3af4635bcf8497e7a%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A636499024506%7D&
+              - generic [ref=f20e566]: 木纹门框包边贴门套自粘踢脚线木门破损修复窗框遮丑修补贴纸仿木
+              - generic [ref=f20e570]: 我买过3次的宝贝
+              - generic [ref=f20e572]:
+                - generic [ref=f20e573]: ¥
+                - generic [ref=f20e574]: "9.9"
+                - generic [ref=f20e575]: 1万+人购买
+            - link "适配科沃斯X1/T10/T20/T8/T9/N8/N9扫地机轮胎皮驱动轮轮套尺寸 满2件9折 退货宝 ¥ 8.74 500+人购买" [ref=f20e578] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=898525837081&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=5751551400802&mi_id=00002m-uZ4gk-1kVDA5MuOjVedEtsd6HzoI-9cqJ7ureBVk&utparam=%7B%22item_ctr%22%3A0.07863697409629822%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%228.74%22%2C%22item_cvr%22%3A0.040162593126297%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22462e96c4faee0b11eda80e3e8ebdff9a%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A898525837081%7D&
+              - generic [ref=f20e581]: 适配科沃斯X1/T10/T20/T8/T9/N8/N9扫地机轮胎皮驱动轮轮套尺寸
+              - generic [ref=f20e583]:
+                - generic [ref=f20e584]: 满2件9折
+                - generic [ref=f20e585]: 退货宝
+              - generic [ref=f20e586]:
+                - generic [ref=f20e587]: ¥
+                - generic [ref=f20e588]: "8.74"
+                - generic [ref=f20e589]: 500+人购买
+            - link "适配小米米家扫地机器人1代电池 石头G10 S50/51/55 T6T7T8配件 退货宝 包邮 ¥ 59 1000+人购买" [ref=f20e592] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=908573289266&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=5935755606570&mi_id=0000YKIiWMPcpkbop52wbX8r91O48kYHsNxmoQimjJkm-8k&utparam=%7B%22item_ctr%22%3A0.03571704030036926%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%2259%22%2C%22item_cvr%22%3A0.05165380239486694%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22673adc1d1ad8b2d497e19593b1a49132%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A908573289266%7D&
+              - generic [ref=f20e595]: 适配小米米家扫地机器人1代电池 石头G10 S50/51/55 T6T7T8配件
+              - generic [ref=f20e597]:
+                - generic [ref=f20e598]: 退货宝
+                - generic [ref=f20e599]: 包邮
+              - generic [ref=f20e600]:
+                - generic [ref=f20e601]: ¥
+                - generic [ref=f20e602]: "59"
+                - generic [ref=f20e603]: 1000+人购买
+            - link "Apple/苹果新款Mac mini M4/M4 Pro芯片 迷你主机 二手国行 现货 超级立减1440元 包邮 ¥ 4559 200+人购买" [ref=f20e606] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=955606111624&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6107250400423&mi_id=00004IBi6YExJPv0d9HNzkIFoD9mU33PQXMdXwwdpY0_nHQ&utparam=%7B%22item_ctr%22%3A0.34751859307289124%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%224559%22%2C%22item_cvr%22%3A0.00016734004020690918%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%221fcb4cafdcb7f9bf54c5dcb05af76f92%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A955606111624%7D&
+              - generic [ref=f20e609]: Apple/苹果新款Mac mini M4/M4 Pro芯片 迷你主机 二手国行 现货
+              - generic [ref=f20e611]:
+                - generic [ref=f20e612]: 超级立减1440元
+                - generic [ref=f20e613]: 包邮
+              - generic [ref=f20e614]:
+                - generic [ref=f20e615]: ¥
+                - generic [ref=f20e616]: "4559"
+                - generic [ref=f20e617]: 200+人购买
+            - link "适用于19 21 22款雷凌中网新雷凌运动版中网前通风网散热进气格栅 退货宝 包邮 ¥ 135 57人购买" [ref=f20e620] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=649849322730&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=5667752943817&mi_id=000023fAD_BBJv2XLz9-0Xvjtz30S5dvxXAMylTFfhRmFtk&utparam=%7B%22item_ctr%22%3A0.0973757803440094%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%22135%22%2C%22item_cvr%22%3A0.006289929151535034%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%2274dbafd185d17b1528e1e9d48296d763%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A649849322730%7D&
+              - generic [ref=f20e623]: 适用于19 21 22款雷凌中网新雷凌运动版中网前通风网散热进气格栅
+              - generic [ref=f20e625]:
+                - generic [ref=f20e626]: 退货宝
+                - generic [ref=f20e627]: 包邮
+              - generic [ref=f20e628]:
+                - generic [ref=f20e629]: ¥
+                - generic [ref=f20e630]: "135"
+                - generic [ref=f20e631]: 57人购买
+            - link "娃哈哈纯净水1.5L*12瓶*2箱/1箱家庭大瓶饮用水办公泡茶非矿泉水 退货宝 ¥ 29.9 1000+人购买" [ref=f20e634] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=884298076756&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=5890351338378&mi_id=00002oMYoV8OoF9MBI36Haq9NYxC1W_OP2fh-ln15jHaEJ4&utparam=%7B%22item_ctr%22%3A0.08064663410186768%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%2229.9%22%2C%22item_cvr%22%3A0.008315801620483398%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%2272b22041551e57a4b665a494a36b4a0f%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A884298076756%7D&
+              - generic [ref=f20e637]: 娃哈哈纯净水1.5L*12瓶*2箱/1箱家庭大瓶饮用水办公泡茶非矿泉水
+              - generic [ref=f20e641]: 退货宝
+              - generic [ref=f20e643]:
+                - generic [ref=f20e644]: ¥
+                - generic [ref=f20e645]: "29.9"
+                - generic [ref=f20e646]: 1000+人购买
+            - link "适用华帝油烟机清洗水杯i11183 i11216 i11170 XS310清洗水杯水盒 包邮 ¥ 9.99 500+人购买" [ref=f20e649] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=975073518023&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6095163827662&mi_id=0000go9qGnh-ADLBR4ddkUT4q-YleyAKdjUw98EcFDtZl1s&utparam=%7B%22item_ctr%22%3A0.036373525857925415%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%229.99%22%2C%22item_cvr%22%3A0.12064582109451294%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22ae40cacd89150268648516a353d7a872%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A975073518023%7D&
+              - generic [ref=f20e652]: 适用华帝油烟机清洗水杯i11183 i11216 i11170 XS310清洗水杯水盒
+              - generic [ref=f20e654]: 包邮
+              - generic [ref=f20e656]:
+                - generic [ref=f20e657]: ¥
+                - generic [ref=f20e658]: "9.99"
+                - generic [ref=f20e659]: 500+人购买
+            - link "2024款Apple/苹果Mac mini M4芯片 16G内存 小主机 全新国行 现货 包邮 ¥ 4799 55人购买" [ref=f20e662] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=618694498393&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6119787453968&mi_id=0000sChCIHLyzNYOSBG1ry_xU8OUD7LjXH8ue8jStsR5M3I&utparam=%7B%22item_ctr%22%3A0.33048194646835327%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%224799%22%2C%22item_cvr%22%3A0.00021317601203918457%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%226550c2a4f29f363b2634cd97de86b723%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A618694498393%7D&
+              - generic [ref=f20e665]: 2024款Apple/苹果Mac mini M4芯片 16G内存 小主机 全新国行 现货
+              - generic [ref=f20e667]: 包邮
+              - generic [ref=f20e669]:
+                - generic [ref=f20e670]: ¥
+                - generic [ref=f20e671]: "4799"
+                - generic [ref=f20e672]: 55人购买
+            - link "全新银钢AT150自动档街车摩托车ABS无级变速at150新手女生小个子 包邮 ¥ 9680 23人购买" [ref=f20e675] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=835945143097&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=5780827201412&mi_id=0000FkdsOxhqxZgyfWD-yz_LzU9rXSZg8cXum4cpIRh9XL8&utparam=%7B%22item_ctr%22%3A0.13326048851013184%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%229680%22%2C%22item_cvr%22%3A0.00007843971252441406%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22f4201ac6755fdcd616932e09c2404553%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A835945143097%7D&
+              - generic [ref=f20e678]: 全新银钢AT150自动档街车摩托车ABS无级变速at150新手女生小个子
+              - generic [ref=f20e680]: 包邮
+              - generic [ref=f20e682]:
+                - generic [ref=f20e683]: ¥
+                - generic [ref=f20e684]: "9680"
+                - generic [ref=f20e685]: 23人购买
+            - link "【年度新品】QualityFirst皇后的秘密提亮收敛毛孔保湿滋润面膜 超级立减10% 退货宝 ¥ 75.13 200+人购买" [ref=f20e688] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=1030264269665&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6042770689683&mi_id=00005hiQojJ_cTMAih28n-YMCqQjEjY-Zo0XfebTtxzHhs4&utparam=%7B%22item_ctr%22%3A0.09508463740348816%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%2275.13%22%2C%22item_cvr%22%3A0.005957126617431641%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%227fb8def717e566dda8019a2a8fb89d2d%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A1030264269665%7D&
+              - generic [ref=f20e691]: 【年度新品】QualityFirst皇后的秘密提亮收敛毛孔保湿滋润面膜
+              - generic [ref=f20e695]:
+                - generic [ref=f20e696]: 超级立减10%
+                - generic [ref=f20e697]: 退货宝
+              - generic [ref=f20e698]:
+                - generic [ref=f20e699]: ¥
+                - generic [ref=f20e700]: "75.13"
+                - generic [ref=f20e701]: 200+人购买
+            - link "适用Dyson戴森吸尘器配件V6V7V8V10V11地刷吸头蓝色软管塑料维修 超级立减10% 退货宝 ¥ 11.2 1000+人购买" [ref=f20e704] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=769920928226&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6013397486361&mi_id=0000b_MZXro_TqF_9v9TWbr1utnAwsAHIRG7LqJ3oDjlFyI&utparam=%7B%22item_ctr%22%3A0.029445618391036987%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%2211.2%22%2C%22item_cvr%22%3A0.10856643319129944%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%2283f37d1559cf5e0d87cb162ce059d4c4%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A769920928226%7D&
+              - generic [ref=f20e707]: 适用Dyson戴森吸尘器配件V6V7V8V10V11地刷吸头蓝色软管塑料维修
+              - generic [ref=f20e711]:
+                - generic [ref=f20e712]: 超级立减10%
+                - generic [ref=f20e713]: 退货宝
+              - generic [ref=f20e714]:
+                - generic [ref=f20e715]: ¥
+                - generic [ref=f20e716]: "11.2"
+                - generic [ref=f20e717]: 1000+人购买
+            - link "2024新款全新定制苹果Mac Mini M4/M4Pro迷你小主机台式微型电脑 退货宝 包邮 ¥ 4099 28人购买" [ref=f20e720] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=1028096090617&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6042517912680&mi_id=0000cNIHhMJWXLvHAZfuJv48eaSzc7HHOG2IAEpGS_Lukxk&utparam=%7B%22item_ctr%22%3A0.30495426058769226%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%224099%22%2C%22item_cvr%22%3A0.00012052059173583984%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22e6de4ab07474a471600802c27e7c58d8%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A1028096090617%7D&
+              - generic [ref=f20e723]: 2024新款全新定制苹果Mac Mini M4/M4Pro迷你小主机台式微型电脑
+              - generic [ref=f20e725]:
+                - generic [ref=f20e726]: 退货宝
+                - generic [ref=f20e727]: 包邮
+              - generic [ref=f20e728]:
+                - generic [ref=f20e729]: ¥
+                - generic [ref=f20e730]: "4099"
+                - generic [ref=f20e731]: 28人购买
+            - link "冷风家的石榴会理软籽石榴五斤送货上门现摘现发新鲜水果 包邮 ¥ 29 1万+人购买" [ref=f20e734] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=735225672667&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=5715332698742&mi_id=0000p0ooafvJSPt37DKr0gzxHYfWZwLZPNrORtebad-pzh0&utparam=%7B%22item_ctr%22%3A0.060117751359939575%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%2229%22%2C%22item_cvr%22%3A0.028490006923675537%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%2246f9934b1548e81decec5c47dfbe808c%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A735225672667%7D&
+              - generic [ref=f20e737]: 冷风家的石榴会理软籽石榴五斤送货上门现摘现发新鲜水果
+              - generic [ref=f20e739]: 包邮
+              - generic [ref=f20e741]:
+                - generic [ref=f20e742]: ¥
+                - generic [ref=f20e743]: "29"
+                - generic [ref=f20e744]: 1万+人购买
+            - link "适用于小米笔记本TIMI 15.6寸TM1701 171501 181501 喇叭 扬声器 满2件9.5折 退货宝 ¥ 24.5 1000+人购买" [ref=f20e747] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=968880866620&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=5918056633920&mi_id=0000eOSWyFKoavhRf3QXTw8k0NzUF7t5v11aXbWoowcpL2w&utparam=%7B%22item_ctr%22%3A0.06357666850090027%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%2224.5%22%2C%22item_cvr%22%3A0.025323033332824707%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22e386c5a56cda11820590f5ea22e6ec3b%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A968880866620%7D&
+              - generic [ref=f20e750]: 适用于小米笔记本TIMI 15.6寸TM1701 171501 181501 喇叭 扬声器
+              - generic [ref=f20e752]:
+                - generic [ref=f20e753]: 满2件9.5折
+                - generic [ref=f20e754]: 退货宝
+              - generic [ref=f20e755]:
+                - generic [ref=f20e756]: ¥
+                - generic [ref=f20e757]: "24.5"
+                - generic [ref=f20e758]: 1000+人购买
+            - link "三星G61SD 27寸2K 240hz OLED 电竞平面游戏显示器S27DG610SB 退货宝 已抵7.6元 包邮 ¥ 2991.4 200+人购买" [ref=f20e761] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=862259158409&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6082365544144&mi_id=0000OujW_55y3l29DANvdVra9L_Ha9_agJJJrhr-oQp_4Xk&utparam=%7B%22item_ctr%22%3A0.11126795411109924%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%222991.4%22%2C%22item_cvr%22%3A0.0003250539302825928%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%22059066c0aad2fe998a47bcc5ac858584%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A862259158409%7D&
+              - generic [ref=f20e764]: 三星G61SD 27寸2K 240hz OLED 电竞平面游戏显示器S27DG610SB
+              - generic [ref=f20e766]:
+                - generic [ref=f20e767]: 退货宝
+                - generic [ref=f20e768]: 已抵7.6元
+                - generic [ref=f20e769]: 包邮
+              - generic [ref=f20e770]:
+                - generic [ref=f20e771]: ¥
+                - generic [ref=f20e772]: "2991.4"
+                - generic [ref=f20e773]: 200+人购买
+            - link "Apple/苹果 MacBook Air 13 英寸 MacBook Air M4M5笔记本电脑 包邮 ¥ 5490 89人购买" [ref=f20e776] [cursor=pointer]:
+              - /url: //item.taobao.com/item.htm?id=1016099533648&scm=1007.55713.414651.0&pvid=59675516-d1da-44d4-81e2-ca5226963f51&xxc=home_recommend&skuId=6187841131771&mi_id=0000zRHZCZSGewMXcKtWqnphiwmQtfnx6VMMuQc9P9_a8uM&utparam=%7B%22item_ctr%22%3A0.2949199378490448%2C%22x_object_type%22%3A%22item%22%2C%22item_price%22%3A%225490%22%2C%22item_cvr%22%3A0.00020825862884521484%2C%22pc_scene%22%3A%2220001%22%2C%22aplus_abtest%22%3A%2234aaae2aab6f9631cf2e002b9ac3e6c5%22%2C%22tpp_buckets%22%3A%22%22%2C%22ab_info%22%3A%22%22%2C%22abid%22%3A%220%22%2C%22pc_pvid%22%3A%2259675516-d1da-44d4-81e2-ca5226963f51%22%2C%22mix_group%22%3A%22L5%22%2C%22item_ecpm%22%3A0%2C%22x_object_id%22%3A1016099533648%7D&
+              - generic [ref=f20e779]: Apple/苹果 MacBook Air 13 英寸 MacBook Air M4M5笔记本电脑
+              - generic [ref=f20e781]: 包邮
+              - generic [ref=f20e783]:
+                - generic [ref=f20e784]: ¥
+                - generic [ref=f20e785]: "5490"
+                - generic [ref=f20e786]: 89人购买
+  - generic:
+    - generic:
+      - generic [ref=f20e788]:
+        - tab "" [ref=f20e790] [cursor=pointer]
+        - generic [ref=f20e793]:
+          - tab "" [ref=f20e795] [cursor=pointer]
+          - tab [ref=f20e799] [cursor=pointer]
+      - generic:
+        - generic:
+          - generic: 
+          - text:  
+  - generic [ref=f20e805]:
+    - link [ref=f20e807] [cursor=pointer]:
+      - /url: //www.taobao.com
+    - link [ref=f20e810] [cursor=pointer]:
+      - /url: https://pc.taobao.com?channel=mytao
+    - generic [ref=f20e812] [cursor=pointer]: "56"
+    - link "31" [ref=f20e817] [cursor=pointer]:
+      - /url: //cart.taobao.com
+    - link [ref=f20e821] [cursor=pointer]:
+      - /url: https://survey.taobao.com/apps/zhiliao/RYFz99-gj
+    - generic [ref=f20e823] [cursor=pointer]

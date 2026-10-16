@@ -1,0 +1,7 @@
+{
+  "name": "xiaoxin-assistant",
+  "version": "1.1.0",
+  "description": "Rokid AIUI Q&A assistant backed by a locally deployed LLM",
+  "main": "app.js",
+  "dependencies": {}
+}

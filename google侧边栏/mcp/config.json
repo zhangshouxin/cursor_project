@@ -1,0 +1,6 @@
+{
+  "browser": {
+    "cdpEndpoint": "chrome"
+  },
+  "capabilities": ["core", "vision"]
+}

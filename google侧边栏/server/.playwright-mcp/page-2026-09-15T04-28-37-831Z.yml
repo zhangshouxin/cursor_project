@@ -1,0 +1,155 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - generic [ref=e8]:
+            - link "新闻" [ref=e9] [cursor=pointer]:
+              - /url: http://news.baidu.com
+            - link "hao123" [ref=e10] [cursor=pointer]:
+              - /url: https://www.hao123.com?src=from_pc
+            - link "地图" [ref=e11] [cursor=pointer]:
+              - /url: http://map.baidu.com
+            - link "贴吧" [ref=e12] [cursor=pointer]:
+              - /url: http://tieba.baidu.com/
+            - link "视频" [ref=e13] [cursor=pointer]:
+              - /url: https://haokan.baidu.com/?sfrom=baidu-top
+            - link "图片" [ref=e14] [cursor=pointer]:
+              - /url: http://image.baidu.com/
+            - link "网盘" [ref=e15] [cursor=pointer]:
+              - /url: https://pan.baidu.com?from=1026962h
+            - link "库库AI" [ref=e16] [cursor=pointer]:
+              - /url: https://kuku.baidu.com/app?utm_source=baidu
+            - link "文心" [ref=e17] [cursor=pointer]:
+              - /url: https://chat.baidu.com/search?isShowHello=1&pd=csaitab&setype=csaitab&extParamsJson=%7B%22enter_type%22%3A%22home_tab%22%7D
+            - link "百度搭子" [ref=e18] [cursor=pointer]:
+              - /url: https://dumate.baidu.com/app/login-bridge?track=1063479e
+          - generic [ref=e19]:
+            - link "更多" [ref=e20] [cursor=pointer]:
+              - /url: http://www.baidu.com/more/
+            - text: 
+        - generic [ref=e21]:
+          - generic [ref=e22] [cursor=pointer]: 设置
+          - link "登录" [ref=e23] [cursor=pointer]:
+            - /url: https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F&sms=5
+      - generic [ref=e26]:
+        - generic [ref=e27]:
+          - generic:
+            - link "点击一下，了解更多":
+              - /url: //www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E7%83%AD%E6%90%9C&sa=ire_dl_gh_logo_texing&rsv_dl=igh_logo_pcs
+        - generic [ref=e33]:
+          - generic [ref=e36]:
+            - textbox [ref=e38]
+            - generic [ref=e40]:
+              - generic [ref=e41]:
+                - generic [ref=e43] [cursor=pointer]
+                - generic [ref=e54] [cursor=pointer]
+              - button "百度一下" [ref=e59] [cursor=pointer]
+          - link "复杂问题就找文心助手，深入思考回答更优 " [ref=e62] [cursor=pointer]:
+            - /url: https://wenxin.baidu.com/?extParams=%7B%22enter_type%22%3A%22home_operate%22%7D
+            - generic [ref=e64]:
+              - generic [ref=e65]: 复杂问题就找文心助手，深入思考回答更优
+              - generic [ref=e66]: 
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - link "百度热搜":
+              - /url: https://top.baidu.com/board?platform=pc&sa=pcindex_entry
+              - generic "百度热搜" [ref=e69] [cursor=pointer]: 
+            - generic [ref=e70] [cursor=pointer]:
+              - generic [ref=e71]: 
+              - text: 换一换
+          - list:
+            - listitem [ref=e72]:
+              - link " 勇做时代先锋 汇聚团结力量" [ref=e73] [cursor=pointer]:
+                - /url: https://www.baidu.com/s?wd=%E5%8B%87%E5%81%9A%E6%97%B6%E4%BB%A3%E5%85%88%E9%94%8B+%E6%B1%87%E8%81%9A%E5%9B%A2%E7%BB%93%E5%8A%9B%E9%87%8F&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+                - generic [ref=e74]: 
+                - text: 勇做时代先锋 汇聚团结力量
+            - listitem [ref=e76]:
+              - link "5 本科生扎堆回炉读技校" [ref=e77] [cursor=pointer]:
+                - /url: https://www.baidu.com/s?wd=%E6%9C%AC%E7%A7%91%E7%94%9F%E6%89%8E%E5%A0%86%E5%9B%9E%E7%82%89%E8%AF%BB%E6%8A%80%E6%A0%A1&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+                - generic [ref=e78]: "5"
+                - text: 本科生扎堆回炉读技校
+              - generic [ref=e79]: 热
+            - listitem [ref=e80]:
+              - link "1 电池税正式落地对新能源车意味着什么" [ref=e81] [cursor=pointer]:
+                - /url: https://www.baidu.com/s?wd=%E7%94%B5%E6%B1%A0%E7%A8%8E%E6%AD%A3%E5%BC%8F%E8%90%BD%E5%9C%B0%E5%AF%B9%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+                - generic [ref=e82]: "1"
+                - text: 电池税正式落地对新能源车意味着什么
+              - generic [ref=e83]: 热
+            - listitem [ref=e84]:
+              - link "6 烧烤店主：文旅局的回复没法听" [ref=e85] [cursor=pointer]:
+                - /url: https://www.baidu.com/s?wd=%E7%83%A7%E7%83%A4%E5%BA%97%E4%B8%BB%EF%BC%9A%E6%96%87%E6%97%85%E5%B1%80%E7%9A%84%E5%9B%9E%E5%A4%8D%E6%B2%A1%E6%B3%95%E5%90%AC&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+                - generic [ref=e86]: "6"
+                - text: 烧烤店主：文旅局的回复没法听
+            - listitem [ref=e88]:
+              - link "2 塔克拉玛干沙漠发现大型水源" [ref=e89] [cursor=pointer]:
+                - /url: https://www.baidu.com/s?wd=%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E5%8F%91%E7%8E%B0%E5%A4%A7%E5%9E%8B%E6%B0%B4%E6%BA%90&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+                - generic [ref=e90]: "2"
+                - text: 塔克拉玛干沙漠发现大型水源
+              - generic [ref=e91]: 新
+            - listitem [ref=e92]:
+              - link "7 女婴身亡月子中心产妇全部搬离" [ref=e93] [cursor=pointer]:
+                - /url: https://www.baidu.com/s?wd=%E5%A5%B3%E5%A9%B4%E8%BA%AB%E4%BA%A1%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E4%BA%A7%E5%A6%87%E5%85%A8%E9%83%A8%E6%90%AC%E7%A6%BB&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+                - generic [ref=e94]: "7"
+                - text: 女婴身亡月子中心产妇全部搬离
+              - generic [ref=e95]: 新
+            - listitem [ref=e96]:
+              - link "3 外籍游客爱上中国秋日深度游" [ref=e97] [cursor=pointer]:
+                - /url: https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E6%B8%B8%E5%AE%A2%E7%88%B1%E4%B8%8A%E4%B8%AD%E5%9B%BD%E7%A7%8B%E6%97%A5%E6%B7%B1%E5%BA%A6%E6%B8%B8&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+                - generic [ref=e98]: "3"
+                - text: 外籍游客爱上中国秋日深度游
+            - listitem [ref=e100]:
+              - link "8 12306回应男子高铁喝白酒" [ref=e101] [cursor=pointer]:
+                - /url: https://www.baidu.com/s?wd=12306%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E9%AB%98%E9%93%81%E5%96%9D%E7%99%BD%E9%85%92&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+                - generic [ref=e102]: "8"
+                - text: 12306回应男子高铁喝白酒
+            - listitem [ref=e104]:
+              - link "4 演唱会求婚当事人称已报警" [ref=e105] [cursor=pointer]:
+                - /url: https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B7%B2%E6%8A%A5%E8%AD%A6&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+                - generic [ref=e106]: "4"
+                - text: 演唱会求婚当事人称已报警
+              - generic [ref=e107]: 热
+            - listitem [ref=e108]:
+              - link "9 哈萨克斯坦执勤女警遭公主抱被开除" [ref=e109] [cursor=pointer]:
+                - /url: https://www.baidu.com/s?wd=%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E6%89%A7%E5%8B%A4%E5%A5%B3%E8%AD%A6%E9%81%AD%E5%85%AC%E4%B8%BB%E6%8A%B1%E8%A2%AB%E5%BC%80%E9%99%A4&sa=fyb_n_homepage&rsv_dl=fyb_n_homepage&from=super&cl=3&tn=baidutop10&fr=top1000&rsv_idx=2&hisfilter=1
+                - generic [ref=e110]: "9"
+                - text: 哈萨克斯坦执勤女警遭公主抱被开除
+      - generic [ref=e113]:
+        - paragraph [ref=e114]:
+          - link "关于百度" [ref=e115] [cursor=pointer]:
+            - /url: //home.baidu.com
+        - paragraph [ref=e116]:
+          - link "About Baidu" [ref=e117] [cursor=pointer]:
+            - /url: http://ir.baidu.com
+        - paragraph [ref=e118]:
+          - link "使用百度前必读" [ref=e119] [cursor=pointer]:
+            - /url: //www.baidu.com/duty
+        - paragraph [ref=e120]:
+          - link "帮助中心" [ref=e121] [cursor=pointer]:
+            - /url: https://help.baidu.com/question?prod_id=1
+        - paragraph [ref=e122]:
+          - link "企业推广" [ref=e123] [cursor=pointer]:
+            - /url: https://e.baidu.com/?refer=1271
+        - paragraph [ref=e124]:
+          - link "京公网安备11010802050023号" [ref=e125] [cursor=pointer]:
+            - /url: https://beian.mps.gov.cn/#/query/webSearch?code=11010802050023
+        - paragraph [ref=e126]:
+          - link "京ICP证030173号" [ref=e127] [cursor=pointer]:
+            - /url: https://beian.miit.gov.cn
+        - paragraph [ref=e128]: 互联网新闻信息服务许可证11220180008
+        - paragraph [ref=e129]: 网络文化经营许可证： 京网文〔2026〕0171-042号
+        - paragraph [ref=e130]:
+          - link "信息网络传播视听节目许可证 0110516" [ref=e131] [cursor=pointer]:
+            - /url: //www.baidu.com/licence/
+        - generic [ref=e132]: 
+        - generic [ref=e133]: 
+    - generic [ref=e134]:
+      - generic [ref=e135]: 下载
+      - generic [ref=e141] [cursor=pointer]: 辅助
+  - generic:
+    - generic:
+      - tab [ref=e150] [cursor=pointer]
+      - generic:
+        - generic:
+          - generic: 
+          - text:  
